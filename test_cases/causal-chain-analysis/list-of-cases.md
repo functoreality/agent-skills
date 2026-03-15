@@ -1,5 +1,10 @@
 ## 日常生活
 
+### 健身增肌
+
+* 问题描述：`我想多增长一点肌肉，但是我一周能去健身房的时间太少了。`
+* 结果示例：[v260315-opencode-glm5](fitness-for-muscle-growth/v260315-opencode-glm5.md)
+
 ### 花粉过敏
 
 * 问题描述：`北京的春天的花粉太多了，害得我眼睛过敏，结膜炎特别痒，现在每次出门都必须戴护目镜才行`
@@ -70,7 +75,7 @@
 ```
 
 * 问题来源：https://mp.weixin.qq.com/s/rZkNc1gLx7gq-jdwyr-tKg
-* 结果示例：[v260315-opencode-glm5](3d-print-robot-gas-leakage/v260315-opencode-glm5.md)
+* 结果示例：[v260315-opencode-deepseek-v3.2](3d-print-robot-gas-leakage/v260315-opencode-deepseek-v3.2.md)
 
 ## AI 技术
 
