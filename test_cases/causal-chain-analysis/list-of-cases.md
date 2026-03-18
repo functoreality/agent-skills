@@ -32,7 +32,8 @@
 ```
 
 * 问题来源：阿奇舒勒《创新算法》第二章问题 9
-* 结果示例：[v260315-opencode-glm5](pool-increase-oxygen/v260315-opencode-glm5.md)
+* 结果示例：[prompt2-v260315-opencode-glm5](pool-increase-oxygen/prompt2-v260315-opencode-glm5.md)
+* 作者补注：让智能体直接分析的结果有些跑偏了，这个是手动追加了关于“初始缺点”的提示之后的结果
 
 ### 番茄输送管道
 
