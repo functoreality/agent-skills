@@ -1,0 +1,79 @@
+https://mp.weixin.qq.com/s/LS2zK_mD68e653_ao2QeZg
+
+arXiv最新 | 神秘的训练loss尖峰是精度问题
+
+训练神经网络时，不少人见过这样的曲线：
+
+loss下降到极低，然后突然飙升，再缓慢恢复，周而复始，像有节律的心跳。
+
+这就是所谓的Slingshot机制，多年来被当作优化动力学里的神秘现象来研究。
+
+清华+东大的一篇论文，认为这不是什么深刻的优化动力学，而是float32的精度问题。
+图片
+
+具体来说，故事从训练后期开始。
+
+模型训练久了，进入一个高置信阶段，正确类别的logit比其他类别大出很多。
+
+当这个差距超过float32的精度阈值（由23位mantissa决定），PyTorch计算log-sum-exp时就会发生"吸收误差"：
+
+正确类的softmax梯度被精确地舍入为零，而其他类的梯度仍然非零。
+
+这个现象叫Softmax Collapse（SC）。
+
+SC本身早有人发现，但这篇文章揭示了它更深的连锁反应。
+
+在精确算术里，cross-entropy对所有类的梯度之和恒为零（零和约束），所以权重的均值（或者说重心）也是恒定的。
+
+SC发生后，正确类梯度消失，这个约束被打破。
+
+classifier的权重均值WG开始偏移，并且是沿着feature均值µG的反方向漂移（这个能算出来）。
+
+然后这个漂移又会反过来影响feature本身，两者互相放大，形成正反馈。
+
+WG和µG越来越反平行（因为µG越来越指向-WG），模长指数增长。
+
+论文把这套机制叫做Numerical Feature Inflation（NFI）。
+图片
+
+NFI的指数增长最终会让某些训练样本的logit跌回到SC阈值以下，这时候正确类梯度突然回来了。
+
+但在此期间，由于梯度一直接近零，Adam积累的有效学习率已被放大到极限，相当于η/ε_Adam这个量级。
+
+梯度一旦复活，Adam用这个超大的有效步长一刀切下去，参数更新幅度比正常大约50倍。
+
+loss直接被打飞到接近随机猜测的水平。
+
+这就是Slingshot尖峰的全貌。
+
+最直接的验证实验是，只要在计算logit/loss时把精度切换到float64（参数仍用float32存储），Slingshot就完全消失。
+
+或者把Adam的ε从默认的1e-8调到1e-5，尖峰同样消失。
+
+在classifier之前加BatchNorm也有效，因为BN隐式地强制了特征均值为零，阻断了NFI的反馈回路。
+
+其实这篇文章并不否认Slingshot和grokking的联系。
+
+论文认为这些尖峰充当了隐式扰动。
+
+让训练在不同区域重新探索，最终落入更平坦、更泛化的解。
+
+🔧可使用arXivSub查阅更多论文
+每日自动总结 500+篇论文，并挑选与您兴趣相关的论文发送到您的邮箱；
+支持搜索arXiv论文和4w+篇顶级AI会议论文(CVPR、ICCV、ICML, ICLR, NeurlPS, AAAl, MICCAl)；
+arXiv趋势洞察；Claude Skill等更多功能。
+（注册即可获得七天全解锁体验）
+
+📬arXivSub:  arxivsub.comfyai.app
+
+📬LLM全英文免费教程:  comfyai.app
+
+#arxiv#  #大语言模型  #每日论文  #医学影像  #多模态  #agent  #医学图像  #LLM  #智能体  #benchmark #AI #文献 #arxivsub
+
+往期大家都在看
+
+arXiv最新 | LLM用正交子空间泛化新老任务
+
+ICML 2026 | LLM的注意力sink被解释清楚了
+
+arXiv最新 | 对AI的信任不来自于可解释性

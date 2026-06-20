@@ -78,12 +78,7 @@
 * 问题来源：https://mp.weixin.qq.com/s/rZkNc1gLx7gq-jdwyr-tKg
 * 结果示例：[v260315-opencode-deepseek-v3.2](3d-print-robot-gas-leakage/v260315-opencode-deepseek-v3.2.md)
 
-## AI 技术
-
-### Transformer 注意力复杂度
-
-* 问题描述：`Transformer 注意力计算量太大`
-* 结果示例：[v260315-opencode-glm5](transformer-attention-complexity/v260315-opencode-glm5.md)
+## AI 工具
 
 ### skill 自我改进
 
@@ -97,6 +92,25 @@
 
 * 作者补注：不是所有模型都会出现这个问题
 * 结果示例：[v260315-opencode-glm5](skill-self-improvement/v260315-opencode-glm5.md)
+
+### AI 讨好用户
+
+* 问题描述：`比方说一个人。他有一个什么想法。他告诉 AI 我有一个想法，哪怕他那个想法糟糕透顶，AI 很有可能也不会直接告诉他，会顺着他说`
+* 问题来源：https://mp.weixin.qq.com/s/mhF6XhgM0Lh3VeNCbwbt0w
+* 结果示例：[prompt2-v260315-opencode-glm5.1](ai-sycophancy/prompt2-v260315-opencode-glm5.1.md)
+
+## AI 算法
+
+### Transformer 注意力复杂度
+
+* 问题描述：`Transformer 注意力计算量太大`
+* 结果示例：[v260315-opencode-glm5](transformer-attention-complexity/v260315-opencode-glm5.md)
+
+### fp32 精度不足导致训练 loss spike
+
+* [问题描述](loss-spike-from-nfi/prompt.txt)
+* 问题来源：https://mp.weixin.qq.com/s/LS2zK_mD68e653_ao2QeZg
+* 结果示例：[v260315-opencode-glm5](loss-spike-from-nfi/v260315-opencode-glm5.1-sub_mimo_v2.5.md)
 
 ## 其他
 ### 全球变暖
