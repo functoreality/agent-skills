@@ -1,0 +1,64 @@
+#!/usr/bin/env python3
+"""Scan for notation violations in causal chain analysis files.
+
+Checks each line against a list of regex patterns derived from
+references/notation_specification.md.
+
+Usage: check-notation <file>
+Exit codes: 0 = no violations, 1 = violations found
+"""
+
+import re
+import sys
+
+# Pattern list (union of scripts-design.md and notation_specification.md).
+# `为` covers `为了` as a substring match.
+PATTERNS = [
+    ('因果关系', r'导致|引起|使|时'),
+    ('多因素', r'和|与|及|或|且'),
+    ('动机', r'要|为|旨在|以'),
+    ('价值判断', r'不合理|不良|糟糕'),
+    ('否定', r'未|没有'),
+    ('程度描述', r'至'),
+    ('模糊表述', r'几乎|差不多'),
+]
+
+
+def main():
+    if len(sys.argv) != 2:
+        print("Usage: check-notation <file>", file=sys.stderr)
+        sys.exit(2)
+
+    filepath = sys.argv[1]
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            lines = f.read().splitlines()
+    except Exception as e:
+        print(f"Error: {e}", file=sys.stderr)
+        sys.exit(2)
+
+    violations = []
+    for i, line in enumerate(lines):
+        if line.strip() == '':
+            continue
+        for vtype, pattern in PATTERNS:
+            match = re.search(pattern, line)
+            if match:
+                violations.append((i + 1, vtype, match.group(), line.strip()))
+
+    if violations:
+        for lineno, vtype, matched, content in violations:
+            if len(content) > 70:
+                content = content[:70] + '...'
+            print(f"行 {lineno}：{vtype} \u2192 {matched}")
+            print(f"  {content}")
+        print()
+        print("注意：以上结果可能包含机械误报，需人工语义复查。")
+        sys.exit(1)
+    else:
+        print("无违规表述")
+        sys.exit(0)
+
+
+if __name__ == '__main__':
+    main()

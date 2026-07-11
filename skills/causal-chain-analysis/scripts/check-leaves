@@ -1,0 +1,78 @@
+#!/usr/bin/env python3
+"""Find non-terminal leaf nodes in causal chain analysis files.
+
+A leaf node is a non-terminal node (no ：末端/：上方已分析/：下方已分析 marker)
+whose next non-empty line is not at depth = current depth + 1.
+
+Only lines starting with '- ' or '* ' (after stripping tabs) are considered
+nodes.
+
+Usage: check-leaves <file>
+Exit codes: 0 = no leaves, 1 = leaves found
+"""
+
+import sys
+
+
+def compute_depth(line):
+    """Count leading tab characters."""
+    return len(line) - len(line.lstrip('\t'))
+
+
+def is_node(line):
+    """Check if line is a causal chain node (starts with - or * after tabs)."""
+    stripped = line.lstrip('\t')
+    return stripped.startswith('- ') or stripped.startswith('* ')
+
+
+def is_terminal(line):
+    """Check if line is marked as terminal or already analyzed."""
+    return any(m in line for m in ('：末端', '：上方已分析', '：下方已分析'))
+
+
+def main():
+    if len(sys.argv) != 2:
+        print("Usage: check-leaves <file>", file=sys.stderr)
+        sys.exit(2)
+
+    filepath = sys.argv[1]
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            lines = f.read().splitlines()
+    except Exception as e:
+        print(f"Error: {e}", file=sys.stderr)
+        sys.exit(2)
+
+    leaves = []
+    for i, line in enumerate(lines):
+        if not is_node(line):
+            continue
+        if is_terminal(line):
+            continue
+
+        depth = compute_depth(line)
+
+        # Find next non-empty line
+        next_depth = None
+        for j in range(i + 1, len(lines)):
+            if lines[j].strip() != '':
+                next_depth = compute_depth(lines[j])
+                break
+
+        if next_depth is None or next_depth != depth + 1:
+            content = line.lstrip('\t')
+            if len(content) > 70:
+                content = content[:70] + '...'
+            leaves.append((i + 1, content))
+
+    if leaves:
+        for lineno, content in leaves:
+            print(f"行 {lineno}：{content}")
+        sys.exit(1)
+    else:
+        print("无未展开叶子节点")
+        sys.exit(0)
+
+
+if __name__ == '__main__':
+    main()

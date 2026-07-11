@@ -13,7 +13,7 @@
 ### 白板磁吸滑落
 
 * 问题描述：`我用磁铁把纸贴在白板上，但是纸掉下来了`
-* 结果示例：[v260315-opencode-glm5](magnet-paper-whiteboard/v260315-opencode-glm5.md)
+* 结果示例：[v260711-opencode-deepseek-v4-pro-manual-guidance](magnet-paper-whiteboard/v260711-opencode-deepseek-v4-pro-manual-guidance.md)
 
 ### 书放包里卷边
 
@@ -45,7 +45,7 @@
 ```
 
 * 问题来源：阿奇舒勒《创新算法》第二章问题 12
-* 结果示例：[v260315-opencode-glm5](tomato-transport-pipe/v260315-opencode-glm5.md)
+* 结果示例：[v260711-opencode-deepseek-v4-pro-manual-guidance](tomato-transport-pipe/v260711-opencode-deepseek-v4-pro-manual-guidance.md)
 
 ### 陨石撞击模拟
 
@@ -104,13 +104,13 @@
 ### Transformer 注意力复杂度
 
 * 问题描述：`Transformer 注意力计算量太大`
-* 结果示例：[v260315-opencode-glm5](transformer-attention-complexity/v260315-opencode-glm5.md)
+* 结果示例：[v260711-opencode-deepseek-v4-pro-manual-guidance](transformer-attention-complexity/v260711-opencode-deepseek-v4-pro-manual-guidance.md)
 
 ### fp32 精度不足导致训练 loss spike
 
 * [问题描述](loss-spike-from-nfi/prompt.txt)
 * 问题来源：https://mp.weixin.qq.com/s/LS2zK_mD68e653_ao2QeZg
-* 结果示例：[v260315-opencode-glm5](loss-spike-from-nfi/v260315-opencode-glm5.1-sub_mimo_v2.5.md)
+* 结果示例：[v260711-opencode-deepseek-v4-pro-manual-guidance](loss-spike-from-nfi/v260711-opencode-deepseek-v4-pro-manual-guidance.md)
 
 ## 其他
 ### 全球变暖
