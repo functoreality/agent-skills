@@ -2,7 +2,7 @@
 """Scan for notation violations in causal chain analysis files.
 
 Checks each line against a list of regex patterns derived from
-references/notation_specification.md.
+references/factor_definition.md.
 
 Usage: check-notation <file>
 Exit codes: 0 = no violations, 1 = violations found
@@ -11,16 +11,16 @@ Exit codes: 0 = no violations, 1 = violations found
 import re
 import sys
 
-# Pattern list (union of scripts-design.md and notation_specification.md).
-# `为` covers `为了` as a substring match.
+# Pattern list
+# `为` covers `为了`, `要` covers `需要` as substring matches.
 PATTERNS = [
-    ('因果关系', r'导致|引起|使|时'),
+    ('因果关系', r'导致|引起|使|时|引发|造成|而|因|由于'),
     ('多因素', r'和|与|及|或|且'),
     ('动机', r'要|为|旨在|以'),
-    ('价值判断', r'不合理|不良|糟糕'),
-    ('否定', r'未|没有'),
-    ('程度描述', r'至'),
-    ('模糊表述', r'几乎|差不多'),
+    ('价值判断', r'合理|不良|糟糕|不妥|欠佳'),
+    ('否定', r'未|没有|无法|不能'),
+    ('程度描述', r'至'),  # |大幅|急剧|显著
+    # ('模糊表述', r'几乎|差不多|大约|大概|似乎|可能'),
 ]
 
 
@@ -53,10 +53,10 @@ def main():
             print(f"行 {lineno}：{vtype} \u2192 {matched}")
             print(f"  {content}")
         print()
-        print("注意：以上结果可能包含机械误报，需人工语义复查。")
+        print("注意：关键词匹配结果可能包含机械误报、漏报，需人工语义复核。")
         sys.exit(1)
     else:
-        print("无违规表述")
+        print("未检测到违规表述")
         sys.exit(0)
 
 
