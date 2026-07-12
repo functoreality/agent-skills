@@ -1,16 +1,24 @@
 #!/usr/bin/env python3
-"""Find non-terminal leaf nodes in causal chain analysis files.
+"""Find leaf nodes in causal chain analysis files.
 
-A leaf node is a non-terminal node (no ：末端/：上方已分析/：下方已分析 marker)
-whose next non-empty line is not at depth = current depth + 1.
+A leaf node is a node whose next non-empty line is not at a deeper indent,
+i.e. it has no children. Such nodes are leaves of their folded subtree.
+
+Filtering via CLI (mutually exclusive):
+  (default)        show all leaf nodes (terminal or not)
+  --terminal       show only leaf nodes marked as terminal / already analyzed
+  --non-terminal   show only leaf nodes without such markers
+
+Terminal markers recognized: ：末端 / ：上方已分析 / ：下方已分析 / ：单独深入分析
 
 Only lines starting with '- ' or '* ' (after stripping tabs) are considered
 nodes.
 
-Usage: check-leaves <file>
-Exit codes: 0 = no leaves, 1 = leaves found
+Usage: check-leaves <file> [--terminal | --non-terminal]
+Exit codes: 0 = no leaves matched, 1 = leaves matched, 2 = usage error
 """
 
+import argparse
 import sys
 
 
@@ -27,27 +35,29 @@ def is_node(line):
 
 def is_terminal(line):
     """Check if line is marked as terminal or already analyzed."""
-    return any(m in line for m in ('：末端', '：上方已分析', '：下方已分析'))
+    return any(m in line for m in ('：末端', '：上方已分析', '：下方已分析', '：单独深入分析'))
 
 
 def main():
-    if len(sys.argv) != 2:
-        print("Usage: check-leaves <file>", file=sys.stderr)
-        sys.exit(2)
+    parser = argparse.ArgumentParser(
+        description='Find leaf nodes in causal chain analysis files.')
+    parser.add_argument('file', help='causal chain analysis markdown file')
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument('--terminal', action='store_true',
+                       help='only show leaf nodes marked terminal/analyzed')
+    group.add_argument('--non-terminal', action='store_true',
+                       help='only show leaf nodes without terminal markers')
+    args = parser.parse_args()
 
-    filepath = sys.argv[1]
     try:
-        with open(filepath, 'r', encoding='utf-8') as f:
+        with open(args.file, 'r', encoding='utf-8') as f:
             lines = f.read().splitlines()
     except Exception as e:
-        print(f"Error: {e}", file=sys.stderr)
-        sys.exit(2)
+        parser.error(f"Error: {e}")
 
     leaves = []
     for i, line in enumerate(lines):
         if not is_node(line):
-            continue
-        if is_terminal(line):
             continue
 
         depth = compute_depth(line)
@@ -59,7 +69,13 @@ def main():
                 next_depth = compute_depth(lines[j])
                 break
 
-        if next_depth is None or next_depth != depth + 1:
+        # Leaf = no child: next line is not deeper than current.
+        if next_depth is None or next_depth <= depth:
+            terminal = is_terminal(line)
+            if args.terminal and not terminal:
+                continue
+            if args.non_terminal and terminal:
+                continue
             content = line.lstrip('\t')
             if len(content) > 70:
                 content = content[:70] + '...'
@@ -70,7 +86,12 @@ def main():
             print(f"行 {lineno}：{content}")
         sys.exit(1)
     else:
-        print("无未展开叶子节点")
+        if args.terminal:
+            print("无末端叶子节点")
+        elif args.non_terminal:
+            print("无未展开叶子节点")
+        else:
+            print("无叶子节点")
         sys.exit(0)
 
 
