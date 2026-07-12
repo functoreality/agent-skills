@@ -1,11 +1,11 @@
 ## 日常生活
 
-### 健身增肌
+### 健身时间受限
 
 * 问题描述：`我想多增长一点肌肉，但是我一周能去健身房的时间太少了。`
 * 结果示例：[v260315-opencode-glm5](fitness-for-muscle-growth/v260315-opencode-glm5.md)
 
-### 花粉过敏
+### 春季花粉过敏
 
 * 问题描述：`北京的春天的花粉太多了，害得我眼睛过敏，结膜炎特别痒，现在每次出门都必须戴护目镜才行`
 * 结果示例：[v260315-opencode-glm5](pollen-allergy/v260315-opencode-glm5.md)
@@ -15,14 +15,14 @@
 * 问题描述：`我用磁铁把纸贴在白板上，但是纸掉下来了`
 * 结果示例：[v260711-opencode-deepseek-v4-pro-manual-guidance](magnet-paper-whiteboard/v260711-opencode-deepseek-v4-pro-manual-guidance.md)
 
-### 书放包里卷边
+### 包内书本卷边
 
 * 问题描述：`书本或笔记放在包里久了，页面卷边或折角。`
 * 结果示例：[v260315-openclaw-glm5](schoolbag-book-torn/v260315-openclaw-glm5.md)
 
-## 技术工程
+## 机械装置
 
-### 鱼塘增氧
+### 鱼塘供氧低效
 
 问题描述：
 
@@ -35,7 +35,7 @@
 * 结果示例：[prompt2-v260315-opencode-glm5](pool-increase-oxygen/prompt2-v260315-opencode-glm5.md)
 * 作者补注：让智能体直接分析的结果有些跑偏了，这个是手动追加了关于“初始缺点”的提示之后的结果
 
-### 番茄输送管道
+### 番茄输运损坏
 
 问题描述：
 
@@ -47,7 +47,7 @@
 * 问题来源：阿奇舒勒《创新算法》第二章问题 12
 * 结果示例：[v260711-opencode-deepseek-v4-pro-manual-guidance](tomato-transport-pipe/v260711-opencode-deepseek-v4-pro-manual-guidance.md)
 
-### 陨石撞击模拟
+### 钢球发射解体
 
 问题描述：
 
@@ -64,9 +64,9 @@
 ```
 
 * 问题来源：檀润华《TRIZ及应用》10.5 节
-* 结果示例：[v260315-opencode-glm5](meteoroid-impact/v260315-opencode-glm5.md)
+* 结果示例：[v260712-opencode-glm5.2.md](meteoroid-impact/v260712-opencode-glm5.2.md)
 
-### 软体机器人漏气
+### 软体机器漏气
 
 问题描述：
 
@@ -78,9 +78,9 @@
 * 问题来源：https://mp.weixin.qq.com/s/rZkNc1gLx7gq-jdwyr-tKg
 * 结果示例：[v260315-opencode-deepseek-v3.2](3d-print-robot-gas-leakage/v260315-opencode-deepseek-v3.2.md)
 
-## AI 工具
+## AI 使用
 
-### skill 自我改进
+### skill 表现不佳
 
 问题描述：
 
@@ -106,7 +106,7 @@
 * 问题描述：`Transformer 注意力计算量太大`
 * 结果示例：[v260711-opencode-deepseek-v4-pro-manual-guidance](transformer-attention-complexity/v260711-opencode-deepseek-v4-pro-manual-guidance.md)
 
-### fp32 精度不足导致训练 loss spike
+### fp32 导致 loss spike
 
 * [问题描述](loss-spike-from-nfi/prompt.txt)
 * 问题来源：https://mp.weixin.qq.com/s/LS2zK_mD68e653_ao2QeZg
