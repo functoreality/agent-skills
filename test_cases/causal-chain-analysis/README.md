@@ -64,7 +64,7 @@
 ```
 
 * 问题来源：檀润华《TRIZ及应用》10.5 节
-* 结果示例：[v260712-opencode-glm5.2.md](meteoroid-impact/v260712-opencode-glm5.2.md)
+* 结果示例：[v260712-opencode-glm5.2](meteoroid-impact/v260712-opencode-glm5.2.md)
 
 ### 软体机器漏气
 
