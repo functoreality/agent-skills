@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 """Find leaf nodes in causal chain analysis files.
 
-A leaf node is a node whose next non-empty line is not at a deeper indent,
-i.e. it has no children. Such nodes are leaves of their folded subtree.
+A leaf node is a node with no children. A child is either at a deeper indent
+(normal) or at the same indent using arrow shorthand (←). Such nodes are
+leaves of their folded subtree.
 
 Filtering via CLI (mutually exclusive):
   (default)        show all leaf nodes (terminal or not)
   --terminal       show only leaf nodes marked as terminal / already analyzed
   --non-terminal   show only leaf nodes without such markers
 
-Terminal markers recognized: ：末端 / ：上方已分析 / ：下方已分析 / ：单独深入分析
+Terminal markers recognized: ：末端/上方已分析/下方已分析/单独深入分析/循环因果
 
 Only lines starting with '- ' or '* ' (after stripping tabs) are considered
 nodes.
@@ -35,7 +36,14 @@ def is_node(line):
 
 def is_terminal(line):
     """Check if line is marked as terminal or already analyzed."""
-    return any(m in line for m in ('：末端', '：上方已分析', '：下方已分析', '：单独深入分析'))
+    return any(m in line for m in ('：末端', '：上方已分析', '：下方已分析',
+                                   '：单独深入分析', '：循环因果'))
+
+
+def is_arrow_child(line):
+    """Check if line uses arrow shorthand (←) as a same-depth child."""
+    stripped = line.lstrip('\t')
+    return stripped.startswith(('* ←', '- ←'))
 
 
 def main():
@@ -64,13 +72,24 @@ def main():
 
         # Find next non-empty line
         next_depth = None
+        next_is_arrow = False
         for j in range(i + 1, len(lines)):
             if lines[j].strip() != '':
                 next_depth = compute_depth(lines[j])
+                next_is_arrow = is_arrow_child(lines[j])
                 break
 
-        # Leaf = no child: next line is not deeper than current.
-        if next_depth is None or next_depth <= depth:
+        # A node is a leaf if it has no children. Children are either:
+        # - at a deeper indent (normal), or
+        # - at the same indent using arrow shorthand (←)
+        has_child = (
+            next_depth is not None and (
+                next_depth > depth or
+                (next_depth == depth and next_is_arrow)
+            )
+        )
+
+        if not has_child:
             terminal = is_terminal(line)
             if args.terminal and not terminal:
                 continue
