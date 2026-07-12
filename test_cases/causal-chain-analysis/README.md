@@ -101,7 +101,7 @@
 
 ## AI 算法
 
-### Transformer 注意力复杂度
+### Transformer 注意力复杂度高
 
 * 问题描述：`Transformer 注意力计算量太大`
 * 结果示例：[v260711-opencode-deepseek-v4-pro-manual-guidance](transformer-attention-complexity/v260711-opencode-deepseek-v4-pro-manual-guidance.md)
