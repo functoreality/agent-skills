@@ -80,6 +80,12 @@
 
 ## AI 使用
 
+### AI 讨好用户
+
+* 问题描述：`比方说一个人。他有一个什么想法。他告诉 AI 我有一个想法，哪怕他那个想法糟糕透顶，AI 很有可能也不会直接告诉他，会顺着他说`
+* 问题来源：https://mp.weixin.qq.com/s/mhF6XhgM0Lh3VeNCbwbt0w
+* 结果示例：[prompt2-v260315-opencode-glm5.1](ai-sycophancy/prompt2-v260315-opencode-glm5.1.md)
+
 ### skill 表现不佳
 
 问题描述：
@@ -92,12 +98,6 @@
 
 * 作者补注：不是所有模型都会出现这个问题
 * 结果示例：[v260315-opencode-glm5](skill-self-improvement/v260315-opencode-glm5.md)
-
-### AI 讨好用户
-
-* 问题描述：`比方说一个人。他有一个什么想法。他告诉 AI 我有一个想法，哪怕他那个想法糟糕透顶，AI 很有可能也不会直接告诉他，会顺着他说`
-* 问题来源：https://mp.weixin.qq.com/s/mhF6XhgM0Lh3VeNCbwbt0w
-* 结果示例：[prompt2-v260315-opencode-glm5.1](ai-sycophancy/prompt2-v260315-opencode-glm5.1.md)
 
 ## AI 算法
 
