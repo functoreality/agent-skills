@@ -10,7 +10,7 @@ Filtering via CLI (mutually exclusive):
   --terminal       show only leaf nodes marked as terminal / already analyzed
   --non-terminal   show only leaf nodes without such markers
 
-Terminal markers recognized: ：末端/上方已分析/下方已分析/单独深入分析/循环因果
+Terminal markers recognized: ：末端/上方已分析/下方已分析/祖先节点已分析/单独深入分析
 
 Only lines starting with '- ' or '* ' (after stripping tabs) are considered
 nodes.
@@ -37,7 +37,7 @@ def is_node(line):
 def is_terminal(line):
     """Check if line is marked as terminal or already analyzed."""
     return any(m in line for m in ('：末端', '：上方已分析', '：下方已分析',
-                                   '：单独深入分析', '：循环因果'))
+                                   '：祖先节点已分析', '：单独深入分析'))
 
 
 def is_arrow_child(line):
