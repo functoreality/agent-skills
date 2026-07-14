@@ -116,4 +116,4 @@
 ### 全球变暖
 
 * 问题描述：`全球变暖`
-* 结果示例：[v260315-opencode-glm5](global-warming/v260315-opencode-glm5.md)
+* 结果示例：[v260714-codex-gpt5.5](global-warming/v260714-codex-gpt5.5.md)
