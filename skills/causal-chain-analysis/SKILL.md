@@ -2,7 +2,7 @@
 name: causal-chain-analysis
 description: 因果链分析是现代TRIZ理论中深入分析问题的重要工具。当用户提到"因果链分析"，或对某种情形不满、又想不出好办法时，使用此skill。该skill能够帮助用户从表层问题出发，通过反复追问"为什么"，层层深入挖掘问题的根本原因，建立完整的因果链，以便将来识别关键缺点、转化为可解决的关键问题。
 author: functoreality
-version: 260714
+version: 260717
 ---
 
 # 因果链分析 Skill
