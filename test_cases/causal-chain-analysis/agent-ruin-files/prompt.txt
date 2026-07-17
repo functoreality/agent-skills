@@ -1,0 +1,1 @@
+使用 AI 智能体（OpenCode/Codex/Claude Code/OpenClaw/Hermes/……）的过程中，关键文件被破坏，找不回来了

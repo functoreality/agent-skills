@@ -86,6 +86,11 @@
 * 问题来源：https://mp.weixin.qq.com/s/mhF6XhgM0Lh3VeNCbwbt0w
 * 结果示例：[prompt2-v260315-opencode-glm5.1](ai-sycophancy/prompt2-v260315-opencode-glm5.1.md)
 
+### 工具误删文件
+
+* 问题描述：`使用 AI 智能体（OpenCode/Codex/Claude Code/OpenClaw/Hermes/……）的过程中，关键文件被破坏，找不回来了`
+* 结果示例：[v260714-codex-gpt5.6sol-low](agent-ruin-files/v260714-codex-gpt5.6sol-low.md)
+
 ### skill 表现不佳
 
 问题描述：

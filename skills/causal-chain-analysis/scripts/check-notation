@@ -38,13 +38,13 @@ def main():
         sys.exit(2)
 
     violations = []
-    for i, line in enumerate(lines):
+    for i, line in enumerate(lines[1:]):
         if line.strip() == '':
             continue
         for vtype, pattern in PATTERNS:
             match = re.search(pattern, line)
             if match:
-                violations.append((i + 1, vtype, match.group(), line.strip()))
+                violations.append((i + 2, vtype, match.group(), line.strip()))
 
     if violations:
         for lineno, vtype, matched, content in violations:
