@@ -118,6 +118,14 @@
 * 结果示例：[v260711-opencode-deepseek-v4-pro-manual-guidance](loss-spike-from-nfi/v260711-opencode-deepseek-v4-pro-manual-guidance.md)
 
 ## 其他
+
+### 王虹天赋未现
+
+* 问题大意：2026 菲尔兹奖得主王虹在北大数院本科求学期间仅被认为处于年级中上水平，而非最优秀的那一批；周围师生都没能识别出其顶尖潜力
+* [带背景信息的完整问题](wanghong-unrecognized/prompt.md)
+* 结果示例：[v260717-codex-gpt5.6terra-high-manual-guidance](wanghong-unrecognized/v260717-codex-gpt5.6terra-high-manual-guidance.md)
+  * [完整对话编辑过程](wanghong-unrecognized/session-history-v260717-codex-gpt5.6terra-high-manual-guidance.md)
+
 ### 全球变暖
 
 * 问题描述：`全球变暖`
