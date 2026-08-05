@@ -2,9 +2,11 @@
 name: skill-refiner
 description: >-
   通过复盘反思或专家输出对比，发现并提炼思维/写作/设计型 skill 的改进方向。
-  适用于分析问题、写高质量笔记等产出质量需要靠推演和判断来评估的 skill。
+  适用于分析问题、写高质量笔记等产出质量无客观指标，需要靠推演和专家判断来评估的 skill。
   当用户要求审查、改进、更新或复盘某个 skill，或提供了专家输出用于与 AI
   输出对比，或对某次 skill 执行的质量给出了具体反馈时，使用本 skill。
+author: functoreality
+version: 260804
 ---
 
 # Skill Refiner
