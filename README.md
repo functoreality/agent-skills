@@ -9,6 +9,7 @@
 | 我想…… | 你可以用 |
 |--------|------|
 | 深入分析一个问题，找到更多原本想不到的解决思路 | causal-chain-analysis（因果链分析） |
+| Skill 执行效果不好，但 AI 自己看不出问题，希望我的反馈能帮助改进它 | skill-refiner（Skill 改进） |
 
 ### 因果链分析
 
@@ -58,6 +59,63 @@ AI 会生成一份结构化的因果链分析报告文档，把问题的产生�
 在因果链分析以外，书中还介绍了许多其他的分析问题和寻找方案的思维工具，也有许多具体案例。
 如果你想了解更多解决问题的思考办法，我也推荐你去读。
 
+### Skill 改进
+
+#### 这能帮我做什么？
+
+你写了一个 Skill，AI 也能照着做，但产出的效果总有些地方不够好。
+你指出问题，甚至亲手改出一个更好的版本后，AI 可以修正这一次，却不见得明白你为什么这样改。
+下次遇到类似任务，它还可能出现同样的问题。
+
+真正难的不是改好眼前这份产出，而是从你的反馈中找出可复用的经验。
+把这些经验沉淀回 Skill 里，让之后使用它的 AI 也能做出更好的判断。
+这就是 Skill 改进的目标。
+
+#### 它怎么做？
+
+你可以把以下任一种材料交给 AI：
+
+- AI 的产出和你修改后的版本，或另一份更好的专家版本
+- AI 刚刚使用某个 Skill 完成任务的执行过程
+- 你对产出的具体反馈，例如“这里跳步了”或“这个组织方式不合适”
+
+Skill 改进不会只把“这一句要怎么改”追加成一条零散规则。
+它会继续追问：你为什么会做出这个修改？你在判断时考虑了什么，而 AI 没有？
+
+找到缺失的思维步骤后，它会判断这个发现能否推广到其他场景，
+再检查新规则会不会带来副作用，最后提出具体的 Skill 改动方案。
+实际修改目标 Skill 之前，它会先让你确认。
+
+#### 它和其他 Skill 改进工具有什么不同？
+
+网上也能找到许多其他人编写的，用来自动化迭代改进 Skill 的那类 Meta Skill。
+不过，它们所擅长改进的那类 Skill 面向的通常是有客观评价标准的任务。
+比如对于编程、Debug 或部署这样任务，测试是不是通过、程序能不能运行，就是很明确的结果信号。
+AI 可以利用这样的信号，自己尝试新的 Skill 编写方案，然后验证改进的效果。
+
+Skill 改进处理的是另一类情况：“什么是好”本身没法完全交给机器判定。
+比如，像分析、写作、设计这样的任务，就属于这样一种类型。
+它们的好坏标准并不是一开始就清楚，改进方向往往需要从用户反馈、专家判断和实际使用场景中逐步发现。
+
+因此，Skill 改进并不替代依靠客观评测进行自动迭代的工具。
+它补充的是人工判断不可缺少时，怎样系统地理解反馈、提炼经验并验证改动。
+
+#### 适合改进的这类 Skill 都有哪些例子？
+
+例如：
+
+- causal-chain-analysis：因果链分析
+- [note-writing](https://github.com/functoreality/research-notes/tree/main/.agents/skills/note-writing/SKILL.md)：根据论文编写高质量的文献笔记
+- [paper-to-notes](https://github.com/functoreality/research-notes/tree/main/.agents/skills/paper-to-notes/SKILL.md)：分析论文，并把关键要点、设计思路迁移到主笔记当中
+
+如果有兴趣，你可以在 [测试案例](test_cases/skill-refiner/README.md) 里看几个真实案例，
+这些会话记录涵盖了运行使用原始 Skill、专家反馈、Skill 改进的完整过程。
+
+#### 想了解更多？
+
+[SKILL.md](skills/skill-refiner/SKILL.md) 同样人类可读：
+它的三种工作模式，反馈归因方法，改动验证流程，还有人工确认机制，在里面都能看到。
+
 ## 安装
 
 可以直接把这个仓库的链接告诉你的 AI 智能体，让它来帮你安装。
@@ -67,7 +125,8 @@ AI 会生成一份结构化的因果链分析报告文档，把问题的产生�
 | 技能 | 命令 |
 |------|------|
 | 因果链分析 | `npx skills add functoreality/agent-skills --skill causal-chain-analysis` |
-| outline-read（辅助，可选） | `npx skills add functoreality/research-notes --skill outline-read` |
+| outline-read（因果链分析辅助，可选） | `npx skills add functoreality/research-notes --skill outline-read` |
+| Skill 改进 | `npx skills add functoreality/agent-skills --skill skill-refiner` |
 
 因果链分析生成的报告用 tab 缩进表示层级。安装 outline-read 后，AI 可以按层级折叠展开，更高效地浏览分析结果。
 
