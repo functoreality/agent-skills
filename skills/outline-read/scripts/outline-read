@@ -1,0 +1,352 @@
+#!/usr/bin/env python3
+"""
+Outline Markdown Note Reader -- specialized read tool for AI agents.
+
+Reads tab-indented outline Markdown notes with smart fold/unfold behavior
+and UID-based cross-reference resolution.  For raw contiguous reading
+(without folding), use the native read tool instead.
+
+Invocation modes:
+  1. File + line:   outline-read ML 9        (folding mode)
+  2. File only:     outline-read ML           (TOC: all depth-0 lines)
+  3. UID lookup:    outline-read --uid n2bf31 (resolves UID, then folds)
+  4. File:line:     outline-read ML:9         (shorthand)
+  5. JSON stdin:    uid-locate ID --format json | outline-read --location-stdin
+
+Expand modes (--expand, default: 3):
+  0 (tight):   ancestry and target, with children controlled by --depth
+  1:           ancestry chain + siblings at target's immediate parent level
+  2:           level 1 + all depth-0 headings
+  3:           block-expand — all sibling groups at every ancestry level
+
+The default (3) gives the richest context for browsing.  Level 1 is a
+minimal "where am I in this section" view: ancestry plus what else is
+discussed in this subsection.  Level 2 adds file-level orientation via
+all top-level headings. Level 0 (--tight) hides siblings.
+Child depth is independent of expand mode.
+"""
+
+import argparse
+import json
+import sys
+from pathlib import Path
+from typing import Optional
+
+from uid_locate import UIDError, find_uid_definition, resolve_filepath as _resolve_filepath
+
+
+# ── Line parsing ───────────────────────────────────────────────────────────
+
+def compute_depth(line: str) -> int:
+    """Count leading tab characters."""
+    return len(line) - len(line.lstrip('\t'))
+
+
+def read_lines_with_depth(filepath: Path) -> list[dict]:
+    """Read a file, returning [{lineno, raw, stripped, depth}, ...]."""
+    result = []
+    with open(filepath, 'r', encoding='utf-8') as f:
+        for i, line in enumerate(f, 1):
+            raw = line.rstrip('\n')
+            stripped = raw.lstrip('\t')
+            depth = compute_depth(raw)
+            result.append({
+                'lineno': i,
+                'raw': raw,
+                'stripped': stripped,
+                'depth': depth,
+            })
+    return result
+
+
+def _find_ancestor(lines: list[dict], start_idx: int, target_depth: int) -> Optional[int]:
+    """Find the nearest line above start_idx at the given depth."""
+    for j in range(start_idx - 1, -1, -1):
+        if lines[j]['depth'] == target_depth:
+            return j
+    return None
+
+
+def _subtree_range(lines: list[dict], parent_idx: int) -> int:
+    """Return the exclusive end index of parent's subtree (first line at depth <= parent)."""
+    parent_depth = lines[parent_idx]['depth']
+    for j in range(parent_idx + 1, len(lines)):
+        if lines[j]['depth'] <= parent_depth:
+            return j
+    return len(lines)
+
+
+# ── Folding algorithm ──────────────────────────────────────────────────────
+
+def compute_show_lines(lines: list[dict],
+                       target_idx: int,
+                       expand: int = 3,
+                       child_depth: int = 1,
+                       no_top: bool = False) -> set[int]:
+    """Determine which line indices to show based on fold rules.
+
+    target_idx:  0-based index into lines.
+    expand:      0=ultra-tight (ancestry chain, no unrelated depth-0),
+                 1=ancestry + siblings at target's immediate parent level,
+                 2=level 1 + all depth-0 headings,
+                 3=block-expand all levels (default).
+    child_depth: how many levels of children to show below target (default 1).
+    no_top:      if True, suppress non-ancestor depth-0 lines.
+                 Redundant with expand=0; useful with expand=1 or 2.
+
+    Returns a set of 0-based indices.
+    """
+    n = len(lines)
+    target_depth = lines[target_idx]['depth']
+    show = set()
+
+    # ── Step 1: show depth-0 lines (expand >= 2 only) ──
+    if expand >= 2:
+        for i, entry in enumerate(lines):
+            if entry['depth'] == 0 and entry['stripped'] != '':
+                show.add(i)
+
+    # ── Step 2: build ancestry map {depth: ancestor_idx} ──
+    ancestors = {}
+    ci = target_idx
+    for d in range(target_depth - 1, -1, -1):
+        anc = _find_ancestor(lines, ci, d)
+        if anc is None:
+            break
+        ancestors[d] = anc
+        ci = anc
+
+    # ── Step 3: expand siblings based on mode ──
+    if expand >= 3:
+        # Block-expand: at every ancestry level, show ALL siblings
+        for d in sorted(ancestors.keys()):
+            anc_idx = ancestors[d]
+            subtree_end = _subtree_range(lines, anc_idx)
+            for j in range(anc_idx + 1, subtree_end):
+                if lines[j]['depth'] == d + 1:
+                    show.add(j)
+    elif expand >= 1:
+        # Expand siblings only at target's immediate parent level.
+        # Shows "what else is discussed in this subsection" without the
+        # noise of expanding higher-level siblings.
+        if target_depth > 0 and (target_depth - 1) in ancestors:
+            anc_idx = ancestors[target_depth - 1]
+            subtree_end = _subtree_range(lines, anc_idx)
+            for j in range(anc_idx + 1, subtree_end):
+                if lines[j]['depth'] == target_depth:
+                    show.add(j)
+    # expand == 0: no sibling expansion, just ancestry chain
+
+    show.update(ancestors.values())
+
+    # ── Step 4: show the target ──
+    show.add(target_idx)
+
+    # ── Step 5: show children (up to child_depth levels) ──
+    for j in range(target_idx + 1, n):
+        depth = lines[j]['depth']
+        if depth <= target_depth:
+            break
+        if depth <= target_depth + child_depth:
+            show.add(j)
+
+    # ── Step 6: --no-top: remove non-ancestor depth-0 lines ──
+    # The target itself is always exempt, even if at depth 0.
+    if no_top:
+        depth0_ancestors = {idx for d, idx in ancestors.items() if d == 0}
+        show = {i for i in show
+                if not (lines[i]['depth'] == 0
+                        and i not in depth0_ancestors
+                        and i != target_idx)}
+
+    return show
+
+
+def compute_toc_lines(lines: list[dict]) -> set[int]:
+    """Return indices of all depth-0 non-empty lines (table of contents)."""
+    return {i for i, e in enumerate(lines)
+            if e['depth'] == 0 and e['stripped'] != ''}
+
+
+# ── Output formatting ──────────────────────────────────────────────────────
+
+def format_output(lines: list[dict],
+                  show_indices: set[int],
+                  target_idx: Optional[int],
+                  fold_indicators: bool = False) -> str:
+    """Format selected lines for output.
+
+    Line format:    N: content       (left-aligned)
+    Target line:    >>> N: content
+    Fold indicator: (N lines folded)   (--no-fold-indicators to suppress)
+    """
+    parts = []
+    last_lineno = 0
+
+    for i in sorted(show_indices):
+        entry = lines[i]
+        lineno = entry['lineno']
+
+        if fold_indicators and lineno > last_lineno + 1:
+            skipped = lineno - last_lineno - 1
+            parts.append(f'({skipped} lines folded)')
+
+        if target_idx is not None and i == target_idx:
+            prefix = f'>>> {lineno}: '
+        else:
+            prefix = f'{lineno}: '
+
+        parts.append(prefix + entry['raw'])
+        last_lineno = lineno
+
+    if fold_indicators and last_lineno < len(lines):
+        parts.append(f'({len(lines) - last_lineno} lines folded)')
+
+    return '\n'.join(parts)
+
+
+# ── Main ───────────────────────────────────────────────────────────────────
+
+def main():
+    parser = argparse.ArgumentParser(
+        description='Read outlined Markdown notes with fold/unfold and UID resolution.',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog='''
+Examples:
+  outline-read ML 9                    # Line 9 with block-expand (default)
+  outline-read ML                      # TOC: all top-level lines
+  outline-read ML:9                    # file:line shorthand
+  outline-read --uid n2bf31            # Resolve UID, jump with block-expand
+  outline-read --tight ML 9            # Ancestry and target, plus --depth children
+  outline-read --expand 1 ML 9         # Ancestry + siblings at parent level
+  outline-read --expand 2 ML 9         # Level 1 + all depth-0 headings
+  outline-read --depth 2 ML 9          # Show 2 levels of children below target
+  outline-read --no-fold-indicators ML 9  # Suppress '(N lines folded)' markers
+
+For contiguous reading, use your environment's file-reading tool or
+uid-locate --context N. Bash read is not a file-range reader.
+        ''')
+
+    parser.add_argument('arg1', nargs='?', help='Filename or file:line')
+    parser.add_argument('arg2', nargs='?', type=int, help='Line number')
+    source = parser.add_mutually_exclusive_group()
+    source.add_argument('--uid', '-u', help='UID to look up (from ((uid)) or {uid})')
+    source.add_argument('--location-stdin', action='store_true',
+                        help='Read one JSON location from uid-locate --format json')
+    parser.add_argument('--recursive', action='store_true',
+                        help='Also search subdirectories when resolving a UID')
+    parser.add_argument('--dir', '-d', type=Path, default=Path.cwd(),
+                        help='Notes directory (default: current working directory)')
+    parser.add_argument('--no-fold-indicators', action='store_true',
+                        help='Suppress the default (N lines folded) markers at fold gaps')
+    parser.add_argument('--expand', type=int, choices=[0, 1, 2, 3], default=3,
+                        help='Expand mode: 0=ultra-tight, 1=+parent-level siblings, '
+                             '2=+depth-0 headings, 3=block-expand all (default)')
+    parser.add_argument('--tight', action='store_true',
+                        help='Shortcut for --expand 0 (children controlled by --depth)')
+    parser.add_argument('--depth', type=int, default=1,
+                        help='Levels of children to show below target (default: 1)')
+    parser.add_argument('--no-top', action='store_true',
+                        help='Suppress non-ancestor depth-0 headings. '
+                             'Redundant with --expand 0 or 1; useful with --expand 2.')
+
+    args = parser.parse_args()
+    if args.depth < 0:
+        parser.error('--depth must be non-negative')
+    if args.location_stdin and (args.arg1 is not None or args.arg2 is not None):
+        parser.error('--location-stdin cannot be combined with file/line arguments')
+    if args.uid is not None and args.arg2 is not None:
+        parser.error('--uid accepts an optional file, but no line number')
+    if args.recursive and args.uid is None:
+        parser.error('--recursive requires --uid')
+
+    # --tight overrides --expand
+    if args.tight:
+        args.expand = 0
+
+    notes_dir = args.dir.resolve()
+    if not notes_dir.is_dir():
+        print(f"Error: directory not found: {notes_dir}", file=sys.stderr)
+        sys.exit(3)
+
+    # ── Determine mode: filename + lineno ──
+    filename = None
+    lineno = None
+
+    if args.location_stdin:
+        try:
+            location = json.load(sys.stdin)
+        except (ValueError, OSError) as error:
+            parser.error(f'invalid location JSON: {error}')
+        if not isinstance(location, dict):
+            parser.error('location JSON must be an object')
+        filename = location.get('path')
+        lineno = location.get('line')
+        if (not isinstance(filename, str) or not filename
+                or not Path(filename).is_absolute()
+                or type(lineno) is not int or lineno < 1):
+            parser.error('location requires an absolute path and a positive integer line')
+    elif args.uid is not None:
+        try:
+            location = find_uid_definition(args.uid, notes_dir, args.arg1, args.recursive)
+        except UIDError as error:
+            print(f'Error: {error}', file=sys.stderr)
+            sys.exit(error.code)
+        filename, lineno = str(location.path), location.line
+        print(f'Resolved {location.uid} -> {filename}:{lineno}', file=sys.stderr)
+    elif args.arg1 and ':' in args.arg1 and args.arg2 is None:
+        parts = args.arg1.rsplit(':', 1)
+        filename = parts[0]
+        try:
+            lineno = int(parts[1])
+        except ValueError:
+            print(f"Error: invalid line number in '{args.arg1}'", file=sys.stderr)
+            sys.exit(2)
+    elif args.arg1 and args.arg2 is not None:
+        filename = args.arg1
+        lineno = args.arg2
+    elif args.arg1:
+        filename = args.arg1
+        lineno = None
+    else:
+        parser.print_help()
+        sys.exit(2)
+
+    # ── Resolve file path (auto-append .md) ──
+    filepath = _resolve_filepath(notes_dir, filename)
+    if filepath is None:
+        print(f"Error: file not found: {filename} (searched in {notes_dir})",
+              file=sys.stderr)
+        sys.exit(3)
+
+    # ── Read ──
+    try:
+        file_lines = read_lines_with_depth(filepath)
+    except Exception as e:
+        print(f"Error: cannot read {filepath}: {e}", file=sys.stderr)
+        sys.exit(1)
+
+    # ── Determine what to show ──
+    if lineno is not None:
+        if lineno < 1 or lineno > len(file_lines):
+            print(f"Error: line {lineno} out of range "
+                  f"(file has {len(file_lines)} lines)", file=sys.stderr)
+            sys.exit(2)
+
+        target_idx = lineno - 1
+
+        show = compute_show_lines(file_lines, target_idx,
+                                  expand=args.expand,
+                                  child_depth=args.depth,
+                                  no_top=args.no_top)
+    else:
+        target_idx = None
+        show = compute_toc_lines(file_lines)
+
+    output = format_output(file_lines, show, target_idx,
+                           fold_indicators=not args.no_fold_indicators)
+    print(output)
+
+
+if __name__ == '__main__':
+    main()

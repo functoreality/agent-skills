@@ -11,6 +11,7 @@
 | 深入分析一个问题，找到更多原本想不到的解决思路 | causal-chain-analysis（因果链分析） |
 | Skill 执行效果不好，但 AI 自己看不出问题，希望我的反馈能帮助改进它 | skill-refiner（Skill 改进） |
 | AI 说做完了，想在交付前确认没漏要求、结果可靠、别人也能用 | [task-final-review（任务收尾检查）](#任务收尾检查) |
+| 浏览深层 Tab 大纲，或按 UID 定位 Markdown 内容 | outline-read（大纲阅读与 UID 定位） |
 
 ### 因果链分析
 
@@ -177,11 +178,15 @@ AI 帮你写完报告，回头才发现最初提的一项要求不见了。
 | 技能 | 命令 |
 |------|------|
 | 因果链分析 | `npx skills add functoreality/agent-skills --skill causal-chain-analysis` |
-| outline-read（因果链分析辅助，可选） | `npx skills add functoreality/research-notes --skill outline-read` |
+| outline-read（大纲阅读与 UID 定位） | `npx skills add functoreality/agent-skills --skill outline-read` |
 | Skill 改进 | `npx skills add functoreality/agent-skills --skill skill-refiner` |
 | 任务收尾检查 | `npx skills add functoreality/agent-skills --skill task-final-review` |
 
-因果链分析生成的报告用 tab 缩进表示层级。安装 outline-read 后，AI 可以按层级折叠展开，更高效地浏览分析结果。
+因果链、目的手段链等分析报告用 Tab 缩进表示层级。安装 outline-read 后，
+AI 可以按层级折叠展开，更高效地浏览分析结果。
+它也支持在大纲或平铺 Markdown 中独立定位 UID，或定位后直接展开大纲。
+附带的 UID 生成器是一种可选方案，不要求已有 UID 采用同一生成方式。
+完整用法见 [outline-read](skills/outline-read/SKILL.md)。
 
 ## 贡献
 
