@@ -1,0 +1,99 @@
+[
+  {
+    "name": "case-1",
+    "command": [
+      "/home/yzh/Documents/noSync/apps/python3-venv/bin/python3",
+      "runner.py",
+      "empty-suite"
+    ],
+    "cwd": "/tmp/task-final-review-replay-4m7et7cv/evaluation",
+    "exit_code": 0,
+    "stdout": "collected 0 items\n",
+    "stderr": ""
+  },
+  {
+    "name": "case-2",
+    "command": [
+      "/home/yzh/Documents/noSync/apps/python3-venv/bin/python3",
+      "-m",
+      "json.tool",
+      "event-log.json"
+    ],
+    "cwd": "/tmp/task-final-review-replay-4m7et7cv/evaluation",
+    "exit_code": 0,
+    "stdout": "{\n    \"producer\": \"manual-probe\",\n    \"request_id\": \"request-old\",\n    \"event\": \"hook-ran\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "name": "case-3-given-check",
+    "command": [
+      "/home/yzh/Documents/noSync/apps/python3-venv/bin/python3",
+      "runner.py",
+      "unique-ids"
+    ],
+    "cwd": "/tmp/task-final-review-replay-4m7et7cv/evaluation",
+    "exit_code": 0,
+    "stdout": "checked 3 records, 0 duplicate IDs, 1 assertion passed\n",
+    "stderr": ""
+  },
+  {
+    "name": "case-3-independent",
+    "command": [
+      "/home/yzh/Documents/noSync/apps/python3-venv/bin/python3",
+      "-c",
+      "\nimport json\nfrom collections import Counter\nfrom pathlib import Path\nrows = json.loads(Path('data.json').read_text())\ncounts = Counter(row['id'] for row in rows)\nduplicates = {key: value for key, value in counts.items() if value > 1}\nprint('record_count:', len(rows))\nprint('unique_id_count:', len(counts))\nprint('duplicates:', duplicates)\nassert not duplicates\n"
+    ],
+    "cwd": "/tmp/task-final-review-replay-4m7et7cv/evaluation",
+    "exit_code": 0,
+    "stdout": "record_count: 3\nunique_id_count: 3\nduplicates: {}\n",
+    "stderr": ""
+  },
+  {
+    "name": "case-3-negative-control",
+    "command": [
+      "/home/yzh/Documents/noSync/apps/python3-venv/bin/python3",
+      "runner.py",
+      "unique-ids"
+    ],
+    "cwd": "/tmp/task-final-review-replay-4m7et7cv/negative-control",
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "Traceback (most recent call last):\n  File \"/tmp/task-final-review-replay-4m7et7cv/negative-control/runner.py\", line 11, in <module>\n    assert len(identifiers) == len(set(identifiers))\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError\n"
+  },
+  {
+    "name": "case-4",
+    "command": [
+      "/home/yzh/Documents/noSync/apps/python3-venv/bin/python3",
+      "-m",
+      "json.tool",
+      "state.json"
+    ],
+    "cwd": "/tmp/task-final-review-replay-4m7et7cv/evaluation",
+    "exit_code": 0,
+    "stdout": "{\n    \"requested_generation\": 2,\n    \"status\": {\n        \"observed_generation\": 1,\n        \"ready\": true\n    }\n}\n",
+    "stderr": ""
+  },
+  {
+    "name": "case-5-given-check",
+    "command": [
+      "/home/yzh/Documents/noSync/apps/python3-venv/bin/python3",
+      "weak_check.py"
+    ],
+    "cwd": "/tmp/task-final-review-replay-4m7et7cv/evaluation",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ".\n----------------------------------------------------------------------\nRan 1 test in 0.000s\n\nOK\n"
+  },
+  {
+    "name": "case-5-direct-behavior",
+    "command": [
+      "/home/yzh/Documents/noSync/apps/python3-venv/bin/python3",
+      "-c",
+      "\nfrom application import double\ncases = [(-3, -6), (0, 0), (2, 4), (2.5, 5.0)]\ncorrect = True\nfor value, expected in cases:\n    actual = double(value)\n    print(f'input={value!r}, expected={expected!r}, actual={actual!r}')\n    correct = correct and actual == expected\nraise SystemExit(0 if correct else 1)\n"
+    ],
+    "cwd": "/tmp/task-final-review-replay-4m7et7cv/evaluation",
+    "exit_code": 1,
+    "stdout": "input=-3, expected=-6, actual=-3\ninput=0, expected=0, actual=0\ninput=2, expected=4, actual=2\ninput=2.5, expected=5.0, actual=2.5\n",
+    "stderr": ""
+  }
+]
