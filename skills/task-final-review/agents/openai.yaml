@@ -1,3 +1,3 @@
 interface:
   display_name: "任务收尾检查"
-  short_description: "交付前复核需求，按任务选择验证手段并通过独立审阅改进产物"
+  short_description: "交付前按需核对要求、验证结果，并选择是否引入独立评审"
