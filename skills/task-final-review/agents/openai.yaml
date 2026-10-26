@@ -1,0 +1,3 @@
+interface:
+  display_name: "任务收尾检查"
+  short_description: "交付前复核需求覆盖，以独立读者与专业视角审阅产物并审慎修订"
