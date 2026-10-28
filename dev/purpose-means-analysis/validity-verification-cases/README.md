@@ -8,6 +8,7 @@
 
 - **[三题试点汇总与审核入口](pilot/summary.md)**
 - [方法层面的初步观察](pilot/method-observations.md)
+- **[T07的B类复盘完整示范](retrospectives/T07/README.md)**：两项候选指令与跨领域正反例推演，未做盲试
 - [题目索引](inventory/questions.md)
 - [原书解答索引](inventory/answers.md)
 - [执行计划](planning/plan.md)与[阶段状态](planning/status.md)

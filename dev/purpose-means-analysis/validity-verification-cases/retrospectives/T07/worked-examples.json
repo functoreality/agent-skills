@@ -1,0 +1,86 @@
+{
+  "kind": "illustrative_calculation",
+  "behavioral_trial": false,
+  "examples": {
+    "H1_slant_within_tolerance": {
+      "L": 4.1,
+      "h": 4.0,
+      "epsilon": 0.5,
+      "error": 0.1,
+      "physical_difference_present": true,
+      "target_fails": false
+    },
+    "H1_algorithm_intermediate": {
+      "input": 4.0,
+      "intermediate": 7.0,
+      "output": 4.0,
+      "intermediate_error": 3.0,
+      "output_error": 0.0
+    },
+    "H1_alone_cannot_add_information": {
+      "L": 5.0,
+      "possible_depths": [
+        1.0,
+        4.0
+      ],
+      "possible_offsets": [
+        4.898979485566356,
+        3.0
+      ],
+      "epsilon": 0.5,
+      "admissible_estimate_intervals_disjoint": true
+    },
+    "H2_fixed_setup": {
+      "batch_sizes": [
+        10,
+        30
+      ],
+      "timings": [
+        27,
+        67
+      ],
+      "per_item_time": 2.0,
+      "setup_time": 7.0,
+      "requires_common_setup_and_constant_per_item_cost": true
+    },
+    "H2_varying_setup_counterexample": {
+      "same_timings": [
+        27,
+        67
+      ],
+      "first_model": {
+        "per_item_time": 2,
+        "setups": [
+          7,
+          7
+        ]
+      },
+      "second_model": {
+        "per_item_time": 1,
+        "setups": [
+          17,
+          37
+        ]
+      },
+      "target_identified_if_setup_varies_freely": false
+    },
+    "H2_team_stage_times": {
+      "first_task": {
+        "accepted": 0,
+        "started": 8,
+        "finished": 10,
+        "waiting": 8,
+        "processing": 2
+      },
+      "second_task": {
+        "accepted": 0,
+        "started": 0,
+        "finished": 10,
+        "waiting": 0,
+        "processing": 10
+      },
+      "same_total_duration": 10,
+      "assumption": "single processing segment without suspension"
+    }
+  }
+}
