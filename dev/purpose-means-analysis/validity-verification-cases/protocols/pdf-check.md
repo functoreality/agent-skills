@@ -3,7 +3,8 @@
 本轮只补充 OCR 与图示证据，不是全量试解，也不启动任何额外 Agent。
 用户尚未批准正式全量分析，原有停止点保持。
 
-PDF：../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf
+PDF：_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf
+上面的输入路径相对当前案例目录。
 共224页，无文本层。页码先用PDF物理页序（从1开始），再核对扫描页脚印刷页码，
 确认是否与既有 Markdown 的 Page 标签对应。
 

@@ -1,0 +1,83 @@
+{
+  "description": "原始揭答片段、冻结协议与截图只在本地保存，公开题答为精简摘要。答案包指纹是本次归档校验，不冒称初次读答时已记录。",
+  "files": [
+    {
+      "path": "_private/frozen-inputs/T04-answer-original.md",
+      "sha256": "8ee66af47ee81ba212fed3f5c01a57c39a74eb0b79ce2e9a4fd7091ff472ffa5",
+      "visibility": "local_only",
+      "archive_source": "first committed answer packet, original commit 039c3ef; fingerprint recorded during publication migration"
+    },
+    {
+      "path": "_private/frozen-inputs/T07-answer-original.md",
+      "sha256": "9928e5bed4d8f42aeb83ea826e6b454da8c66fb9385b51852c123c718c515759",
+      "visibility": "local_only",
+      "archive_source": "first committed answer packet, original commit 039c3ef; fingerprint recorded during publication migration"
+    },
+    {
+      "path": "_private/frozen-inputs/T31-answer-original.md",
+      "sha256": "fd8f2ad45e51b1e27bef91ae225220509b4d570d247921bb0935e2bf30e7524f",
+      "visibility": "local_only",
+      "archive_source": "first committed answer packet, original commit 039c3ef; fingerprint recorded during publication migration"
+    },
+    {
+      "path": "_private/frozen-inputs/solver-original.md",
+      "sha256": "23c7304729128643a2364e2b7dde47b1f9c0d394ae0872fcd64f97846596877e",
+      "visibility": "local_only"
+    },
+    {
+      "path": "_private/evidence/pdf-check/ocr/p027-028-t04.png",
+      "sha256": "5f19bbf1bf8b4412bb04004f44d98eb67b2cda8148ddd6f092d24cc6f9be9636",
+      "visibility": "local_only"
+    },
+    {
+      "path": "_private/evidence/pdf-check/ocr/p075-076-t26.png",
+      "sha256": "fab869da73d0327b6f638424673c081c97cb85e13ec3ff1e56b9d2626939b188",
+      "visibility": "local_only"
+    },
+    {
+      "path": "_private/evidence/pdf-check/ocr/p077-t27.png",
+      "sha256": "97823181d3c49238481d9e50ef242192d5197b762c85b4e63b48c23ee060faaf",
+      "visibility": "local_only"
+    },
+    {
+      "path": "_private/evidence/pdf-check/ocr/p078-079-t31-number.png",
+      "sha256": "92b270f76007d16a99eabddcda0804ebecd9551805c46b661c2cbe27c0eeffd9",
+      "visibility": "local_only"
+    },
+    {
+      "path": "_private/evidence/pdf-check/ocr/p080-081-t31-separation.png",
+      "sha256": "f3e8f2e35e5988aec618048d993d2bcae0715a3aea9096059bb882b68971074a",
+      "visibility": "local_only"
+    },
+    {
+      "path": "_private/evidence/pdf-check/ocr/p106-container-reference.png",
+      "sha256": "ef56a7fd551d98d89f14fd82073acf8ba8b090d13bd4017c94c3be38ccd4be12",
+      "visibility": "local_only"
+    },
+    {
+      "path": "_private/evidence/pdf-check/ocr/p137-references.png",
+      "sha256": "33d5a82d8b78b0b0aa55caa027f74097b49fd7cd36cdaf19b66fe23e82276717",
+      "visibility": "local_only"
+    },
+    {
+      "path": "_private/evidence/pdf-check/ocr/p181-185-numbering.jpg",
+      "sha256": "981b1236955a0009f075f10465aa514e93396c4ae9e72ae11d2f9e406f50cc03",
+      "visibility": "local_only"
+    },
+    {
+      "path": "_private/evidence/pdf-check/t07/page-39-task-7-300.png",
+      "sha256": "2014e99fe6996375cc1f8419b6b9ef3971f81f58c114f6fcdbb0c4091a0f3636",
+      "visibility": "local_only"
+    },
+    {
+      "path": "_private/evidence/pdf-check/t07/page-85-solution-text-300.png",
+      "sha256": "28db43149fd0772e2904ad6f1a8a4921066fceabcbf8346b2a6088390015f82d",
+      "visibility": "local_only"
+    },
+    {
+      "path": "_private/evidence/pdf-check/t07/page-86-figures-and-reading-300.png",
+      "sha256": "42ea8ca0f0ab7304b438a7a25cab5ffbb42a8556447be2ceecffe57fc169e3de",
+      "visibility": "local_only"
+    }
+  ]
+}

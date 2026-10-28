@@ -11,8 +11,8 @@
 
 解答位置：
 
-- [Page 19，L680–684](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-19)
-- [Page 20，L685–695](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-20)
+- [Page 19，L680–684，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-19)
+- [Page 20，L685–695，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-20)
 
 ## T02 改善电弧焊接观察条件
 
@@ -20,8 +20,8 @@
 
 解答位置：
 
-- [Page 20，L718–722](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-20)
-- [Page 21，L723–731](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-21)
+- [Page 20，L718–722，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-20)
+- [Page 21，L723–731，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-21)
 
 ## T03 分离树皮与木片
 
@@ -31,10 +31,10 @@
 
 解答位置：
 
-- [Page 47，L1702–1714](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-47)
-- [Page 48，L1715–1717](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-48)
-- [Page 136，L2205–2208](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-136)
-- [Page 137，L2209–2214](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-137)
+- [Page 47，L1702–1714，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-47)
+- [Page 48，L1715–1717，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-48)
+- [Page 136，L2205–2208，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-136)
+- [Page 137，L2209–2214，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-137)
 
 ## T03-V1 木片假设不带电时的树皮分选
 
@@ -42,8 +42,8 @@
 
 解答位置：
 
-- [Page 48，L1720–1727](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-48)
-- [Page 67，L2438–2444](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-67)
+- [Page 48，L1720–1727，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-48)
+- [Page 67，L2438–2444，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-67)
 
 ## T04 抛光器供冷却液与抛光面的矛盾
 
@@ -51,7 +51,7 @@
 
 解答位置：
 
-- [Page 28，L997–1000](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-28)
+- [Page 28，L997–1000，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-28)
 
 PDF补充核验：PDF核对题干与冰及冻结磨料的解法。A-memory核心判断不变，冻结前候选未写磨料结构的限制仍保留。
 
@@ -65,7 +65,7 @@ PDF补充核验：PDF核对题干与冰及冻结磨料的解法。A-memory核心
 
 解答位置：
 
-- [Page 143，L2441–2461](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-143)
+- [Page 143，L2441–2461，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-143)
 
 ## T06 一块试验场模拟200种土壤
 
@@ -73,8 +73,8 @@ PDF补充核验：PDF核对题干与冰及冻结磨料的解法。A-memory核心
 
 解答位置：
 
-- [Page 50，L1816–1835](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-50)
-- [Page 51，L1840–1854](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-51)
+- [Page 50，L1816–1835，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-50)
+- [Page 51，L1840–1854，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-51)
 
 ## T07 飞机无专用设备测河深
 
@@ -82,8 +82,8 @@ PDF补充核验：PDF核对题干与冰及冻结磨料的解法。A-memory核心
 
 解答位置：
 
-- [Page 85，L250–264](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-85)
-- [Page 86，L265–288](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-86)
+- [Page 85，L250–264，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-85)
+- [Page 86，L265–288，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-86)
 
 PDF补充核验：图3确为同侧构型，原图字母为А、Б、В、Г；已知АВ和БВ，照片测АБ求ВГ，OCR的E及照片AB歧义可关闭。原书确写“越深间距越小”，与同侧定长直绳模型的单调方向相反。
 图示表达共竖直平面意图，但未给出现场保持条件。B类不变。
@@ -102,12 +102,12 @@ PDF补充核验：图3确为同侧构型，原图字母为А、Б、В、Г；�
 
 解答位置：
 
-- [Page 53，L1931–1944](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-53)
-- [Page 54，L1949–1955](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-54)
-- [Page 86，L296–301](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-86)
-- [Page 87，L302–321](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-87)
-- [Page 166，L564–569](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-166)
-- [Page 167，L570–577](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-167)
+- [Page 53，L1931–1944，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-53)
+- [Page 54，L1949–1955，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-54)
+- [Page 86，L296–301，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-86)
+- [Page 87，L302–321，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-87)
+- [Page 166，L564–569，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-166)
+- [Page 167，L570–577，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-167)
 
 PDF补充核验：原书确印“课题8中是预先用易熔垫”，不是OCR错号。按机制该回提对应T12楔子，不计作T08砂轮解法。图4–6本轮未补查。
 
@@ -125,14 +125,14 @@ PDF补充核验：原书确印“课题8中是预先用易熔垫”，不是OCR�
 
 解答位置：
 
-- [Page 42，L1494–1498](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-42)
-- [Page 42，L1514–1517](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-42)
-- [Page 43，L1518–1536](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-43)
-- [Page 48，L1734–1753](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-48)
-- [Page 49，L1754–1756](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-49)
-- [Page 54，L1957–1958](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-54)
-- [Page 137，L2214–2215](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-137)
-- [Page 171，L742–744](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-171)
+- [Page 42，L1494–1498，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-42)
+- [Page 42，L1514–1517，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-42)
+- [Page 43，L1518–1536，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-43)
+- [Page 48，L1734–1753，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-48)
+- [Page 49，L1754–1756，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-49)
+- [Page 54，L1957–1958，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-54)
+- [Page 137，L2214–2215，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-137)
+- [Page 171，L742–744，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-171)
 
 PDF补充核验：原书第137页确印“课题5中预先加入荧光粉”，OCR没有错认5；这是原书错引，仍按具体检漏机制归T09。
 
@@ -148,9 +148,9 @@ PDF补充核验：原书第137页确印“课题5中预先加入荧光粉”，O
 
 解答位置：
 
-- [Page 42，L1500–1503](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-42)
-- [Page 43，L1520–1522](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-43)
-- [Page 171，L742–744](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-171)
+- [Page 42，L1500–1503，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-42)
+- [Page 43，L1520–1522，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-43)
+- [Page 171，L742–744，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-171)
 
 ## T11 检查颗粒假液化运动强度
 
@@ -158,8 +158,8 @@ PDF补充核验：原书第137页确印“课题5中预先加入荧光粉”，O
 
 解答位置：
 
-- [Page 42，L1505–1508](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-42)
-- [Page 43，L1522–1523](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-43)
+- [Page 42，L1505–1508，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-42)
+- [Page 43，L1522–1523，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-43)
 
 ## T12 便于拔出的楔子
 
@@ -167,9 +167,9 @@ PDF补充核验：原书第137页确印“课题5中预先加入荧光粉”，O
 
 解答位置：
 
-- [Page 42，L1510–1512](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-42)
-- [Page 45，L1610–1622](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-45)
-- [Page 137，L2214–2216](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-137)
+- [Page 42，L1510–1512，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-42)
+- [Page 45，L1610–1622，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-45)
+- [Page 137，L2214–2216，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-137)
 
 PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引并按机制归T12，不再把它仅记为待判OCR疑点。
 
@@ -185,10 +185,10 @@ PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引�
 
 解答位置：
 
-- [Page 49，L1771–1792](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-49)
-- [Page 50，L1799–1810](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-50)
-- [Page 117，L1444–1447](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-117)
-- [Page 136，L2177–2182](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-136)
+- [Page 49，L1771–1792，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-49)
+- [Page 50，L1799–1810，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-50)
+- [Page 117，L1444–1447，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-117)
+- [Page 136，L2177–2182，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-136)
 
 ## T14 晒图机底图被有机玻璃吸附
 
@@ -196,7 +196,7 @@ PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引�
 
 解答位置：
 
-- [Page 52，L1895–1905](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-52)
+- [Page 52，L1895–1905，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-52)
 
 ## T15 确定钻杆卡钻深度
 
@@ -204,7 +204,7 @@ PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引�
 
 解答位置：
 
-- [Page 55，L1998–2009](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-55)
+- [Page 55，L1998–2009，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-55)
 
 ## T16 含铁磁悬浮物的焊接回转台
 
@@ -220,7 +220,7 @@ PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引�
 
 解答位置：
 
-- [Page 172，L774–778](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
+- [Page 172，L774–778，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
 
 ## T17-V1 铜滚珠气动运输的变体
 
@@ -236,7 +236,7 @@ PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引�
 
 解答位置：
 
-- [Page 171，L742–744](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-171)
+- [Page 171，L742–744，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-171)
 
 ## T19 预测电磁搅拌器的下一项发明
 
@@ -252,7 +252,7 @@ PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引�
 
 解答位置：
 
-- [Page 175，L871–882](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-175)
+- [Page 175，L871–882，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-175)
 
 ## T21 快速船叶片受穴蚀损坏
 
@@ -260,7 +260,7 @@ PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引�
 
 解答位置：
 
-- [Page 172，L778–782](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
+- [Page 172，L778–782，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
 
 ## T22 测水泥成品内钢筋预应力
 
@@ -276,7 +276,7 @@ PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引�
 
 解答位置：
 
-- [Page 67，L2425–2432](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-67)
+- [Page 67，L2425–2432，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-67)
 
 ## T24 研磨凹凸曲面制品时的砂轮适形与磨粒保持
 
@@ -289,17 +289,17 @@ PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引�
 
 解答位置：
 
-- [Page 69，L2527–2530](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-69)
-- [Page 73，L2661–2673](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-73)
-- [Page 73，L2686–2692](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-73)
-- [Page 74，L2693–2695](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-74)
-- [Page 83，L189–192](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-83)
-- [Page 84，L193–204](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-84)
-- [Page 205，L2043–2047](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-205)
-- [Page 207，L2121–2134](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-207)
-- [Page 207，L2147–2148](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-207)
-- [Page 208，L2163–2167](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-208)
-- [Page 208，L2178–2180](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-208)
+- [Page 69，L2527–2530，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-69)
+- [Page 73，L2661–2673，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-73)
+- [Page 73，L2686–2692，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-73)
+- [Page 74，L2693–2695，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-74)
+- [Page 83，L189–192，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-83)
+- [Page 84，L193–204，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-84)
+- [Page 205，L2043–2047，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-205)
+- [Page 207，L2121–2134，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-207)
+- [Page 207，L2147–2148，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-207)
+- [Page 208，L2163–2167，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-208)
+- [Page 208，L2178–2180，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-208)
 
 ## T25 无线电望远镜的避雷方案
 
@@ -310,22 +310,22 @@ PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引�
 
 解答位置：
 
-- [Page 69，L2521–2525](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-69)
-- [Page 69，L2530–2534](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-69)
-- [Page 70，L2539–2542](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-70)
-- [Page 70，L2557–2562](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-70)
-- [Page 71，L2580–2585](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-71)
-- [Page 72，L2614–2627](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-72)
-- [Page 73，L2663–2667](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-73)
-- [Page 73，L2675–2684](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-73)
-- [Page 74，L2695–2714](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-74)
-- [Page 173，L822–828](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
-- [Page 206，L2109–2113](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-206)
-- [Page 207，L2114–2116](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-207)
-- [Page 207，L2136–2142](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-207)
-- [Page 207，L2150–2152](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-207)
-- [Page 208，L2169–2174](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-208)
-- [Page 208，L2182–2189](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-208)
+- [Page 69，L2521–2525，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-69)
+- [Page 69，L2530–2534，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-69)
+- [Page 70，L2539–2542，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-70)
+- [Page 70，L2557–2562，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-70)
+- [Page 71，L2580–2585，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-71)
+- [Page 72，L2614–2627，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-72)
+- [Page 73，L2663–2667，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-73)
+- [Page 73，L2675–2684，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-73)
+- [Page 74，L2695–2714，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-74)
+- [Page 173，L822–828，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
+- [Page 206，L2109–2113，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-206)
+- [Page 207，L2114–2116，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-207)
+- [Page 207，L2136–2142，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-207)
+- [Page 207，L2150–2152，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-207)
+- [Page 208，L2169–2174，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-208)
+- [Page 208，L2182–2189，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-208)
 
 ## T26 催化剂高温制备与失活
 
@@ -333,7 +333,7 @@ PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引�
 
 解答位置：
 
-- [Page 76，L2771–2788](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-76)
+- [Page 76，L2771–2788，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-76)
 
 PDF补充核验：原书物质名确印“阿利芙干性油”，温度确印25°C、350°C、500°C、300°C及700～1100°C。相关逻辑疑点属于原书文字，不能擅自补0或改译物质名。
 
@@ -361,8 +361,8 @@ PDF补充核验：原书确印“反光镜和光谱射线”。本轮仅确认�
 
 解答位置：
 
-- [Page 129，L1918–1949](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-129)
-- [Page 130，L1950–1952](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-130)
+- [Page 129，L1918–1949，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-129)
+- [Page 130，L1950–1952，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-130)
 
 ## T29 卡通影片逐张图制作与排列效率
 
@@ -371,8 +371,8 @@ PDF补充核验：原书确印“反光镜和光谱射线”。本轮仅确认�
 
 解答位置：
 
-- [Page 163，L427–434](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-163)
-- [Page 172，L785–790](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
+- [Page 163，L427–434，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-163)
+- [Page 172，L785–790，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
 
 ## T29-V1 固定玩偶制作动画
 
@@ -380,7 +380,7 @@ PDF补充核验：原书确印“反光镜和光谱射线”。本轮仅确认�
 
 解答位置：
 
-- [Page 163，L441–444](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-163)
+- [Page 163，L441–444，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-163)
 
 ## T29-V2 黑底去除法形成动画线条
 
@@ -388,7 +388,7 @@ PDF补充核验：原书确印“反光镜和光谱射线”。本轮仅确认�
 
 解答位置：
 
-- [Page 163，L444–446](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-163)
+- [Page 163，L444–446，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-163)
 
 ## T30 温室盖随温度自动开闭
 
@@ -396,7 +396,7 @@ PDF补充核验：原书确印“反光镜和光谱射线”。本轮仅确认�
 
 解答位置：
 
-- [Page 126，L1811–1814](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-126)
+- [Page 126，L1811–1814，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-126)
 
 ## T31 侵蚀性液体试验容器降低造价
 
@@ -404,9 +404,9 @@ PDF补充核验：原书确印“反光镜和光谱射线”。本轮仅确认�
 
 解答位置：
 
-- [Page 79，L25–35](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-79)
-- [Page 80，L36–69](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-80)
-- [Page 81，L70–77](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-81)
+- [Page 79，L25–35，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-79)
+- [Page 80，L36–69，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-80)
+- [Page 81，L70–77，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-81)
 
 PDF补充核验：原题确有坚固气密容器、高温和高压。Page79原书实际为“课题31”，OCR误成“课题3的”；Page106原书则确印“课题29的容器”，这是原书错引。同处喷雾器题号原书为53，
 OCR误成3。空心合金杯解法及A-memory判断不变。
@@ -429,9 +429,9 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 89，L376–397](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-89)
-- [Page 90，L398–424](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-90)
-- [Page 91，L425–455](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-91)
+- [Page 89，L376–397，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-89)
+- [Page 90，L398–424，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-90)
+- [Page 91，L425–455，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-91)
 
 ## T34 小型塑料圆筒快速喷漆
 
@@ -439,10 +439,10 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 102，L850–886](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-102)
-- [Page 103，L887–921](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-103)
-- [Page 104，L922–957](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-104)
-- [Page 105，L958–962](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-105)
+- [Page 102，L850–886，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-102)
+- [Page 103，L887–921，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-103)
+- [Page 104，L922–957，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-104)
+- [Page 105，L958–962，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-105)
 
 ## T35 气体正负离子迁移时间测量
 
@@ -451,9 +451,9 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 106，L996–1029](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-106)
-- [Page 107，L1030–1069](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-107)
-- [Page 108，L1070–1076](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-108)
+- [Page 106，L996–1029，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-106)
+- [Page 107，L1030–1069，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-107)
+- [Page 108，L1070–1076，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-108)
 
 ## T36 铁矿浆磨损阀门
 
@@ -469,7 +469,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 165，L508–524](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-165)
+- [Page 165，L508–524，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-165)
 
 ## T38 短斜面演示匀加速运动
 
@@ -501,8 +501,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 112，L1197–1209](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-112)
-- [Page 136，L2200–2205](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-136)
+- [Page 112，L1197–1209，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-112)
+- [Page 136，L2200–2205，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-136)
 
 ## T42 石油气管道预加溶剂
 
@@ -542,7 +542,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 137，L2224–2231](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-137)
+- [Page 137，L2224–2231，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-137)
 
 ## T47 不增尺寸材料提高弹簧刚度
 
@@ -550,7 +550,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 144，L2496–2498](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-144)
+- [Page 144，L2496–2498，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-144)
 
 ## T48 输电防冻敷皮自动停热
 
@@ -558,7 +558,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 145，L2518–2529](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-145)
+- [Page 145，L2518–2529，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-145)
 
 ## T49 超高压导线电压电流测量
 
@@ -566,8 +566,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 147，L2619–2624](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-147)
-- [Page 148，L2625–2630](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-148)
+- [Page 147，L2619–2624，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-147)
+- [Page 148，L2625–2630，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-148)
 
 ## T50 清水中按比重分选番茄
 
@@ -591,7 +591,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 174，L846–855](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-174)
+- [Page 174，L846–855，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-174)
 
 ## T53 离心机反应恒温
 
@@ -599,7 +599,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 166，L537–557](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-166)
+- [Page 166，L537–557，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-166)
 
 ## T54 被切钻石的来源鉴定
 
@@ -607,8 +607,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 175，L898–904](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-175)
-- [Page 176，L905–914](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-176)
+- [Page 175，L898–904，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-175)
+- [Page 176，L905–914，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-176)
 
 ## T55 大范围输入转速保持定速输出
 
@@ -624,7 +624,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 177，L954–963](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-177)
+- [Page 177，L954–963，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-177)
 
 ## T57 浮标卸载装置的发展预测
 
@@ -657,8 +657,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 185，L1246–1265](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-185)
-- [Page 186，L1280–1291](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-186)
+- [Page 185，L1246–1265，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-185)
+- [Page 186，L1280–1291，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-186)
 
 ## T62 弹性材料的车削加工
 
@@ -778,7 +778,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 13，L431–445](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-13)
+- [Page 13，L431–445，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-13)
 
 ## U1-007 虎特征改进铅笔
 
@@ -786,7 +786,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 17，L573–576](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-17)
+- [Page 17，L573–576，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-17)
 
 ## U1-008 汽车发动机冬季起动的形态分析
 
@@ -794,7 +794,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 17，L584–590](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-17)
+- [Page 17，L584–590，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-17)
 
 ## U1-009 无额外约束的焊接区照明
 
@@ -802,7 +802,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 20，L708–710](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-20)
+- [Page 20，L708–710，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-20)
 
 ## U1-010 螺杆螺母非接触传动防磨损
 
@@ -810,7 +810,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 21，L740–744](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-21)
+- [Page 21，L740–744，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-21)
 
 ## U1-011 连续检查发动机磨损
 
@@ -818,7 +818,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 21，L750–753](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-21)
+- [Page 21，L750–753，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-21)
 
 ## U1-012 温变弹性固体作热机械转换工作体
 
@@ -826,7 +826,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 21，L755–758](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-21)
+- [Page 21，L755–758，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-21)
 
 ## U1-013 大气氮化合物跨领域解法
 
@@ -834,7 +834,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 23，L825–828](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-23)
+- [Page 23，L825–828，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-23)
 
 ## U1-014 简化感应电磁泵起动
 
@@ -842,7 +842,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 24，L853–855](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-24)
+- [Page 24，L853–855，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-24)
 
 ## U1-015 电磁泵作船用喷气发动机
 
@@ -852,8 +852,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 24，L860–863](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-24)
-- [Page 141，L2367–2370](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
+- [Page 24，L860–863，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-24)
+- [Page 141，L2367–2370，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
 
 ## U1-016 破坏抽样间接判断制品未知参数
 
@@ -861,7 +861,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 25，L895–903](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-25)
+- [Page 25，L895–903，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-25)
 
 ## U1-017 导电液磁场浮沉检查隐性缺陷
 
@@ -869,7 +869,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 26，L912–920](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-26)
+- [Page 26，L912–920，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-26)
 
 ## U1-018 摄影快门与照明节律协调
 
@@ -877,7 +877,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 30，L1070–1072](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-30)
+- [Page 30，L1070–1072，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-30)
 
 ## U1-019 采煤水压脉冲与煤层共振
 
@@ -885,7 +885,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 30，L1077–1079](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-30)
+- [Page 30，L1077–1079，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-30)
 
 ## U1-020 旋转液体向轴心运动的物理可行性
 
@@ -893,7 +893,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 31，L1109–1110](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-31)
+- [Page 31，L1109–1110，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-31)
 
 ## U1-021 三个苹果与三角形的概念障碍
 
@@ -901,7 +901,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 47，L1684–1695](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-47)
+- [Page 47，L1684–1695，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-47)
 
 ## U1-022 破冰船术语限制与航行目标重述
 
@@ -909,7 +909,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 68，L2487–2492](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-68)
+- [Page 68，L2487–2492，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-68)
 
 ## U1-023 测量象鼻虫体温
 
@@ -917,7 +917,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 69，L2506–2519](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-69)
+- [Page 69，L2506–2519，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-69)
 
 ## U1-024 测量一滴雨水温度
 
@@ -925,7 +925,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 69，L2518–2519](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-69)
+- [Page 69，L2518–2519，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-69)
 
 ## U1-025 狄拉克分鱼得到负数的轶事
 
@@ -933,8 +933,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 70，L2567–2572](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-70)
-- [Page 71，L2573–2576](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-71)
+- [Page 70，L2567–2572，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-70)
+- [Page 71，L2573–2576，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-71)
 
 ## U2-001 苯分子环状结构的联想
 
@@ -942,7 +942,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 82，L134–148](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-82)
+- [Page 82，L134–148，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-82)
 
 ## U2-002 麦克斯韦分子分选想象实验
 
@@ -950,7 +950,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 83，L154–165](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-83)
+- [Page 83，L154–165，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-83)
 
 ## U2-003 提高破冰船航速
 
@@ -958,8 +958,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 84，L214–223](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-84)
-- [Page 85，L224–236](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-85)
+- [Page 84，L214–223，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-84)
+- [Page 85，L224–236，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-85)
 
 ## U2-004 威尔逊室转为气泡室
 
@@ -967,7 +967,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 92，L459–468](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-92)
+- [Page 92，L459–468，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-92)
 
 ## U2-005 人的生命意义课堂练习
 
@@ -975,10 +975,10 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 93，L518–532](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-93)
-- [Page 94，L533–561](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-94)
-- [Page 95，L562–601](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-95)
-- [Page 96，L602–614](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-96)
+- [Page 93，L518–532，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-93)
+- [Page 94，L533–561，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-94)
+- [Page 95，L562–601，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-95)
+- [Page 96，L602–614，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-96)
 
 ## U2-006 外星文明为何不联络人类
 
@@ -986,8 +986,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 95，L594–601](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-95)
-- [Page 96，L602–609](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-96)
+- [Page 95，L594–601，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-95)
+- [Page 96，L602–609，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-96)
 
 ## U2-007 邓克尔射线治胃癌实验
 
@@ -996,10 +996,10 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 97，L657–681](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-97)
-- [Page 98，L682–726](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-98)
-- [Page 99，L727–766](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-99)
-- [Page 100，L767–800](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-100)
+- [Page 97，L657–681，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-97)
+- [Page 98，L682–726，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-98)
+- [Page 99，L727–766，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-99)
+- [Page 100，L767–800，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-100)
 
 ## U2-008 可增减长度的分段货船
 
@@ -1007,8 +1007,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 113，L1262–1263](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-113)
-- [Page 135，L2144–2151](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-135)
+- [Page 113，L1262–1263，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-113)
+- [Page 135，L2144–2151，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-135)
 
 ## U2-009 游艇停泊供电隔绝噪声
 
@@ -1016,7 +1016,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 114，L1277–1281](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-114)
+- [Page 114，L1277–1281，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-114)
 
 ## U2-010 矿山喷水除尘避免雾化
 
@@ -1024,7 +1024,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 114，L1294–1297](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-114)
+- [Page 114，L1294–1297，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-114)
 
 ## U2-011 防路缘碰撞的汽车轮胎
 
@@ -1032,7 +1032,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 114，L1304–1305](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-114)
+- [Page 114，L1304–1305，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-114)
 
 ## U2-012 双联显微镜分工
 
@@ -1040,7 +1040,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 115，L1317–1318](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-115)
+- [Page 115，L1317–1318，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-115)
 
 ## U2-013 兼作拉力器的提包手柄
 
@@ -1048,7 +1048,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 115，L1330–1333](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-115)
+- [Page 115，L1330–1333，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-115)
 
 ## U2-014 套合锥形超声精选机
 
@@ -1056,7 +1056,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 115，L1344–1347](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-115)
+- [Page 115，L1344–1347，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-115)
 
 ## U2-015 变压器压电元件缩小输出部
 
@@ -1064,7 +1064,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 115，L1347–1348](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-115)
+- [Page 115，L1347–1348，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-115)
 
 ## U2-016 拉模套合的金属拉制设备
 
@@ -1072,7 +1072,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 115，L1348–1349](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-115)
+- [Page 115，L1348–1349，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-115)
 
 ## U2-017 风力机调速器气动制动
 
@@ -1080,8 +1080,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 115，L1358–1364](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-115)
-- [Page 116，L1365–1383](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-116)
+- [Page 115，L1358–1364，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-115)
+- [Page 116，L1365–1383，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-116)
 
 ## U2-018 杯形车刀预加载抑振
 
@@ -1089,7 +1089,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 116，L1390–1393](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-116)
+- [Page 116，L1390–1393，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-116)
 
 ## U2-019 等离子加工无机材料防裂
 
@@ -1097,7 +1097,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 117，L1412–1415](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-117)
+- [Page 117，L1412–1415，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-117)
 
 ## U2-020 锯枝前预促愈合
 
@@ -1105,7 +1105,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 117，L1415–1418](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-117)
+- [Page 117，L1415–1418，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-117)
 
 ## U2-021 重压模平移免升降
 
@@ -1113,7 +1113,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 117，L1426–1428](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-117)
+- [Page 117，L1426–1428，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-117)
 
 ## U2-022 过滤元件围绕磁场源
 
@@ -1121,8 +1121,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 117，L1447–1452](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-117)
-- [Page 118，L1453–1456](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-118)
+- [Page 117，L1447–1452，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-117)
+- [Page 118，L1453–1456，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-118)
 
 ## U2-023 管栅滚动球形焊接电极
 
@@ -1130,7 +1130,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 118，L1465–1465](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-118)
+- [Page 118，L1465–1465，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-118)
 
 ## U2-024 带状电焊条动态弯曲
 
@@ -1138,7 +1138,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 118，L1478–1481](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-118)
+- [Page 118，L1478–1481，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-118)
 
 ## U2-025 越冬圆木竖放
 
@@ -1146,7 +1146,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 119，L1516–1520](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-119)
+- [Page 119，L1516–1520，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-119)
 
 ## U2-026 共振脉冲断木
 
@@ -1154,7 +1154,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 119，L1534–1537](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-119)
+- [Page 119，L1534–1537，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-119)
 
 ## U2-027 触点焊脉冲间测热电势
 
@@ -1162,7 +1162,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 120，L1550–1553](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-120)
+- [Page 120，L1550–1553，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-120)
 
 ## U2-028 双向行程切削交叉孔
 
@@ -1170,7 +1170,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 120，L1560–1562](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-120)
+- [Page 120，L1560–1562，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-120)
 
 ## U2-029 短时高温烘木保持材性
 
@@ -1178,7 +1178,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 120，L1568–1573](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-120)
+- [Page 120，L1568–1573，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-120)
 
 ## U2-030 超低温恢复冻结物料颗粒性
 
@@ -1186,7 +1186,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 121，L1591–1593](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-121)
+- [Page 121，L1591–1593，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-121)
 
 ## U2-031 按尾气含硫量控制焙烧供料
 
@@ -1194,7 +1194,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 121，L1602–1605](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-121)
+- [Page 121，L1602–1605，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-121)
 
 ## U2-032 动态张力仪柔性介质校准
 
@@ -1202,7 +1202,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 121，L1612–1615](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-121)
+- [Page 121，L1612–1615，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-121)
 
 ## U2-033 焊接电流驱动供焊条
 
@@ -1210,7 +1210,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 121，L1623–1624](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-121)
+- [Page 121，L1623–1624，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-121)
 
 ## U2-034 大地测量全景教具
 
@@ -1218,7 +1218,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 122，L1646–1649](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-122)
+- [Page 122，L1646–1649，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-122)
 
 ## U2-035 一次性塑料捕鼠器
 
@@ -1226,7 +1226,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 122，L1656–1658](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-122)
+- [Page 122，L1656–1658，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-122)
 
 ## U2-036 电磁场增强热塑材料金属涂层
 
@@ -1234,7 +1234,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 123，L1677–1680](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-123)
+- [Page 123，L1677–1680，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-123)
 
 ## U2-037 推进器轴气袋联接
 
@@ -1242,7 +1242,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 123，L1687–1693](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-123)
+- [Page 123，L1687–1693，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-123)
 
 ## U2-038 易碎制品运输气囊压紧
 
@@ -1250,7 +1250,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 123，L1693–1695](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-123)
+- [Page 123，L1693–1695，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-123)
 
 ## U2-039 充气元件起重机抓斗
 
@@ -1258,7 +1258,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 123，L1696–1697](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-123)
+- [Page 123，L1696–1697，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-123)
 
 ## U2-040 气囊夹持锯木制品
 
@@ -1266,7 +1266,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 123，L1697–1698](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-123)
+- [Page 123，L1697–1698，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-123)
 
 ## U2-041 铁磁粉末袋磁力挤紧
 
@@ -1274,7 +1274,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 124，L1712–1714](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-124)
+- [Page 124，L1712–1714，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-124)
 
 ## U2-042 充气混凝土覆膜成型
 
@@ -1282,7 +1282,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 124，L1721–1724](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-124)
+- [Page 124，L1721–1724，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-124)
 
 ## U2-043 多孔钢储液冷却电机
 
@@ -1290,7 +1290,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 124，L1732–1736](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-124)
+- [Page 124，L1732–1736，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-124)
 
 ## U2-044 透明绷带观察伤口
 
@@ -1298,8 +1298,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 124，L1748–1751](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-124)
-- [Page 125，L1752–1754](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-125)
+- [Page 124，L1748–1751，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-124)
+- [Page 125，L1752–1754，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-125)
 
 ## U2-045 同材芯模铸模补偿收缩
 
@@ -1307,7 +1307,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 125，L1761–1764](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-125)
+- [Page 125，L1761–1764，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-125)
 
 ## U2-046 连续熔化供给光导探头
 
@@ -1315,7 +1315,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 125，L1775–1779](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-125)
+- [Page 125，L1775–1779，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-125)
 
 ## U2-047 粘性液体跑道减速段
 
@@ -1323,7 +1323,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 125，L1787–1789](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-125)
+- [Page 125，L1787–1789，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-125)
 
 ## U2-048 低熔合金通用管塞
 
@@ -1331,7 +1331,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 126，L1800–1803](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-126)
+- [Page 126，L1800–1803，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-126)
 
 ## U2-049 臭氧介质制取铁箔
 
@@ -1339,7 +1339,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 126，L1827–1830](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-126)
+- [Page 126，L1827–1830，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-126)
 
 ## U2-050 惰性气体预防棉花库火
 
@@ -1347,7 +1347,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 127，L1842–1844](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-127)
+- [Page 127，L1842–1844，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-127)
 
 ## U2-051 气液悬浮金属冷却剂
 
@@ -1355,7 +1355,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 127，L1850–1852](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-127)
+- [Page 127，L1850–1852，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-127)
 
 ## U2-052 文氏管热质交换装置扩容
 
@@ -1363,8 +1363,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 127，L1863–1871](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-127)
-- [Page 128，L1872–1878](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-128)
+- [Page 127，L1863–1871，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-127)
+- [Page 128，L1872–1878，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-128)
 
 ## U2-053 可升降拆装信号灯支架
 
@@ -1372,7 +1372,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 138，L2272–2275](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-138)
+- [Page 138，L2272–2275，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-138)
 
 ## U2-054 热分解复合的发电工作介质
 
@@ -1380,7 +1380,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 138，L2277–2279](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-138)
+- [Page 138，L2277–2279，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-138)
 
 ## U2-055 热力钻井机铰接斜钻
 
@@ -1388,7 +1388,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 139，L2293–2294](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-139)
+- [Page 139，L2293–2294，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-139)
 
 ## U2-056 多金属偏转器定向钻井
 
@@ -1396,7 +1396,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 139，L2296–2298](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-139)
+- [Page 139，L2296–2298，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-139)
 
 ## U2-057 压电陶瓷制动环
 
@@ -1404,7 +1404,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 140，L2325–2332](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-140)
+- [Page 140，L2325–2332，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-140)
 
 ## U2-059 聚合物粉末喷涂电极定位
 
@@ -1412,7 +1412,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 141，L2378–2390](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
+- [Page 141，L2378–2390，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
 
 ## U2-060 热控调节元件微位移
 
@@ -1420,7 +1420,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 141，L2391–2393](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
+- [Page 141，L2391–2393，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
 
 ## U2-061 电致伸缩微型发射器
 
@@ -1428,7 +1428,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 141，L2393–2394](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
+- [Page 141，L2393–2394，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
 
 ## U2-062 热膨胀薄片对准微型元件
 
@@ -1436,7 +1436,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 141，L2394–2395](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
+- [Page 141，L2394–2395，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
 
 ## U2-063 热膨胀调节迷宫泵
 
@@ -1444,7 +1444,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 141，L2395–2396](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
+- [Page 141，L2395–2396，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
 
 ## U2-064 电压传动微调装置
 
@@ -1452,7 +1452,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 141，L2396–2397](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
+- [Page 141，L2396–2397，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
 
 ## U2-065 磁致伸缩排液装置
 
@@ -1460,7 +1460,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 142，L2403–2404](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-142)
+- [Page 142，L2403–2404，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-142)
 
 ## U2-066 刚开枪即鉴别的时间缩短变体
 
@@ -1468,7 +1468,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 143，L2441–2444](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-143)
+- [Page 143，L2441–2444，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-143)
 
 ## U2-067 磁性十字盘间歇运动机构
 
@@ -1476,7 +1476,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 144，L2481–2485](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-144)
+- [Page 144，L2481–2485，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-144)
 
 ## U2-068 磁离合器温度自控
 
@@ -1484,7 +1484,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 145，L2528–2529](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-145)
+- [Page 145，L2528–2529，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-145)
 
 ## U2-069 感应电炉居里点坩埚
 
@@ -1492,7 +1492,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 145，L2529–2530](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-145)
+- [Page 145，L2529–2530，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-145)
 
 ## U2-070 热控磁心降低磁放大器噪声
 
@@ -1500,7 +1500,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 145，L2535–2539](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-145)
+- [Page 145，L2535–2539，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-145)
 
 ## U2-071 巴克豪森跳跃计数测力
 
@@ -1508,8 +1508,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 145，L2541–2547](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-145)
-- [Page 146，L2548–2551](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-146)
+- [Page 145，L2541–2547，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-145)
+- [Page 146，L2548–2551，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-146)
 
 ## U3-001 回转水泥窑传热挂链的多种改法
 
@@ -1517,7 +1517,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 158，L237–244](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-158)
+- [Page 158，L237–244，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-158)
 
 ## U3-002 矿山救护人员致冷服与呼吸一体化
 
@@ -1526,10 +1526,10 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 159，L272–287](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-159)
-- [Page 160，L288–290](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-160)
-- [Page 160，L294–301](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-160)
-- [Page 173，L807–809](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
+- [Page 159，L272–287，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-159)
+- [Page 160，L288–290，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-160)
+- [Page 160，L294–301，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-160)
+- [Page 173，L807–809，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
 
 ## U3-003 电影院扩张与家庭电视的替代
 
@@ -1537,7 +1537,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 160，L309–318](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-160)
+- [Page 160，L309–318，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-160)
 
 ## U3-004 冰箱产量饱和与多功能系统
 
@@ -1545,7 +1545,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 161，L336–340](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-161)
+- [Page 161，L336–340，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-161)
 
 ## U3-005 油轮既多又少的多用途船预测
 
@@ -1554,7 +1554,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 162，L377–403](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-162)
+- [Page 162，L377–403，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-162)
 
 ## U3-006 内燃机用作潜艇水下发动机的边界例
 
@@ -1562,7 +1562,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 164，L481–484](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-164)
+- [Page 164，L481–484，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-164)
 
 ## U3-007 二十万吨油轮的制动难题
 
@@ -1578,8 +1578,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 170，L712–718](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-170)
-- [Page 197，L1714–1716](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-197)
+- [Page 170，L712–718，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-170)
+- [Page 197，L1714–1716，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-197)
 
 ## U3-009 难接近位置的钻石测温
 
@@ -1587,7 +1587,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 171，L744–747](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-171)
+- [Page 171，L744–747，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-171)
 
 ## U3-010 穿孔薄板的反色图像叠合检验
 
@@ -1595,7 +1595,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 172，L763–766](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
+- [Page 172，L763–766，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
 
 ## U3-011 磁场控制墨水
 
@@ -1603,7 +1603,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 172，L790–791](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
+- [Page 172，L790–791，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
 
 ## U3-012 磁场控制催化剂运动
 
@@ -1611,7 +1611,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 172，L792–793](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
+- [Page 172，L792–793，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
 
 ## U3-013 磁性液体塞子
 
@@ -1619,8 +1619,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 172，L793–796](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
-- [Page 173，L797–799](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
+- [Page 172，L793–796，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
+- [Page 173，L797–799，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
 
 ## U3-014 磁性液体控制减震装置
 
@@ -1628,7 +1628,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 173，L799–801](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
+- [Page 173，L799–801，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
 
 ## U3-015 铝芯支撑加工镍铬合金薄壁管
 
@@ -1636,7 +1636,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 173，L817–818](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
+- [Page 173，L817–818，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
 
 ## U3-016 用固有振动频率测运动线重量
 
@@ -1644,7 +1644,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 174，L840–843](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-174)
+- [Page 174，L840–843，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-174)
 
 ## U3-017 电磁流量计的重新组合设计
 
@@ -1652,7 +1652,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 178，L985–1000](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-178)
+- [Page 178，L985–1000，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-178)
 
 ## U3-018 磁过滤器的内磁结构与组合预测
 
@@ -1660,9 +1660,9 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 179，L1025–1036](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-179)
-- [Page 179，L1045–1052](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-179)
-- [Page 180，L1065–1073](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-180)
+- [Page 179，L1025–1036，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-179)
+- [Page 179，L1045–1052，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-179)
+- [Page 180，L1065–1073，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-180)
 
 ## U3-019 铁磁粉介质中无拉模拉制钢丝
 
@@ -1670,7 +1670,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 179，L1037–1040](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-179)
+- [Page 179，L1037–1040，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-179)
 
 ## U3-020 磁塞捕获油中金属颗粒
 
@@ -1678,7 +1678,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 179，L1041–1043](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-179)
+- [Page 179，L1041–1043，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-179)
 
 ## U3-021 磁研磨由旋转磁场改为旋转工件
 
@@ -1686,7 +1686,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 180，L1058–1063](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-180)
+- [Page 180，L1058–1063，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-180)
 
 ## U3-022 铁磁粉焊覆时的均匀给粉
 
@@ -1694,7 +1694,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 180，L1070–1072](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-180)
+- [Page 180，L1070–1072，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-180)
 
 ## U3-023 转炉耐火内衬的快速更换
 
@@ -1702,7 +1702,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 182，L1145–1154](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-182)
+- [Page 182，L1145–1154，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-182)
 
 ## U3-024 液压加工中的低粘度与高粘度共存
 
@@ -1711,8 +1711,8 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 183，L1175–1195](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-183)
-- [Page 184，L1196–1202](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-184)
+- [Page 183，L1175–1195，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-183)
+- [Page 184，L1196–1202，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-184)
 
 ## U3-025 玻璃熔炉底衬的快速修理
 
@@ -1720,7 +1720,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 184，L1216–1220](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-184)
+- [Page 184，L1216–1220，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-184)
 
 ## U3-026 安泰飞机尾翼防振颤结构
 
@@ -1728,7 +1728,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 187，L1326–1341](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-187)
+- [Page 187，L1326–1341，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-187)
 
 ## U3-027 陶瓷器皿焙烧后的自动分选
 
@@ -1737,7 +1737,7 @@ OCR误成3。空心合金杯解法及A-memory判断不变。
 
 解答位置：
 
-- [Page 188，L1354–1383](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-188)
+- [Page 188，L1354–1383，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-188)
 
 ## U3-028 陶瓷电阻器的光学焙烧质量检验
 
@@ -1745,7 +1745,7 @@ AKC-1自动机用两束单色光照射陶瓷，按通过样品的光通量强度
 
 解答位置：
 
-- [Page 188，L1375–1377](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-188)
+- [Page 188，L1375–1377，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-188)
 
 ## U3-029 麦粒结构的透射与反射比检验
 
@@ -1753,7 +1753,7 @@ AKC-1自动机用两束单色光照射陶瓷，按通过样品的光通量强度
 
 解答位置：
 
-- [Page 188，L1381–1383](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-188)
+- [Page 188，L1381–1383，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-188)
 
 ## U3-030 雷谢尔效应远距离使胶片变黑
 
@@ -1761,7 +1761,7 @@ AKC-1自动机用两束单色光照射陶瓷，按通过样品的光通量强度
 
 解答位置：
 
-- [Page 195，L1645–1654](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-195)
+- [Page 195，L1645–1654，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-195)
 
 ## U3-031 DNA自行增殖的理想结果假说
 
@@ -1769,8 +1769,8 @@ AKC-1自动机用两束单色光照射陶瓷，按通过样品的光通量强度
 
 解答位置：
 
-- [Page 193，L1574–1586](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-193)
-- [Page 194，L1587–1589](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-194)
+- [Page 193，L1574–1586，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-193)
+- [Page 194，L1587–1589，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-194)
 
 ## U3-032 由理想植物推测植物利用风能
 
@@ -1778,7 +1778,7 @@ AKC-1自动机用两束单色光照射陶瓷，按通过样品的光通量强度
 
 解答位置：
 
-- [Page 194，L1593–1598](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-194)
+- [Page 194，L1593–1598，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-194)
 
 ## U3-033 DNA解旋速度的矛盾
 
@@ -1786,7 +1786,7 @@ AKC-1自动机用两束单色光照射陶瓷，按通过样品的光通量强度
 
 解答位置：
 
-- [Page 194，L1606–1610](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-194)
+- [Page 194，L1606–1610，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-194)
 
 ## U3-034 电缆绕线架中移去线轴
 
@@ -1794,7 +1794,7 @@ AKC-1自动机用两束单色光照射陶瓷，按通过样品的光通量强度
 
 解答位置：
 
-- [Page 195，L1628–1633](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-195)
+- [Page 195，L1628–1633，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-195)
 
 ## U3-035 通古斯陨石点爆炸模型
 
@@ -1810,7 +1810,7 @@ AKC-1自动机用两束单色光照射陶瓷，按通过样品的光通量强度
 
 解答位置：
 
-- [Page 213，L2324–2328](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-213)
+- [Page 213，L2324–2328，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-213)
 
 ## U3-037 隔离不同石油以避免混合（待跨文件配对）
 
@@ -1818,6 +1818,6 @@ AKC-1自动机用两束单色光照射陶瓷，按通过样品的光通量强度
 
 解答位置：
 
-- [Page 183，L1191–1195](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-183)
-- [Page 184，L1196–1202](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-184)
+- [Page 183，L1191–1195，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-183)
+- [Page 184，L1196–1202，本地材料](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-184)
 

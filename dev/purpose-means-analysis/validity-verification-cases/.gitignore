@@ -1,0 +1,27 @@
+# Local references, evidence and original experiment inputs are not published.
+/_private/
+
+# This case-study directory publishes text only. Other repo directories are unaffected.
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.bmp
+*.tif
+*.tiff
+*.avif
+*.heic
+*.zip
+*.7z
+*.tar
+*.gz
+*.docx
+*.xlsx
+*.pptx
+*.mp3
+*.mp4
+__pycache__/
+*.pyc

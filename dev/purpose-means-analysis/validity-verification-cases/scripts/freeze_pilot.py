@@ -21,6 +21,7 @@ for case_id in sys.argv[1:]:
         'file': relative,
         'sha256': hashlib.sha256(path.read_bytes()).hexdigest(),
         'question_sha256': hashlib.sha256(question.read_bytes()).hexdigest(),
+        'protocol_file': 'protocols/solver.md',
         'protocol_sha256': hashlib.sha256((ROOT / 'protocols/solver.md').read_bytes()).hexdigest(),
         'frozen_at_utc': datetime.now(timezone.utc).isoformat(),
         'stage': 'before_answer_release'})

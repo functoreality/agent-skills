@@ -7,6 +7,12 @@
 用户明确豁免两个 Skill 的常规独立审核。
 不编辑 Skill，不提交 Git，不阅读其他案例产出。
 
+## 本地材料与公开记录
+
+原书输入仅从案例目录下的`_private/references/altshuller/`读取，
+材料未安装时参照[sources说明](../sources/README.md)，不改回个人电脑原路径。
+旧三题所用原协议另存在私有归档，当前文件是路径整理后的公开维护版本。
+
 ## 可读取范围与先后顺序
 
 阶段一仅可读取：本协议、分配的 question.md、两个 Skill 及其本地参考文件。
@@ -24,14 +30,14 @@
 
 ## 方法路由
 
-先读取：
+先读取以下仓库内文件，链接相对于本协议所在目录：
 
-- ../../../../skills/causal-chain-analysis/SKILL.md
-- ../../../../skills/causal-chain-analysis/references/factor_definition.md
-- ../../../../skills/purpose-means-analysis/SKILL.md
-- ../../../../skills/purpose-means-analysis/references/scenarios.md
-- ../../../../skills/purpose-means-analysis/references/node-definition.md
-- ../../../../skills/purpose-means-analysis/references/expansion-patterns.md
+- [causal-chain-analysis/SKILL.md](../../../../skills/causal-chain-analysis/SKILL.md)
+- [causal-chain-analysis/references/factor_definition.md](../../../../skills/causal-chain-analysis/references/factor_definition.md)
+- [purpose-means-analysis/SKILL.md](../../../../skills/purpose-means-analysis/SKILL.md)
+- [purpose-means-analysis/references/scenarios.md](../../../../skills/purpose-means-analysis/references/scenarios.md)
+- [purpose-means-analysis/references/node-definition.md](../../../../skills/purpose-means-analysis/references/node-definition.md)
+- [purpose-means-analysis/references/expansion-patterns.md](../../../../skills/purpose-means-analysis/references/expansion-patterns.md)
 
 现有系统缺点：先 CCA，沿客观发生机制追原因，保留可干预的必要条件。
 新功能或整体替换：PMA，以系统真正应实现的正向功能为根，

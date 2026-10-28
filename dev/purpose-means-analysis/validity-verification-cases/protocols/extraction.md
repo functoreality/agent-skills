@@ -21,7 +21,7 @@ JSON 为数组，每项包含：
 `question_refs`（数组，每个是 {file,line_start,line_end,page}）、
 `answer`（原书解法摘要，未发现用 null，勿自己补解）、
 `answer_refs`（同格式）、`keywords`（数组）、`uncertainties`（数组）、
-`related_ids`（数组）。所有 file 用原文绝对路径，页码采用 ## Page 标记。
+`related_ids`（数组）。所有 file 用相对当前案例目录的私有原文路径，统一以`_private/references/altshuller/`开头，页码采用 ## Page 标记。
 某题仅在本部分有答案而题干在别处，仍记录同一 T 编号，statement 写 null。
 跨文件无法确认时标待配对，主 agent 负责合并。多个书中解法均须记录。
 文字保持简洁，但题干摘要不能泄露只在答案中出现的巧思。
