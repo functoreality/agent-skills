@@ -6,6 +6,7 @@ import hashlib
 import json
 import re
 import subprocess
+from versioned_inputs import historical_input
 
 ROOT = Path(__file__).resolve().parents[1]
 PRIVATE = ROOT / '_private'
@@ -16,6 +17,7 @@ args = parser.parse_args()
 errors, warnings = [], []
 skipped_private = set()
 source_cache = {}
+historical_skill_inputs_checked = 0
 BINARY_SUFFIXES = {'.pdf', '.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg', '.bmp',
                    '.tif', '.tiff', '.avif', '.heic', '.zip', '.7z', '.tar', '.gz',
                    '.docx', '.xlsx', '.pptx', '.mp3', '.mp4'}
@@ -48,6 +50,19 @@ def verify_hash(item, label):
     path = ROOT / item['path']
     if available(path, label) and hashlib.sha256(path.read_bytes()).hexdigest() != item['sha256']:
         errors.append(f'{label} fingerprint changed: {item["path"]}')
+
+
+def verify_historical_hash(item, revision):
+    global historical_skill_inputs_checked
+    try:
+        data = historical_input(ROOT, item['path'], revision)
+    except (subprocess.CalledProcessError, ValueError):
+        errors.append(f'Historical input unavailable: {revision}:{item["path"]}')
+        return
+    if hashlib.sha256(data).hexdigest() != item['sha256']:
+        errors.append(f'Historical input fingerprint mismatch: {item["path"]}')
+    else:
+        historical_skill_inputs_checked += 1
 
 
 def check_public_file(name, data):
@@ -120,8 +135,12 @@ for path in public_files:
         linked = path.parent / target
         available(linked, f'link from {path.relative_to(ROOT)}')
 
-for item in json.loads((ROOT / 'sources/manifest.json').read_text())['files']:
-    verify_hash(item, 'Input')
+original_inputs = json.loads((ROOT / 'sources/manifest.json').read_text())
+for item in original_inputs['files']:
+    if item['path'].startswith('../../../skills/'):
+        verify_historical_hash(item, original_inputs['repository_head'])
+    else:
+        verify_hash(item, 'Input')
 verify_hash(json.loads((ROOT / 'sources/pdf-manifest.json').read_text()), 'PDF input')
 for item in json.loads((ROOT / 'sources/private-inputs-manifest.json').read_text())['files']:
     verify_hash(item, 'Original private input')
@@ -137,7 +156,12 @@ batch_count = 0
 for manifest_path in sorted((ROOT / 'batches').glob('*/manifest.json')):
     batch_count += 1
     batch = json.loads(manifest_path.read_text())
-    for item in batch['skill_files'] + [batch['protocol']] + batch['questions']:
+    for item in batch['skill_files']:
+        if batch.get('status') == 'completed':
+            verify_historical_hash(item, batch.get('baseline_commit', batch['repository_head']))
+        else:
+            verify_hash(item, 'Active batch input')
+    for item in [batch['protocol']] + batch['questions']:
         verify_hash(item, 'Batch input')
     seen_stages = set()
     for record in batch['freeze_records']:
@@ -151,6 +175,20 @@ for manifest_path in sorted((ROOT / 'batches').glob('*/manifest.json')):
         verify_hash(record, 'Batch frozen output')
         if record['stage'] == 'reveal' and record['sha256'] != batch['answer_packet_sha256'][record['case_id']]:
             errors.append(f'Answer packet changed: {key}')
+    if batch.get('status') == 'completed':
+        expected = {(case_id, stage) for case_id in batch['case_ids']
+                    for stage in ['cca_pma', 'resource', 'reveal']}
+        if seen_stages != expected:
+            errors.append(f'Incomplete completed batch: {manifest_path.parent.name}')
+        results = json.loads((manifest_path.parent / 'results.json').read_text())
+        if sorted(r['case_id'] for r in results) != sorted(batch['case_ids']):
+            errors.append(f'Batch result coverage mismatch: {manifest_path.parent.name}')
+        for result in results:
+            available(ROOT / result['comparison'], 'batch comparison')
+
+for observation in json.loads((ROOT / 'learnings/observations.json').read_text()):
+    for evidence in observation['evidence']:
+        available(ROOT / evidence, 'learning evidence')
 
 history_commits = 0
 if args.history:
@@ -177,5 +215,6 @@ print(json.dumps({'errors': errors, 'warnings': warnings, 'canonical_cases': len
                   'private_validation': 'requested' if args.with_private else 'not_requested',
                   'private_paths_skipped': len(skipped_private),
                   'batches_checked': batch_count,
+                  'historical_skill_inputs_checked': historical_skill_inputs_checked,
                   'history_commits_checked': history_commits}, ensure_ascii=False, indent=2))
 raise SystemExit(bool(errors))

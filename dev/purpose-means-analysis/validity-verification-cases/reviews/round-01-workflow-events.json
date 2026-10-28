@@ -1,0 +1,106 @@
+[
+  {
+    "case_id": "T05",
+    "agent_task": "/root/round01_t05",
+    "cca_pma_frozen_at": "2026-10-28T08:50:46.613324+00:00",
+    "resource_frozen_at": "2026-10-28T08:52:38.128326+00:00",
+    "answer_file_created_at": "2026-10-28T08:52:38.169540+00:00",
+    "answer_first_read_call_at": "2026-10-28T08:52:50.083Z",
+    "tool_names_before_reveal": [
+      "exec",
+      "send_message"
+    ],
+    "early_answer_read_found": false,
+    "read_scope_review": "specified question, protocol, six skill files, own outputs and format/hash checks",
+    "scope_limit": "protocol isolation, not OS isolation or exclusion of prior knowledge"
+  },
+  {
+    "case_id": "T13",
+    "agent_task": "/root/round01_t13",
+    "cca_pma_frozen_at": "2026-10-28T08:51:06.689375+00:00",
+    "resource_frozen_at": "2026-10-28T08:52:49.222411+00:00",
+    "answer_file_created_at": "2026-10-28T08:52:49.266352+00:00",
+    "answer_first_read_call_at": "2026-10-28T08:53:01.493Z",
+    "tool_names_before_reveal": [
+      "exec",
+      "send_message"
+    ],
+    "early_answer_read_found": false,
+    "read_scope_review": "specified question, protocol, six skill files, own outputs and format/hash checks",
+    "scope_limit": "protocol isolation, not OS isolation or exclusion of prior knowledge"
+  },
+  {
+    "case_id": "T28",
+    "agent_task": "/root/round01_t28",
+    "cca_pma_frozen_at": "2026-10-28T08:50:56.290875+00:00",
+    "resource_frozen_at": "2026-10-28T08:53:07.878777+00:00",
+    "answer_file_created_at": "2026-10-28T08:53:07.923202+00:00",
+    "answer_first_read_call_at": "2026-10-28T08:53:19.822Z",
+    "tool_names_before_reveal": [
+      "exec",
+      "send_message"
+    ],
+    "early_answer_read_found": false,
+    "read_scope_review": "specified question, protocol, six skill files, own outputs and format/hash checks",
+    "scope_limit": "protocol isolation, not OS isolation or exclusion of prior knowledge"
+  },
+  {
+    "case_id": "T34",
+    "agent_task": "/root/round01_t34",
+    "cca_pma_frozen_at": "2026-10-28T08:53:07.955450+00:00",
+    "resource_frozen_at": "2026-10-28T08:55:51.712418+00:00",
+    "answer_file_created_at": "2026-10-28T08:55:51.744867+00:00",
+    "answer_first_read_call_at": "2026-10-28T08:56:00.640Z",
+    "tool_names_before_reveal": [
+      "exec",
+      "send_message"
+    ],
+    "early_answer_read_found": false,
+    "read_scope_review": "specified question, protocol, six skill files, own outputs and format/hash checks",
+    "scope_limit": "protocol isolation, not OS isolation or exclusion of prior knowledge"
+  },
+  {
+    "case_id": "T46",
+    "agent_task": "/root/round01_t46",
+    "cca_pma_frozen_at": "2026-10-28T08:52:23.680482+00:00",
+    "resource_frozen_at": "2026-10-28T08:54:59.997977+00:00",
+    "answer_file_created_at": "2026-10-28T08:55:00.040918+00:00",
+    "answer_first_read_call_at": "2026-10-28T08:55:12.279Z",
+    "tool_names_before_reveal": [
+      "exec",
+      "send_message"
+    ],
+    "early_answer_read_found": false,
+    "read_scope_review": "specified question, protocol, six skill files, own outputs and format/hash checks",
+    "scope_limit": "protocol isolation, not OS isolation or exclusion of prior knowledge"
+  },
+  {
+    "case_id": "T49",
+    "agent_task": "/root/round01_t49",
+    "cca_pma_frozen_at": "2026-10-28T08:51:06.659176+00:00",
+    "resource_frozen_at": "2026-10-28T08:52:49.297767+00:00",
+    "answer_file_created_at": "2026-10-28T08:52:49.327391+00:00",
+    "answer_first_read_call_at": "2026-10-28T08:53:04.577Z",
+    "tool_names_before_reveal": [
+      "exec",
+      "send_message"
+    ],
+    "early_answer_read_found": false,
+    "read_scope_review": "specified question, protocol, six skill files, own outputs and format/hash checks",
+    "scope_limit": "protocol isolation, not OS isolation or exclusion of prior knowledge"
+  },
+  {
+    "case_id": "T61",
+    "agent_task": "/root/round01_t61",
+    "cca_pma_frozen_at": "2026-10-28T08:51:42.434847+00:00",
+    "resource_frozen_at": "2026-10-28T08:53:24.147988+00:00",
+    "answer_file_created_at": "2026-10-28T08:53:24.180277+00:00",
+    "answer_first_read_call_at": "2026-10-28T08:53:36.328Z",
+    "tool_names_before_reveal": [
+      "exec"
+    ],
+    "early_answer_read_found": false,
+    "read_scope_review": "specified question, protocol, six skill files, own outputs and format/hash checks",
+    "scope_limit": "protocol isolation, not OS isolation or exclusion of prior knowledge"
+  }
+]

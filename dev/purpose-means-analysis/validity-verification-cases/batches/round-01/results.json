@@ -1,0 +1,84 @@
+[
+  {
+    "case_id": "T05",
+    "result": "B",
+    "route": "CCA -> local PMA",
+    "candidate_evidence": "S4",
+    "familiarity_self_report": "possible",
+    "ra_first_reference_core_hit": false,
+    "engineering_validation": "not_performed",
+    "notes": "冲击磁变及测量已覆盖，地磁恢复和时间读出未覆盖。",
+    "comparison": "batches/round-01/T05/comparison.md"
+  },
+  {
+    "case_id": "T13",
+    "result": "A-CP",
+    "route": "CCA -> local PMA",
+    "candidate_evidence": "S5",
+    "familiarity_self_report": "possible",
+    "ra_first_reference_core_hit": false,
+    "engineering_validation": "not_performed",
+    "notes": "磁控可聚散颗粒滤床已覆盖，清理细节不同。",
+    "comparison": "batches/round-01/T13/comparison.md"
+  },
+  {
+    "case_id": "T28",
+    "result": "B",
+    "route": "CCA -> replacement PMA",
+    "candidate_evidence": null,
+    "familiarity_self_report": "unrecognized",
+    "ra_first_reference_core_hit": false,
+    "engineering_validation": "not_performed",
+    "notes": "未覆盖液面交线及多水位成像。",
+    "comparison": "batches/round-01/T28/comparison.md"
+  },
+  {
+    "case_id": "T34",
+    "result": "A-CP",
+    "route": "CCA -> local PMA",
+    "candidate_evidence": "S5",
+    "familiarity_self_report": "unrecognized",
+    "ra_first_reference_core_hit": false,
+    "engineering_validation": "not_performed",
+    "notes": "先上漆再离心排出核心已覆盖，控膜参数未验证。",
+    "comparison": "batches/round-01/T34/comparison.md"
+  },
+  {
+    "case_id": "T46",
+    "result": "B",
+    "route": "CCA -> local PMA",
+    "candidate_evidence": null,
+    "familiarity_self_report": "unrecognized",
+    "ra_first_reference_core_hit": false,
+    "engineering_validation": "not_performed",
+    "notes": "未覆盖预置介质及取出时内部汽化产压。",
+    "comparison": "batches/round-01/T46/comparison.md"
+  },
+  {
+    "case_id": "T49",
+    "result": "mixed",
+    "route": "CCA -> local PMA",
+    "candidate_evidence": "S2,S5",
+    "familiarity_self_report": "unrecognized",
+    "ra_first_reference_core_hit": false,
+    "engineering_validation": "not_performed",
+    "notes": "电压具体同族替代已覆盖，原书Kerr未列出。电流Faraday已覆盖。",
+    "comparison": "batches/round-01/T49/comparison.md",
+    "subresults": {
+      "voltage_reference_specific": "B",
+      "voltage_concrete_mechanism_family": "A-CP",
+      "current_reference_specific": "A-CP"
+    }
+  },
+  {
+    "case_id": "T61",
+    "result": "A-CP",
+    "route": "CCA -> local PMA",
+    "candidate_evidence": "S2",
+    "familiarity_self_report": "unrecognized",
+    "ra_first_reference_core_hit": false,
+    "engineering_validation": "not_performed",
+    "notes": "分子输送、摩擦热分解及表面沉积核心已覆盖。",
+    "comparison": "batches/round-01/T61/comparison.md"
+  }
+]

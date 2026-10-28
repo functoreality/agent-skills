@@ -1,12 +1,14 @@
 # CCA / PMA 案例检验
 
-三题试点及T07复盘已完成，现按用户授权启动第一轮7道新题。
-采用小批滚动检验，轮末暂停等待确认，两个Skill未修改。
+三题试点、T07复盘和第一轮7道新题已完成。
+采用小批滚动检验，当前已暂停等待用户确认，两个Skill未修改。
 
 本目录公开纯文本的题答摘要与分析，完整PDF、OCR和截图保存在忽略的`_private/`。
 本地材料路径及公开副本的使用方式见[参考材料说明](sources/README.md)。
 
-- **[三题试点汇总与审核入口](pilot/summary.md)**
+- **[第一轮7题汇总入口](batches/round-01/README.md)**
+- **[候选观察台账](learnings/README.md)**
+- [三题试点汇总](pilot/summary.md)
 - [方法层面的初步观察](pilot/method-observations.md)
 - **[T07的B类复盘完整示范](retrospectives/T07/README.md)**：两项候选指令与跨领域正反例推演，未做盲试
 - [题目索引](inventory/questions.md)
@@ -34,7 +36,7 @@ T07的后验调整及执行遗漏在报告中逐项记录，未认定方法不�
 T60是保留的来源提示，不代表脚本漏检。
 
 - [原始需求](prompt.txt)
-- [统一解题与揭答协议](protocols/solver.md)
+- [当前小批解题协议](protocols/batch-solver.md)与[原试点协议](protocols/solver.md)
 - [资料提取协议](protocols/extraction.md)
 - [来源及Skill版本指纹](sources/manifest.json)
 - [答案前冻结指纹](pilot/freeze.json)

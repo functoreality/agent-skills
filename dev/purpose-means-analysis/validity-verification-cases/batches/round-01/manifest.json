@@ -81,5 +81,155 @@
     "T61": "b85f67a0bbd25b056a1e30bf8df9ebb0f64140ab96f9e14b035f3526b0870702"
   },
   "changes_enabled": [],
-  "freeze_records": []
+  "freeze_records": [
+    {
+      "case_id": "T05",
+      "stage": "cca_pma",
+      "path": "batches/round-01/T05/before-resource.md",
+      "sha256": "ade8d72830278755f88165ed4df429c0aafbbd272567c0b0904a1db508bec08a",
+      "recorded_at": "2026-10-28T08:50:46.613324+00:00"
+    },
+    {
+      "case_id": "T28",
+      "stage": "cca_pma",
+      "path": "batches/round-01/T28/before-resource.md",
+      "sha256": "b5e9594cdda33883ee298db8228221ef052228e8a101799df73152da61f93f9a",
+      "recorded_at": "2026-10-28T08:50:56.290875+00:00"
+    },
+    {
+      "case_id": "T49",
+      "stage": "cca_pma",
+      "path": "batches/round-01/T49/before-resource.md",
+      "sha256": "c882d658bb14c0d1082e5bca2947b6c88a83e9e4b6b294d2ffff796ac50af7e1",
+      "recorded_at": "2026-10-28T08:51:06.659176+00:00"
+    },
+    {
+      "case_id": "T13",
+      "stage": "cca_pma",
+      "path": "batches/round-01/T13/before-resource.md",
+      "sha256": "ee51759787c79028a0a14fc418622f865d4b870ea6ee333be642c20688f063f8",
+      "recorded_at": "2026-10-28T08:51:06.689375+00:00"
+    },
+    {
+      "case_id": "T61",
+      "stage": "cca_pma",
+      "path": "batches/round-01/T61/before-resource.md",
+      "sha256": "9ed3161b3254040de54404cd9bc41e3dc8886ab248f78b7ac3ae88e95b3eb195",
+      "recorded_at": "2026-10-28T08:51:42.434847+00:00"
+    },
+    {
+      "case_id": "T46",
+      "stage": "cca_pma",
+      "path": "batches/round-01/T46/before-resource.md",
+      "sha256": "3a12397fd5b239604acfc69cde33a1597a26043d8b7118bb396c7ac73dddb615",
+      "recorded_at": "2026-10-28T08:52:23.680482+00:00"
+    },
+    {
+      "case_id": "T05",
+      "stage": "resource",
+      "path": "batches/round-01/T05/before-answer.md",
+      "sha256": "06ac72e5aace6d57883ebd96276b8fa77731c4f02cebd28c056274ad4c4fdfae",
+      "recorded_at": "2026-10-28T08:52:38.128326+00:00"
+    },
+    {
+      "case_id": "T05",
+      "stage": "reveal",
+      "path": "batches/round-01/T05/answer.md",
+      "sha256": "3f3bf78436cb0c3288ea2ed7b78159adb8a9bf072bb88e2133d362735cc5e0a5",
+      "recorded_at": "2026-10-28T08:52:38.169540+00:00"
+    },
+    {
+      "case_id": "T13",
+      "stage": "resource",
+      "path": "batches/round-01/T13/before-answer.md",
+      "sha256": "ac731544809b76a6ab3f6e624d2356ae0ec36bc8b6388d263a05ca11cccd506c",
+      "recorded_at": "2026-10-28T08:52:49.222411+00:00"
+    },
+    {
+      "case_id": "T13",
+      "stage": "reveal",
+      "path": "batches/round-01/T13/answer.md",
+      "sha256": "e18297f9c8fc61d9532e65ea8d7d149b6f64589a3553511db60abb9fbd617985",
+      "recorded_at": "2026-10-28T08:52:49.266352+00:00"
+    },
+    {
+      "case_id": "T49",
+      "stage": "resource",
+      "path": "batches/round-01/T49/before-answer.md",
+      "sha256": "c830908273e7f90c593f093f24946677182cf1661b75277d928b5c244749b666",
+      "recorded_at": "2026-10-28T08:52:49.297767+00:00"
+    },
+    {
+      "case_id": "T49",
+      "stage": "reveal",
+      "path": "batches/round-01/T49/answer.md",
+      "sha256": "c4540e8439ae834741eca2f0524b6282af4d70e99a19f259a71fcfb7710a4b5f",
+      "recorded_at": "2026-10-28T08:52:49.327391+00:00"
+    },
+    {
+      "case_id": "T28",
+      "stage": "resource",
+      "path": "batches/round-01/T28/before-answer.md",
+      "sha256": "eb75e133395a5b18ac81e10dd02ac27a2936efc467574a6cda024a0a44733c23",
+      "recorded_at": "2026-10-28T08:53:07.878777+00:00"
+    },
+    {
+      "case_id": "T28",
+      "stage": "reveal",
+      "path": "batches/round-01/T28/answer.md",
+      "sha256": "bb9b570e896bdd1ae9e6c75ee0b5b3780f1540ddb50fec8d63b0f88811496bf3",
+      "recorded_at": "2026-10-28T08:53:07.923202+00:00"
+    },
+    {
+      "case_id": "T34",
+      "stage": "cca_pma",
+      "path": "batches/round-01/T34/before-resource.md",
+      "sha256": "2b7b45709a97fcf3f1b0d6fe4d70baf70ecc3a022fbc461a40c12e45a66b8241",
+      "recorded_at": "2026-10-28T08:53:07.955450+00:00"
+    },
+    {
+      "case_id": "T61",
+      "stage": "resource",
+      "path": "batches/round-01/T61/before-answer.md",
+      "sha256": "fc39e6529ec3b81338a1b7350d583b8ff9443e60f236e2925060011edf4098cb",
+      "recorded_at": "2026-10-28T08:53:24.147988+00:00"
+    },
+    {
+      "case_id": "T61",
+      "stage": "reveal",
+      "path": "batches/round-01/T61/answer.md",
+      "sha256": "b85f67a0bbd25b056a1e30bf8df9ebb0f64140ab96f9e14b035f3526b0870702",
+      "recorded_at": "2026-10-28T08:53:24.180277+00:00"
+    },
+    {
+      "case_id": "T46",
+      "stage": "resource",
+      "path": "batches/round-01/T46/before-answer.md",
+      "sha256": "0bc85764ab997387bce95872f63deed295b1be89bf2f44ad1fcaf2f3e2664331",
+      "recorded_at": "2026-10-28T08:54:59.997977+00:00"
+    },
+    {
+      "case_id": "T46",
+      "stage": "reveal",
+      "path": "batches/round-01/T46/answer.md",
+      "sha256": "55493e94ef6de3cdc5d4c573867c99f358e1c5988a8f696eda19f70db54168ca",
+      "recorded_at": "2026-10-28T08:55:00.040918+00:00"
+    },
+    {
+      "case_id": "T34",
+      "stage": "resource",
+      "path": "batches/round-01/T34/before-answer.md",
+      "sha256": "3d27f974b8e301364c535e53dbc75d5359fc58b08b0194ac60d2d974f7b4ff35",
+      "recorded_at": "2026-10-28T08:55:51.712418+00:00"
+    },
+    {
+      "case_id": "T34",
+      "stage": "reveal",
+      "path": "batches/round-01/T34/answer.md",
+      "sha256": "08d7c71eadb20d5424293fcf0a7c321c091b8499e0782e08b8c2e9197e2e6c25",
+      "recorded_at": "2026-10-28T08:55:51.744867+00:00"
+    }
+  ],
+  "status": "completed",
+  "baseline_commit": "aed6ba6"
 }

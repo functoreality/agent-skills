@@ -21,7 +21,8 @@
       "原试解已有间接测量分支，不能归因为完全缺少该能力。"
     ],
     "next_action": "等待新案例独立出现相同缺口，尚不修改Skill。",
-    "adopted_change": null
+    "adopted_change": null,
+    "round_01_assessment": "未确认复现。T46阻力根有局部性，但已存在施力PMA，不能把漏内部产压直接归为H1。"
   },
   {
     "id": "T07-H2",
@@ -31,20 +32,96 @@
     "instruction_benefit_confidence": "unverified",
     "hypothesis": "观测受阻时，可能需要更明确地引导辅助结构与可观测信号的联合设计。",
     "supporting_cases": [
-      "T07"
+      "T07",
+      "T28"
     ],
     "independent_case_families": [
-      "water-depth-measurement"
+      "geometric-measurement"
     ],
     "evidence": [
       "retrospectives/T07/case-analysis.md",
-      "retrospectives/T07/transfer-checks.md"
+      "retrospectives/T07/transfer-checks.md",
+      "batches/round-01/T28/comparison.md"
     ],
     "counterevidence": [
       "既有Skill已有相关展开指示，未证明需要新增规则。",
-      "原试解已有间接测量分支，不能归因为完全缺少该能力。"
+      "原试解已有间接测量分支，不能归因为完全缺少该能力。",
+      "T49在未修改Skill下生成了具体电光/磁光信号结构，不能声称该类操作完全缺失。"
     ],
     "next_action": "等待新案例独立出现相同缺口，尚不修改Skill。",
+    "adopted_change": null,
+    "round_01_assessment": "新增后验相关实例，仍同属几何测量。尚无候选指令的行为验证，不升级。"
+  },
+  {
+    "id": "R01-O3",
+    "title": "动态信号到历史定时的桥接",
+    "status": "collecting",
+    "attribution_confidence": "low_to_medium",
+    "instruction_benefit_confidence": "unverified",
+    "observed_fact": "原稿磁状态与时间标尺分开，揭答后补入地磁恢复驱动与时间映射。",
+    "hypothesis": "可能缺少连接动态过程与时间读出的执行触发，但关键效应知识及真实性也是主要未决项。",
+    "supporting_cases": [
+      "T05"
+    ],
+    "independent_case_families": [
+      "event-history-inference"
+    ],
+    "evidence": [
+      "batches/round-01/T05/comparison.md"
+    ],
+    "counterevidence": [
+      "既有PMA测量及输入输出变换要求已容纳。",
+      "枪管磁性有模糊记忆贡献，恢复时间主张未核验。"
+    ],
+    "next_action": "寻找已知动态规律且仍遗漏桥接的新例。",
+    "adopted_change": null
+  },
+  {
+    "id": "R01-O4",
+    "title": "受限阶段的条件提前布置",
+    "status": "collecting",
+    "attribution_confidence": "low_to_medium",
+    "instruction_benefit_confidence": "unverified",
+    "observed_fact": "原稿因缺原有供压通道暂缓液压，揭答后改为球后预置水、加热内部产压。",
+    "hypothesis": "一种实现的缺失前提可能被扩展为整类方案限制，需考虑可否预置与后续激活。",
+    "supporting_cases": [
+      "T46"
+    ],
+    "independent_case_families": [
+      "delayed-disassembly"
+    ],
+    "evidence": [
+      "batches/round-01/T46/comparison.md"
+    ],
+    "counterevidence": [
+      "原稿S6/S7已有装配前材料变化，并非完全没有时间视角。",
+      "PMA中介对象和实施条件已有相关要求，原题未给深孔余隙。"
+    ],
+    "next_action": "在其他任务寻找先形成条件再激活的独立缺口，并检查允许预置的边界。",
+    "adopted_change": null
+  },
+  {
+    "id": "R01-O5",
+    "title": "同族效应的停止粒度",
+    "status": "collecting",
+    "attribution_confidence": "low_to_medium",
+    "instruction_benefit_confidence": "unverified",
+    "observed_fact": "原稿电压S2为Pockels，电流S5为Faraday，揭答后才补Kerr。",
+    "hypothesis": "可能是相邻效应搜索停止过早，也可能只是合理替代已足够，不值得修改通用规则。",
+    "supporting_cases": [
+      "T49"
+    ],
+    "independent_case_families": [
+      "field-to-optical-sensing"
+    ],
+    "evidence": [
+      "batches/round-01/T49/comparison.md"
+    ],
+    "counterevidence": [
+      "已有具体电光候选，不是只列光学大类。",
+      "现有Skill已支持效应Or展开，强制穷举可能扩大成本。"
+    ],
+    "next_action": "仅记录复现差异，待出现功能缺口再评估搜索策略。",
     "adopted_change": null
   }
 ]
