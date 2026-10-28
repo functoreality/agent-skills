@@ -133,6 +133,25 @@ for record in json.loads((ROOT / 'pilot/freeze.json').read_text()):
         if available(path, 'frozen input') and hashlib.sha256(path.read_bytes()).hexdigest() != expected:
             errors.append(f'Frozen input changed: {path.relative_to(ROOT)}')
 
+batch_count = 0
+for manifest_path in sorted((ROOT / 'batches').glob('*/manifest.json')):
+    batch_count += 1
+    batch = json.loads(manifest_path.read_text())
+    for item in batch['skill_files'] + [batch['protocol']] + batch['questions']:
+        verify_hash(item, 'Batch input')
+    seen_stages = set()
+    for record in batch['freeze_records']:
+        key = (record['case_id'], record['stage'])
+        if key in seen_stages or record['case_id'] not in batch['case_ids']:
+            errors.append(f'Invalid batch freeze: {key}')
+        previous = {'cca_pma': None, 'resource': 'cca_pma', 'reveal': 'resource'}.get(record['stage'])
+        if previous and (record['case_id'], previous) not in seen_stages:
+            errors.append(f'Missing prior batch stage: {key}')
+        seen_stages.add(key)
+        verify_hash(record, 'Batch frozen output')
+        if record['stage'] == 'reveal' and record['sha256'] != batch['answer_packet_sha256'][record['case_id']]:
+            errors.append(f'Answer packet changed: {key}')
+
 history_commits = 0
 if args.history:
     try:
@@ -157,5 +176,6 @@ if args.history:
 print(json.dumps({'errors': errors, 'warnings': warnings, 'canonical_cases': len(cases),
                   'private_validation': 'requested' if args.with_private else 'not_requested',
                   'private_paths_skipped': len(skipped_private),
+                  'batches_checked': batch_count,
                   'history_commits_checked': history_commits}, ensure_ascii=False, indent=2))
 raise SystemExit(bool(errors))

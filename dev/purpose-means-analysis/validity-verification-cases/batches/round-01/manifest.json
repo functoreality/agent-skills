@@ -1,0 +1,85 @@
+{
+  "batch_id": "round-01",
+  "repository_head": "fa0ff3d2d6ba8c06b6cd8c5c247dd1d33d5d7c17",
+  "case_ids": [
+    "T05",
+    "T13",
+    "T28",
+    "T34",
+    "T46",
+    "T49",
+    "T61"
+  ],
+  "selection": "purposive_diversity_not_statistical_sample",
+  "skill_files": [
+    {
+      "path": "../../../skills/causal-chain-analysis/SKILL.md",
+      "sha256": "2be5c61e4df0752c37ba7ec685fe1371456f9b7ef3cd62893c1b0450b6d42fe9"
+    },
+    {
+      "path": "../../../skills/causal-chain-analysis/references/factor_definition.md",
+      "sha256": "518b25ade5ad7b4afe4392e4cbc2ff309d4796472eedd1c8fcfb0f4c4a44f737"
+    },
+    {
+      "path": "../../../skills/purpose-means-analysis/SKILL.md",
+      "sha256": "14b439c474cb895e9a46321dd5d96b2327ca358d86ccf97f0b60512babfa0039"
+    },
+    {
+      "path": "../../../skills/purpose-means-analysis/references/expansion-patterns.md",
+      "sha256": "3e1070842ef146ed307689fc94b71224e31f54d7ce8fa896969b02868672049b"
+    },
+    {
+      "path": "../../../skills/purpose-means-analysis/references/node-definition.md",
+      "sha256": "974fadef36ced1504318b202ef0fa80fa5be0e39e78685df50d8f95b7323f73e"
+    },
+    {
+      "path": "../../../skills/purpose-means-analysis/references/scenarios.md",
+      "sha256": "f51f4d377608e0860393679e7b1d2bd079bb9175c6ba17f62e15f246c2e88a4c"
+    }
+  ],
+  "protocol": {
+    "path": "protocols/batch-solver.md",
+    "sha256": "e1541445917cd737ae456239c14eab267f2b8d8498455244bd4e2ae4057b031f"
+  },
+  "questions": [
+    {
+      "path": "batches/round-01/T05/question.md",
+      "sha256": "6baeabbdbc5a210ddc9929ac9de9f472ab3cc835df8ed873e32477a183686445"
+    },
+    {
+      "path": "batches/round-01/T13/question.md",
+      "sha256": "70a261ff1b04e34227556d2cd1f91fa0f2af17b9bcab6456a0b88c286954d5ed"
+    },
+    {
+      "path": "batches/round-01/T28/question.md",
+      "sha256": "2dc991ec9370e062eaad057648c010ac2f24f1d4e1127165536d2c5a44976776"
+    },
+    {
+      "path": "batches/round-01/T34/question.md",
+      "sha256": "b2d982bfe8ba93bd62b103a910045be7a292ace3b570e2fe63dc4f39ca3f0bc5"
+    },
+    {
+      "path": "batches/round-01/T46/question.md",
+      "sha256": "6d719c58e7e82113c129b5d4bf43635132c1db03b307a0b8caf07641f609b3ee"
+    },
+    {
+      "path": "batches/round-01/T49/question.md",
+      "sha256": "26399ae5cf6ea784b5d36511beeeb08f29d3066318052af11de921dcf6dbc0fc"
+    },
+    {
+      "path": "batches/round-01/T61/question.md",
+      "sha256": "7f70db7ad77394f6799dd202d979f9fe49b34406f01086031046e9c3ff4d25b9"
+    }
+  ],
+  "answer_packet_sha256": {
+    "T05": "3f3bf78436cb0c3288ea2ed7b78159adb8a9bf072bb88e2133d362735cc5e0a5",
+    "T13": "e18297f9c8fc61d9532e65ea8d7d149b6f64589a3553511db60abb9fbd617985",
+    "T28": "bb9b570e896bdd1ae9e6c75ee0b5b3780f1540ddb50fec8d63b0f88811496bf3",
+    "T34": "08d7c71eadb20d5424293fcf0a7c321c091b8499e0782e08b8c2e9197e2e6c25",
+    "T46": "55493e94ef6de3cdc5d4c573867c99f358e1c5988a8f696eda19f70db54168ca",
+    "T49": "c4540e8439ae834741eca2f0524b6282af4d70e99a19f259a71fcfb7710a4b5f",
+    "T61": "b85f67a0bbd25b056a1e30bf8df9ebb0f64140ab96f9e14b035f3526b0870702"
+  },
+  "changes_enabled": [],
+  "freeze_records": []
+}

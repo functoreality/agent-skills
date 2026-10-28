@@ -1,0 +1,50 @@
+[
+  {
+    "id": "T07-H1",
+    "title": "初始缺点与局部前提",
+    "status": "collecting",
+    "attribution_confidence": "low_to_medium",
+    "instruction_benefit_confidence": "unverified",
+    "hypothesis": "初始缺点采用中间状态时，可能需要更明确地检查读数规则及局部前提。",
+    "supporting_cases": [
+      "T07"
+    ],
+    "independent_case_families": [
+      "water-depth-measurement"
+    ],
+    "evidence": [
+      "retrospectives/T07/case-analysis.md",
+      "retrospectives/T07/transfer-checks.md"
+    ],
+    "counterevidence": [
+      "既有Skill已有相关展开指示，未证明需要新增规则。",
+      "原试解已有间接测量分支，不能归因为完全缺少该能力。"
+    ],
+    "next_action": "等待新案例独立出现相同缺口，尚不修改Skill。",
+    "adopted_change": null
+  },
+  {
+    "id": "T07-H2",
+    "title": "观测信号与辅助结构",
+    "status": "collecting",
+    "attribution_confidence": "low_to_medium",
+    "instruction_benefit_confidence": "unverified",
+    "hypothesis": "观测受阻时，可能需要更明确地引导辅助结构与可观测信号的联合设计。",
+    "supporting_cases": [
+      "T07"
+    ],
+    "independent_case_families": [
+      "water-depth-measurement"
+    ],
+    "evidence": [
+      "retrospectives/T07/case-analysis.md",
+      "retrospectives/T07/transfer-checks.md"
+    ],
+    "counterevidence": [
+      "既有Skill已有相关展开指示，未证明需要新增规则。",
+      "原试解已有间接测量分支，不能归因为完全缺少该能力。"
+    ],
+    "next_action": "等待新案例独立出现相同缺口，尚不修改Skill。",
+    "adopted_change": null
+  }
+]

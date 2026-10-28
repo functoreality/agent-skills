@@ -1,7 +1,7 @@
 # CCA / PMA 案例检验
 
-前三步已完成，当前等待用户审核三题试点。
-尚未启动全量试解，两个 Skill 未修改。
+三题试点及T07复盘已完成，现按用户授权启动第一轮7道新题。
+采用小批滚动检验，轮末暂停等待确认，两个Skill未修改。
 
 本目录公开纯文本的题答摘要与分析，完整PDF、OCR和截图保存在忽略的`_private/`。
 本地材料路径及公开副本的使用方式见[参考材料说明](sources/README.md)。
@@ -11,7 +11,7 @@
 - **[T07的B类复盘完整示范](retrospectives/T07/README.md)**：两项候选指令与跨领域正反例推演，未做盲试
 - [题目索引](inventory/questions.md)
 - [原书解答索引](inventory/answers.md)
-- [执行计划](planning/plan.md)与[阶段状态](planning/status.md)
+- [迭代计划](planning/plan-v2.md)与[阶段状态](planning/status.md)
 - [三题收尾核验](reviews/pilot-review.md)
 - [公开目录整理](reviews/publication-review.md)
 - [原书PDF补充核验](reviews/pdf-supplement-review.md)：19页定点核对，三题分类不变
@@ -40,4 +40,6 @@ T60是保留的来源提示，不代表脚本漏检。
 - [答案前冻结指纹](pilot/freeze.json)
 - [计划核对](reviews/plan-review.md)、[索引核对](reviews/inventory-review.md)
 
-审核同意后继续全量队列，再生成按案例、按方法组织的两份最终总领文档。
+当前按每轮6至7题滚动检验，每轮提供按案例、按方法的短汇总后停止等待用户。
+[本轮入口](batches/round-01/README.md)与[候选观察台账](learnings/README.md)。
+T07-H1/H2继续观察，尚未写入Skill。
