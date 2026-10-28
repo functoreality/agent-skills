@@ -1,0 +1,32 @@
+[
+  {
+    "case_id": "T04",
+    "file": "pilot/T04/before-answer.md",
+    "sha256": "200750e1c8fb9118e7dee52863b39647b50be0f655e8f6ffd5d49059bca817a7",
+    "question_sha256": "9f62a45a6efb5db295f897bf81b4dcd8c745a5371c6dbe7cad0a62c023a78d86",
+    "protocol_sha256": "23c7304729128643a2364e2b7dde47b1f9c0d394ae0872fcd64f97846596877e",
+    "frozen_at_utc": "2026-10-28T03:08:10.583162+00:00",
+    "stage": "before_answer_release",
+    "protocol_file": "_private/frozen-inputs/solver-original.md"
+  },
+  {
+    "case_id": "T31",
+    "file": "pilot/T31/before-answer.md",
+    "sha256": "9fc3b3af4be317a1ee115673845f465ef15cbd6183d2634d7190a12b3c378de2",
+    "question_sha256": "c0d19d1492711d639a0695849af87bea4f815064f0167549e25087416411d55b",
+    "protocol_sha256": "23c7304729128643a2364e2b7dde47b1f9c0d394ae0872fcd64f97846596877e",
+    "frozen_at_utc": "2026-10-28T03:08:44.069983+00:00",
+    "stage": "before_answer_release",
+    "protocol_file": "_private/frozen-inputs/solver-original.md"
+  },
+  {
+    "case_id": "T07",
+    "file": "pilot/T07/before-answer.md",
+    "sha256": "5d5259ad3e6a0c01c3d83f851df3d5a32d9dcd4ae5e386cce094f8313da20eca",
+    "question_sha256": "3ba11bf91e0deb1691cffe09b752084a322d0e67cddb1b98e5a8f779088c5b54",
+    "protocol_sha256": "23c7304729128643a2364e2b7dde47b1f9c0d394ae0872fcd64f97846596877e",
+    "frozen_at_utc": "2026-10-28T03:10:14.931071+00:00",
+    "stage": "before_answer_release",
+    "protocol_file": "_private/frozen-inputs/solver-original.md"
+  }
+]
