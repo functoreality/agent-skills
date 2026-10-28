@@ -1,0 +1,57 @@
+[
+  {
+    "case_id": "T04",
+    "agent_task": "/root/pilot_t04",
+    "candidate_last_write_call_at_utc": "2026-10-28T03:07:42.478Z",
+    "frozen_at_utc": "2026-10-28T03:08:10.583162+00:00",
+    "answer_first_read_call_at_utc": "2026-10-28T03:08:31.288Z",
+    "pre_freeze_tool_names": [
+      "exec"
+    ],
+    "pre_freeze_read_scope_manually_checked": [
+      "protocols/solver.md",
+      "pilot/T04/question.md",
+      "two SKILL.md files and four specified local reference files",
+      "own before-answer.md for self-check where used"
+    ],
+    "premature_reference_answer_read_found": false,
+    "original_book_or_inventory_read_before_freeze_found": false
+  },
+  {
+    "case_id": "T07",
+    "agent_task": "/root/pilot_t07",
+    "candidate_last_write_call_at_utc": "2026-10-28T03:09:43.677Z",
+    "frozen_at_utc": "2026-10-28T03:10:14.931071+00:00",
+    "answer_first_read_call_at_utc": "2026-10-28T03:10:28.682Z",
+    "pre_freeze_tool_names": [
+      "exec"
+    ],
+    "pre_freeze_read_scope_manually_checked": [
+      "protocols/solver.md",
+      "pilot/T07/question.md",
+      "two SKILL.md files and four specified local reference files",
+      "own before-answer.md for self-check where used"
+    ],
+    "premature_reference_answer_read_found": false,
+    "original_book_or_inventory_read_before_freeze_found": false
+  },
+  {
+    "case_id": "T31",
+    "agent_task": "/root/pilot_t31",
+    "candidate_last_write_call_at_utc": "2026-10-28T03:08:16.915Z",
+    "frozen_at_utc": "2026-10-28T03:08:44.069983+00:00",
+    "answer_first_read_call_at_utc": "2026-10-28T03:09:01.579Z",
+    "pre_freeze_tool_names": [
+      "exec",
+      "send_message"
+    ],
+    "pre_freeze_read_scope_manually_checked": [
+      "protocols/solver.md",
+      "pilot/T31/question.md",
+      "two SKILL.md files and four specified local reference files",
+      "own before-answer.md for self-check where used"
+    ],
+    "premature_reference_answer_read_found": false,
+    "original_book_or_inventory_read_before_freeze_found": false
+  }
+]
