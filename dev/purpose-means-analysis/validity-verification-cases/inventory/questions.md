@@ -18,7 +18,10 @@
 
 - [Page 19，L674–678](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-19)
 
-疑点：题干OCR为“为了保障氧在倒钢水之前在管道中不被氧化”，与答案“防止液态氧在流动中气化”不一致。；证书号码在Page 20为37707，Page 26回指类似发明写317707，待核原图。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 题干OCR为“为了保障氧在倒钢水之前在管道中不被氧化”，与答案“防止液态氧在流动中气化”不一致。
+- 证书号码在Page 20为37707，Page 26回指类似发明写317707，待核原图。
 
 ## T02 改善电弧焊接观察条件
 
@@ -39,7 +42,10 @@
 - [Page 22，L782–786](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-22)
 - [Page 163，L427–428](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-163)
 
-疑点：此为既有题解法回提，编号按原文，待合并核对。；本部分仅称此前讲过分离树皮的课题3，未重述题干或明确给出其解法。随后加铁磁粉的句子讲的是课题29，不能直接归为课题3答案。待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 此为既有题解法回提，编号按原文，待合并核对。
+- 本部分仅称此前讲过分离树皮的课题3，未重述题干或明确给出其解法。随后加铁磁粉的句子讲的是课题29，不能直接归为课题3答案。待跨文件配对。
 
 相关条目：T03-V1、T29。
 
@@ -61,7 +67,9 @@
 
 - [Page 27，L963–968](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-27)
 
-疑点：Page 28开头存在乱码，但冰磨料解法完整。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- Page 28开头存在乱码，但冰磨料解法完整。
 
 ## T05 干净手枪能否证明未开枪
 
@@ -74,7 +82,10 @@
 - [Page 39，L1397–1419](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-39)
 - [Page 142，L2430–2432](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-142)
 
-疑点：本部分未发现答案，需跨文件配对。；Page137误称“课题5预先加入荧光粉”，父agent核对对应荧光检漏题，未并入本题。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未发现答案，需跨文件配对。
+- Page137误称“课题5预先加入荧光粉”，父agent核对对应荧光检漏题，未并入本题。
 
 ## T06 一块试验场模拟200种土壤
 
@@ -85,7 +96,9 @@
 - [Page 39，L1421–1425](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-39)
 - [Page 172，L785–790](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
 
-疑点：仅被列为标准解法4的例子，无具体题干和技术答案，待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 仅被列为标准解法4的例子，无具体题干和技术答案，待跨文件配对。
 
 相关条目：T13、T29。
 
@@ -100,7 +113,11 @@
 - [Page 39，L1427–1432](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-39)
 - [Page 85，L245–248](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-85)
 
-疑点：标签OCR为“澡题7”。；本部分未发现答案，需跨文件配对。；原文AB、EB、BΓ等字母OCR混乱，几何图2、3缺失，不据此补出公式。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 标签OCR为“澡题7”。
+- 本部分未发现答案，需跨文件配对。
+- 原文AB、EB、BΓ等字母OCR混乱，几何图2、3缺失，不据此补出公式。
 
 ## T08 不中断内圆磨削测砂轮直径
 
@@ -113,7 +130,14 @@
 - [Page 40，L1438–1442](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-40)
 - [Page 86，L290–296](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-86)
 
-疑点：标签OCR为“课愿8”。；物场图丢失布局，答案仅能恢复文字原则，具体原书答案需后文配对。；图4–6未被OCR保留，三角形结构需查图。易熔垫的回提见Page137 line2215–2216，应作为额外答案引用补入。；Page137易熔垫回提的编号8可能错引，需主agent按机制与前部题干核对，不据此认定与砂轮方案相同。；本部分仅有局部重述和答案方向，完整题干及最终技术解法在别处。OCR原句为“通过砂轮壁（或沿轴）”，未擅自更正。；主Agent核对：Page137“课题8”的易熔垫机制对应T12楔子，不计作T08砂轮解法。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 标签OCR为“课愿8”。
+- 物场图丢失布局，答案仅能恢复文字原则，具体原书答案需后文配对。
+- 图4–6未被OCR保留，三角形结构需查图。易熔垫的回提见Page137 line2215–2216，应作为额外答案引用补入。
+- Page137易熔垫回提的编号8可能错引，需主agent按机制与前部题干核对，不据此认定与砂轮方案相同。
+- 本部分仅有局部重述和答案方向，完整题干及最终技术解法在别处。OCR原句为“通过砂轮壁（或沿轴）”，未擅自更正。
+- 主Agent核对：Page137“课题8”的易熔垫机制对应T12楔子，不计作T08砂轮解法。
 
 ## T09 发现冷冻机泄漏点
 
@@ -123,7 +147,10 @@
 
 - [Page 41，L1454–1457](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-41)
 
-疑点：主agent核对前部题干为课题9。本部分仅回提，无完整题干。；本部分仅有解法回述，完整检测目标与题干待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 主agent核对前部题干为课题9。本部分仅回提，无完整题干。
+- 本部分仅有解法回述，完整检测目标与题干待跨文件配对。
 
 ## T10 非接触判断聚合物硬化程度
 
@@ -134,7 +161,9 @@
 - [Page 41，L1459–1462](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-41)
 - [Page 41，L1474–1475](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-41)
 
-疑点：本部分仅有解法回述，完整题干待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分仅有解法回述，完整题干待跨文件配对。
 
 ## T11 检查颗粒假液化运动强度
 
@@ -154,7 +183,9 @@
 - [Page 41，L1468–1470](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-41)
 - [Page 42，L1482–1484](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-42)
 
-疑点：Page137 L2215以课题8错号回提易熔垫，按Page41楔子解答机制归本题。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- Page137 L2215以课题8错号回提易熔垫，按Page41楔子解答机制归本题。
 
 ## T13 气体过滤器易过滤而难清理
 
@@ -167,7 +198,9 @@
 - [Page 49，L1764–1769](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-49)
 - [Page 117，L1444–1446](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-117)
 
-疑点：父agent核对前文：真正的课题9是荧光检漏，本段“课题9”错号，过滤器题待主agent按原题机制配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 父agent核对前文：真正的课题9是荧光检漏，本段“课题9”错号，过滤器题待主agent按原题机制配对。
 
 相关条目：T06。
 
@@ -180,7 +213,9 @@
 - [Page 52，L1888–1893](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-52)
 - [Page 172，L769–774](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
 
-疑点：只说该题是标准解法3的例子，无具体题干与技术答案。待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 只说该题是标准解法3的例子，无具体题干与技术答案。待跨文件配对。
 
 ## T15 确定钻杆卡钻深度
 
@@ -193,13 +228,17 @@
 
 ## T16 含铁磁悬浮物的焊接回转台
 
-发明证书527280给出焊接控制装置：回转台与回转部件构成，悬浮机经支架与回转台铰连并置于液体容器中。为提高移动速度，在液体加入铁磁悬浮物，容器置于电磁绕组内。问该发明在物场分析上的实质。
+发明证书527280给出焊接控制装置：回转台与回转部件构成，悬浮机经支架与回转台铰连并置于液体容器中。为提高移动速度，在液体加入铁磁悬浮物，容器置于电磁绕组内。
+问该发明在物场分析上的实质。
 
 题干位置：
 
 - [Page 56，L2026–2032](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-56)
 
-疑点：本题本身提供技术方案，所问为其物场分析实质，本部分未发现该解释答案。；“悬浮机型”“液体容器牢”等结构文字OCR可疑，待原图核对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本题本身提供技术方案，所问为其物场分析实质，本部分未发现该解释答案。
+- “悬浮机型”“液体容器牢”等结构文字OCR可疑，待原图核对。
 
 ## T17 气动运输钢滚珠损坏弯管
 
@@ -209,7 +248,11 @@
 
 - [Page 56，L2034–2041](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-56)
 
-疑点：本部分未发现答案，需跨文件配对。；原题末尾另有铜滚珠变体，单列T17-V1。；本部分仅有答案及局部情境，完整题干待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未发现答案，需跨文件配对。
+- 原题末尾另有铜滚珠变体，单列T17-V1。
+- 本部分仅有答案及局部情境，完整题干待跨文件配对。
 
 相关条目：T17-V1。
 
@@ -221,7 +264,9 @@
 
 - [Page 56，L2040–2042](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-56)
 
-疑点：本部分未发现答案，需跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未发现答案，需跨文件配对。
 
 相关条目：T17。
 
@@ -233,7 +278,10 @@
 
 - [Page 56，L2044–2049](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-56)
 
-疑点：本部分未发现答案，需跨文件配对。；本部分仅有解法回述，完整题干待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未发现答案，需跨文件配对。
+- 本部分仅有解法回述，完整题干待跨文件配对。
 
 ## T19 预测电磁搅拌器的下一项发明
 
@@ -244,7 +292,9 @@
 - [Page 56，L2051–2056](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-56)
 - [Page 57，L2057–2063](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-57)
 
-疑点：本题给出已有方案，所问为后继发明，本部分未发现该预测答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本题给出已有方案，所问为后继发明，本部分未发现该预测答案。
 
 ## T20 微小金刚石颗粒尖角朝上排列
 
@@ -256,7 +306,10 @@
 - [Page 63，L2307–2311](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-63)
 - [Page 64，L2312–2316](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-64)
 
-疑点：本部分未发现答案，需跨文件配对。；完整题干未在本部分重述，待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未发现答案，需跨文件配对。
+- 完整题干未在本部分重述，待跨文件配对。
 
 ## T21 快速船叶片受穴蚀损坏
 
@@ -266,7 +319,11 @@
 
 - [Page 57，L2070–2073](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-57)
 
-疑点：本部分未发现答案，需跨文件配对。；Page 62“从课题21模式”所谈钢丝，疑为课题23误植，未据此给本题配答案。；本部分仅有答案及局部情境，完整题干待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未发现答案，需跨文件配对。
+- Page 62“从课题21模式”所谈钢丝，疑为课题23误植，未据此给本题配答案。
+- 本部分仅有答案及局部情境，完整题干待跨文件配对。
 
 ## T22 测水泥成品内钢筋预应力
 
@@ -276,7 +333,9 @@
 
 - [Page 57，L2075–2081](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-57)
 
-疑点：本部分未发现答案，需跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未发现答案，需跨文件配对。
 
 ## T23 电热拉伸钢丝而不损失强度
 
@@ -287,7 +346,9 @@
 - [Page 58，L2101–2113](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-58)
 - [Page 60，L2161–2170](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-60)
 
-疑点：Page 62回指此题写“课题21”，应保留为原文疑点。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- Page 62回指此题写“课题21”，应保留为原文疑点。
 
 ## T24 研磨凹凸曲面制品时的砂轮适形与磨粒保持
 
@@ -298,7 +359,12 @@
 - [Page 202，L1909–1912](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-202)
 - [Page 204，L1992–1993](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-204)
 
-疑点：本部分仅有回指与答案，未见完整题干，需跨文件配对。；回指可知制品为小勺、工具为砂轮，但缺少原题关键约束，故statement设null。；本部分为既有题的解法补充，题干在前部，图1的实物细节未被OCR保留。；题干OCR“冰磨砂轮”照原文保留，可能为其他磨料名称。附录例1为同一道题的连续演示，已合并，不把各步骤另列题。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分仅有回指与答案，未见完整题干，需跨文件配对。
+- 回指可知制品为小勺、工具为砂轮，但缺少原题关键约束，故statement设null。
+- 本部分为既有题的解法补充，题干在前部，图1的实物细节未被OCR保留。
+- 题干OCR“冰磨砂轮”照原文保留，可能为其他磨料名称。附录例1为同一道题的连续演示，已合并，不把各步骤另列题。
 
 ## T25 无线电望远镜的避雷方案
 
@@ -308,7 +374,11 @@
 
 - [Page 202，L1914–1917](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-202)
 
-疑点：本部分只有回指、模式推导与答案，完整题干未见，需跨文件配对。；Page 72“无论在什么情况下，对周围都无危险”的确切所指可能受OCR标点影响。；Page 206“为了阻挡电波，空气柱不应该有自由电荷”与上下文语义相反，应为避免阻挡一类表述，未把OCR错误当新约束。附录例2连续讲解已合并。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分只有回指、模式推导与答案，完整题干未见，需跨文件配对。
+- Page 72“无论在什么情况下，对周围都无危险”的确切所指可能受OCR标点影响。
+- Page 206“为了阻挡电波，空气柱不应该有自由电荷”与上下文语义相反，应为避免阻挡一类表述，未把OCR错误当新约束。附录例2连续讲解已合并。
 
 相关条目：T48。
 
@@ -320,21 +390,31 @@
 
 - [Page 75，L2747–2757](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-75)
 
-疑点：标签为“课显26”。；“水化阿利芙干性油”物质名OCR不明。；题干阈值OCR为25C，后文有350℃失活、“300C起安全区”且与700～1100℃方案不一致，精确温度待原图核验。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 标签为“课显26”。
+- “水化阿利芙干性油”物质名OCR不明。
+- 题干阈值OCR为25C，后文有350℃失活、“300C起安全区”且与700～1100℃方案不一致，精确温度待原图核验。
 
 ## T27 高精度便携钟摆倾斜仪
 
-建筑物与大型机床需测斜度，钟摆倾斜仪摆长则同一斜度指针线性偏移大，精度高，但仪器庞大难安装。摆必须固定在固定壳体，不准装拆结构，也不准反光镜及光谱射线结构。要求结构简单、精度高、安装轻便可靠。
+建筑物与大型机床需测斜度，钟摆倾斜仪摆长则同一斜度指针线性偏移大，精度高，但仪器庞大难安装。摆必须固定在固定壳体，不准装拆结构，也不准反光镜及光谱射线结构。
+要求结构简单、精度高、安装轻便可靠。
 
 题干位置：
 
 - [Page 77，L2811–2819](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-77)
 
-疑点：题号OCR为“瀑®27”。；“光谱射线”疑为OCR错误，未擅自校正。；本部分未发现答案，需跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 题号OCR为“瀑®27”。
+- “光谱射线”疑为OCR错误，未擅自校正。
+- 本部分未发现答案，需跨文件配对。
 
 ## T28 空心锥体尺寸内形检验
 
-批量生产各种规格金属空心锥体，示例高1000 mm、下底直径700 mm、上底直径400 mm、壁厚30 mm。需检验尺寸及内表面形状，逐截面置样板按间隙判断偏差，样板多精度高却耗时费工，怎样兼顾？
+批量生产各种规格金属空心锥体，示例高1000 mm、下底直径700 mm、上底直径400 mm、壁厚30 mm。需检验尺寸及内表面形状，逐截面置样板按间隙判断偏差，
+样板多精度高却耗时费工，怎样兼顾？
 
 题干位置：
 
@@ -342,7 +422,11 @@
 - [Page 171，L752–758](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-171)
 - [Page 172，L759–763](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
 
-疑点：本部分未发现答案，需跨文件配对。；本部分为既有题解法，题干在前部，合并时须按锥体测量机制核对原编号。；仅作为标准解法2的例子被提及，无具体题干或技术答案。待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未发现答案，需跨文件配对。
+- 本部分为既有题解法，题干在前部，合并时须按锥体测量机制核对原编号。
+- 仅作为标准解法2的例子被提及，无具体题干或技术答案。待跨文件配对。
 
 ## T29 卡通影片逐张图制作与排列效率
 
@@ -355,7 +439,12 @@
 - [Page 77，L2832–2839](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-77)
 - [Page 163，L418–427](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-163)
 
-疑点：标签OCR为“瀑题29”。；“每一卷胶卷得制作2张图片”疑有OCR漏字，摘要保留其他明确数量。；本部分未发现答案，需跨文件配对。；本部分只重述制作生产率目标，原始题干的其他约束待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 标签OCR为“瀑题29”。
+- “每一卷胶卷得制作2张图片”疑有OCR漏字，摘要保留其他明确数量。
+- 本部分未发现答案，需跨文件配对。
+- 本部分只重述制作生产率目标，原始题干的其他约束待跨文件配对。
 
 相关条目：T03、T29-V1、T29-V2。
 
@@ -367,7 +456,9 @@
 
 - [Page 163，L441–444](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-163)
 
-疑点：这是原书提出的转换方向，没有给出独立验证或完整专利方案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 这是原书提出的转换方向，没有给出独立验证或完整专利方案。
 
 相关条目：T29。
 
@@ -379,7 +470,9 @@
 
 - [Page 163，L444–446](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-163)
 
-疑点：仅给出反课题转换方向，没有进一步展开。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 仅给出反课题转换方向，没有进一步展开。
 
 相关条目：T29。
 
@@ -391,7 +484,11 @@
 
 - [Page 78，L2845–2855](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-78)
 
-疑点：温度示例OCR为“由5，C增至？5C”，不可确定数值。；本部分未发现答案，需跨文件配对。；题干在前部；原书本段明确称课题30。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 温度示例OCR为“由5，C增至？5C”，不可确定数值。
+- 本部分未发现答案，需跨文件配对。
+- 题干在前部；原书本段明确称课题30。
 
 ## T31 侵蚀性液体试验容器降低造价
 
@@ -401,7 +498,10 @@
 
 - [Page 78，L2857–2863](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-78)
 
-疑点：本部分未发现答案，需跨文件配对。；Page79“课题3的”、Page106“课题29的容器”均为错号或OCR错误。主agent核对前部题干为课题31。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未发现答案，需跨文件配对。
+- Page79“课题3的”、Page106“课题29的容器”均为错号或OCR错误。主agent核对前部题干为课题31。
 
 ## T32 变工况反应器内判断酸液沸腾开始
 
@@ -411,7 +511,9 @@
 
 - [Page 78，L2866–2870](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-78)
 
-疑点：本部分未发现答案，需跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未发现答案，需跨文件配对。
 
 ## T33 突破快艇速度记录
 
@@ -421,7 +523,9 @@
 
 - [Page 89，L363–367](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-89)
 
-疑点：Page89覆面方案与后续反船方案性质不同，均保留。反船在书中是构想。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- Page89覆面方案与后续反船方案性质不同，均保留。反船在书中是构想。
 
 ## T34 小型塑料圆筒快速喷漆
 
@@ -433,7 +537,9 @@
 - [Page 102，L844–846](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-102)
 - [Page 165，L511–514](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-165)
 
-疑点：本部分仅作为向系统引入物质而非场的类比，无具体题干及答案。待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分仅作为向系统引入物质而非场的类比，无具体题干及答案。待跨文件配对。
 
 相关条目：T37。
 
@@ -447,7 +553,10 @@
 - [Page 195，L1656–1661](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-195)
 - [Page 196，L1662–1664](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-196)
 
-疑点：原文时间单位30mL、mLs等OCR损坏，按上下文疑为毫秒。Page106 line1011“课题34”疑应35。；只称与雷谢尔效应解释的物理矛盾和克服方法相同，未给出具体测量方案。不可把无编号雷谢尔效应的答案直接移作本题答案。待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文时间单位30mL、mLs等OCR损坏，按上下文疑为毫秒。Page106 line1011“课题34”疑应35。
+- 只称与雷谢尔效应解释的物理矛盾和克服方法相同，未给出具体测量方案。不可把无编号雷谢尔效应的答案直接移作本题答案。待跨文件配对。
 
 相关条目：U3-030。
 
@@ -460,7 +569,9 @@
 - [Page 108，L1085–1089](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-108)
 - [Page 172，L774–778](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
 
-疑点：只说解法类似课题17，无题干及具体技术答案。待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 只说解法类似课题17，无题干及具体技术答案。待跨文件配对。
 
 相关条目：T17。
 
@@ -473,7 +584,10 @@
 - [Page 108，L1091–1103](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-108)
 - [Page 109，L1104–1107](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-109)
 
-疑点：瓶数26与5排每排6座及焊嘴数量相互不合，保留为OCR疑点。；完整题干未在本部分给出。Page 165“安瓶瓶通常是不可控的”等句明显有OCR疑点，未据此另造约束。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 瓶数26与5排每排6座及焊嘴数量相互不合，保留为OCR疑点。
+- 完整题干未在本部分给出。Page 165“安瓶瓶通常是不可控的”等句明显有OCR疑点，未据此另造约束。
 
 相关条目：T34。
 
@@ -501,7 +615,9 @@
 
 - [Page 110，L1142–1152](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-110)
 
-疑点：题干已给原型解法，本部分没有进一步发明答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 题干已给原型解法，本部分没有进一步发明答案。
 
 ## T41 密封护送酒精罐车短缺
 
@@ -519,7 +635,9 @@
 
 - [Page 130，L1960–1965](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-130)
 
-疑点：题干已给技术解法，本部分未给技法名称答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 题干已给技术解法，本部分未给技法名称答案。
 
 ## T43 造雨机管长重量矛盾
 
@@ -545,7 +663,10 @@
 
 - [Page 131，L1985–2003](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-131)
 
-疑点：原型技术解法写在题干，本部分无技法判断和预测答案。；多棱带原文工作面“增长二倍”保留为含义待核。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原型技术解法写在题干，本部分无技法判断和预测答案。
+- 多棱带原文工作面“增长二倍”保留为含义待核。
 
 ## T46 压紧小球延后取出
 
@@ -573,7 +694,9 @@
 - [Page 145，L2511–2516](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-145)
 - [Page 173，L822–828](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
 
-疑点：只列为标准解法7实例，未给具体题干或技术答案，待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 只列为标准解法7实例，未给具体题干或技术答案，待跨文件配对。
 
 相关条目：T25。
 
@@ -585,7 +708,9 @@
 
 - [Page 147，L2612–2617](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-147)
 
-疑点：绝缘结构高度原文“1020m”疑缺连接号，未确定数值。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 绝缘结构高度原文“1020m”疑缺连接号，未确定数值。
 
 ## T50 清水中按比重分选番茄
 
@@ -597,7 +722,10 @@
 - [Page 149，L2663–2672](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-149)
 - [Page 181，L1096–1096](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-181)
 
-疑点：密度单位及数值有OCR损坏，“18/Cm3”按上下文为1g/cm³。；仅在课题57提示中出现，题干及答案均不在本部分，待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 密度单位及数值有OCR损坏，“18/Cm3”按上下文为1g/cm³。
+- 仅在课题57提示中出现，题干及答案均不在本部分，待跨文件配对。
 
 相关条目：T57。
 
@@ -609,7 +737,9 @@
 
 - [Page 149，L2674–2684](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-149)
 
-疑点：“张线式”传感器名称OCR疑点。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- “张线式”传感器名称OCR疑点。
 
 ## T52 人控高精度气体开关
 
@@ -619,7 +749,9 @@
 
 - [Page 149，L2685–2696](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-149)
 
-疑点：本部分仅有方案方向，完整题干与结构实现待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分仅有方案方向，完整题干与结构实现待跨文件配对。
 
 ## T53 离心机反应恒温
 
@@ -629,7 +761,9 @@
 
 - [Page 150，L2702–2711](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-150)
 
-疑点：本部分只有分析中的局部题干重述和答案，完整初始题干待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分只有分析中的局部题干重述和答案，完整初始题干待跨文件配对。
 
 ## T54 被切钻石的来源鉴定
 
@@ -639,7 +773,9 @@
 
 - [Page 150，L2712–2730](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-150)
 
-疑点：本部分仅有解题录音，没有完整原始题干。待跨文件配对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分仅有解题录音，没有完整原始题干。待跨文件配对。
 
 ## T55 大范围输入转速保持定速输出
 
@@ -659,7 +795,9 @@
 - [Page 176，L941–946](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-176)
 - [Page 177，L947–952](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-177)
 
-疑点：下落高度OCR为“05 m”，摘要按上下文记为约0.5m，建议核对原图。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 下落高度OCR为“05 m”，摘要按上下文记为约0.5m，建议核对原图。
 
 ## T57 浮标卸载装置的发展预测
 
@@ -670,7 +808,9 @@
 - [Page 180，L1081–1091](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-180)
 - [Page 181，L1092–1096](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-181)
 
-疑点：本部分未给出答案，只有参看课题50的提示。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未给出答案，只有参看课题50的提示。
 
 相关条目：T50。
 
@@ -682,7 +822,9 @@
 
 - [Page 181，L1098–1108](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-181)
 
-疑点：本部分未给出答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未给出答案。
 
 ## T59 罐头瓶盖密封性检验
 
@@ -692,7 +834,9 @@
 
 - [Page 181，L1110–1122](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-181)
 
-疑点：本部分只给问题模式提示，未给具体答案。“水进入后排出空气”的检验机理依原文保留，不自行修订。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分只给问题模式提示，未给具体答案。“水进入后排出空气”的检验机理依原文保留，不自行修订。
 
 ## T61 金属电镀润滑油中的大颗粒
 
@@ -702,7 +846,9 @@
 
 - [Page 185，L1237–1244](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-185)
 
-疑点：原书具体化学性质与历史叙述仅做索引，未作外部核验。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原书具体化学性质与历史叙述仅做索引，未作外部核验。
 
 相关条目：U3-030。
 
@@ -714,7 +860,9 @@
 
 - [Page 197，L1705–1710](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-197)
 
-疑点：本部分未给出答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未给出答案。
 
 ## T63 在固体中加入长链聚合物
 
@@ -724,7 +872,9 @@
 
 - [Page 197，L1712–1717](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-197)
 
-疑点：本部分未给出答案。Page 170把该效应OCR为“汤姆逊效应”，本题作“托姆斯效应”，待主索引统一。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未给出答案。Page 170把该效应OCR为“汤姆逊效应”，本题作“托姆斯效应”，待主索引统一。
 
 相关条目：U3-008。
 
@@ -737,27 +887,35 @@
 - [Page 197，L1720–1734](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-197)
 - [Page 198，L1735–1738](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-198)
 
-疑点：原编号行尾多一个引号“课题64””，照录。原文“所剩无沉”等OCR按语义摘要为所剩无几。本部分只提示用典型模式及物场转换表，未给答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原编号行尾多一个引号“课题64””，照录。原文“所剩无沉”等OCR按语义摘要为所剩无几。本部分只提示用典型模式及物场转换表，未给答案。
 
 ## T65 无污染熔化高熔点氧化铍
 
-粉状氧化铍熔点高于2000°C，须熔化且绝不污染。没有合适坩埚，拟用自身粉堆容纳并高频加热，但氧化铍高温才导电。电弧、等离子喷枪、感应加热尝试均因不热或污染而失败，添加金属又违背纯度要求。怎么办？
+粉状氧化铍熔点高于2000°C，须熔化且绝不污染。没有合适坩埚，拟用自身粉堆容纳并高频加热，但氧化铍高温才导电。电弧、等离子喷枪、感应加热尝试均因不热或污染而失败，
+添加金属又违背纯度要求。怎么办？
 
 题干位置：
 
 - [Page 198，L1740–1750](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-198)
 
-疑点：原文混用“氧化皱”和“氧化铍”，摘要采用同段明确出现的“氧化铍”，需核对原图。本部分未给出答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文混用“氧化皱”和“氧化铍”，摘要采用同段明确出现的“氧化铍”，需核对原图。本部分未给出答案。
 
 ## T66 捕捉发动机磨合结束瞬间
 
-装配后的发动机由电动机低速带动，使活塞与汽缸互相磨去不平处，直至不再相互磨削。如何判断结束瞬间？往润滑油加荧光粉监测金属颗粒影响的方法太笨，周期停机观察也太笨，要求按ARIZ步骤2.2处理。
+装配后的发动机由电动机低速带动，使活塞与汽缸互相磨去不平处，直至不再相互磨削。如何判断结束瞬间？往润滑油加荧光粉监测金属颗粒影响的方法太笨，周期停机观察也太笨，
+要求按ARIZ步骤2.2处理。
 
 题干位置：
 
 - [Page 198，L1752–1763](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-198)
 
-疑点：本部分未给出新答案。荧光粉法及停机观察是题干列出的不满意已有方法，未记为本题解答。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未给出新答案。荧光粉法及停机观察是题干列出的不满意已有方法，未记为本题解答。
 
 ## T67 第七个酒杯的毒杀案
 
@@ -768,7 +926,9 @@
 - [Page 198，L1765–1770](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-198)
 - [Page 199，L1771–1777](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-199)
 
-疑点：原文“别壁里”疑为别室或别的房间，摘要不扩大地点约束。本部分未给出答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文“别壁里”疑为别室或别的房间，摘要不扩大地点约束。本部分未给出答案。
 
 ## T68 观察多孔材料内部结构
 
@@ -778,7 +938,9 @@
 
 - [Page 199，L1779–1785](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-199)
 
-疑点：本部分未给出答案，只有参阅第二章的提示。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未给出答案，只有参阅第二章的提示。
 
 ## T69 焊入多孔添加物而不堵孔
 
@@ -788,7 +950,9 @@
 
 - [Page 199，L1787–1793](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-199)
 
-疑点：本部分未给出答案，只说第四章讨论过类似课题。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未给出答案，只说第四章讨论过类似课题。
 
 ## T70 金属捕氧剂加入聚合物时免预先氧化
 
@@ -798,7 +962,9 @@
 
 - [Page 199，L1794–1803](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-199)
 
-疑点：本部分未给出答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本部分未给出答案。
 
 ## U1-001 钝石块重新磨尖
 
@@ -808,7 +974,9 @@
 
 - [Page 8，L253–254](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-8)
 
-疑点：仅列发明问题，未给具体原书解法。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 仅列发明问题，未给具体原书解法。
 
 ## U1-002 石块便于握持
 
@@ -818,7 +986,9 @@
 
 - [Page 8，L254–254](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-8)
 
-疑点：仅列发明问题，未给具体原书解法。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 仅列发明问题，未给具体原书解法。
 
 ## U1-003 火种防风雨
 
@@ -828,7 +998,9 @@
 
 - [Page 8，L254–255](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-8)
 
-疑点：仅列发明问题，未给具体原书解法。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 仅列发明问题，未给具体原书解法。
 
 ## U1-004 移置火种
 
@@ -838,7 +1010,9 @@
 
 - [Page 8，L255–255](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-8)
 
-疑点：仅列发明问题，未给具体原书解法。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 仅列发明问题，未给具体原书解法。
 
 ## U1-005 玻璃与金属零件牢固联接
 
@@ -848,7 +1022,9 @@
 
 - [Page 9，L291–294](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-9)
 
-疑点：仅作为研发人数比较实例，未给方案和具体约束。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 仅作为研发人数比较实例，未给方案和具体约束。
 
 ## U1-006 仅凭心理因素解释河道舵手行为的反例
 
@@ -858,7 +1034,9 @@
 
 - [Page 13，L435–441](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-13)
 
-疑点：此为方法论类比反例，按边界例收录，不充当有完整技术答案的试题。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 此为方法论类比反例，按边界例收录，不充当有完整技术答案的试题。
 
 ## U1-007 虎特征改进铅笔
 
@@ -868,7 +1046,9 @@
 
 - [Page 16，L562–567](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-16)
 
-疑点：本例只有创意组合，不含可交付技术解法。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本例只有创意组合，不含可交付技术解法。
 
 ## U1-008 汽车发动机冬季起动的形态分析
 
@@ -878,7 +1058,9 @@
 
 - [Page 17，L583–584](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-17)
 
-疑点：仅给分析程序与能源候选，未指明最终技术方案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 仅给分析程序与能源候选，未指明最终技术方案。
 
 ## U1-009 无额外约束的焊接区照明
 
@@ -915,7 +1097,9 @@
 - [Page 21，L755–758](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-21)
 - [Page 22，L764–767](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-22)
 
-疑点：原文以新工作物质发现说明第五种发明水平，未提供具体发动机结构。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文以新工作物质发现说明第五种发明水平，未提供具体发动机结构。
 
 ## U1-013 大气氮化合物跨领域解法
 
@@ -925,7 +1109,9 @@
 
 - [Page 23，L818–825](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-23)
 
-疑点：Page 23首次写“大气氦化合物”，后写“大气氮化合”，疑氮/氦OCR混淆。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- Page 23首次写“大气氦化合物”，后写“大气氮化合”，疑氮/氦OCR混淆。
 
 ## U1-014 简化感应电磁泵起动
 
@@ -948,7 +1134,10 @@
 - [Page 24，L858–862](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-24)
 - [Page 141，L2367–2370](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
 
-疑点：“卿送”疑为“输送”OCR错误。；该例明确给用途与原理，但缺少具体原始困难或设计约束。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- “卿送”疑为“输送”OCR错误。
+- 该例明确给用途与原理，但缺少具体原始困难或设计约束。
 
 相关条目：U1-014。
 
@@ -980,7 +1169,9 @@
 
 - [Page 29，L1048–1055](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-29)
 
-疑点：答案OCR为“无电能的设备”，与上下文不协调，摘要仅保留可确认的同步同相原则。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 答案OCR为“无电能的设备”，与上下文不协调，摘要仅保留可确认的同步同相原则。
 
 ## U1-019 采煤水压脉冲与煤层共振
 
@@ -998,7 +1189,9 @@
 
 - [Page 31，L1104–1108](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-31)
 
-疑点：这是物理可行性边界例，原文未给具体工程需求或液体配方。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 这是物理可行性边界例，原文未给具体工程需求或液体配方。
 
 ## U1-021 三个苹果与三角形的概念障碍
 
@@ -1008,7 +1201,9 @@
 
 - [Page 47，L1680–1684](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-47)
 
-疑点：按概念教学边界例收录，非具有正式实验结果的心理实验。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 按概念教学边界例收录，非具有正式实验结果的心理实验。
 
 ## U1-022 破冰船术语限制与航行目标重述
 
@@ -1018,7 +1213,9 @@
 
 - [Page 68，L2483–2492](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-68)
 
-疑点：只给问题重述，未给具体技术解法。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 只给问题重述，未给具体技术解法。
 
 ## U1-023 测量象鼻虫体温
 
@@ -1028,7 +1225,10 @@
 
 - [Page 69，L2498–2504](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-69)
 
-疑点：未明说收集虫群的具体操作、虫群数目与环境控制，不补入推测。；教学实验称19名八年级学生初次5人答对，改述题干后17人答对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 未明说收集虫群的具体操作、虫群数目与环境控制，不补入推测。
+- 教学实验称19名八年级学生初次5人答对，改述题干后17人答对。
 
 相关条目：U1-024。
 
@@ -1040,7 +1240,9 @@
 
 - [Page 69，L2518–2519](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-69)
 
-疑点：原文作为象鼻虫题的类比提示，没有另行设置实验条件。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文作为象鼻虫题的类比提示，没有另行设置实验条件。
 
 相关条目：U1-023。
 
@@ -1052,7 +1254,9 @@
 
 - [Page 70，L2563–2570](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-70)
 
-疑点：原题条件与具体数值不全，不能还原独立谜题。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原题条件与具体数值不全，不能还原独立谜题。
 
 ## U2-001 苯分子环状结构的联想
 
@@ -1062,7 +1266,9 @@
 
 - [Page 82，L134–148](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-82)
 
-疑点：故事及分子式有OCR损坏，按原书叙述建索引，不作史实核查。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 故事及分子式有OCR损坏，按原书叙述建索引，不作史实核查。
 
 ## U2-002 麦克斯韦分子分选想象实验
 
@@ -1096,7 +1302,9 @@
 
 - [Page 93，L513–516](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-93)
 
-疑点：本例属于思维训练，原书未给原问题的结论性答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 本例属于思维训练，原书未给原问题的结论性答案。
 
 ## U2-006 外星文明为何不联络人类
 
@@ -1106,7 +1314,9 @@
 
 - [Page 95，L590–592](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-95)
 
-疑点：书中为课堂推想，并非验证结论。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 书中为课堂推想，并非验证结论。
 
 ## U2-007 邓克尔射线治胃癌实验
 
@@ -1116,7 +1326,9 @@
 
 - [Page 97，L650–652](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-97)
 
-疑点：书中“驻波及肿瘤区波谷”表述照录为原书思路，不作物理订正。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 书中“驻波及肿瘤区波谷”表述照录为原书思路，不作物理订正。
 
 ## U2-008 可增减长度的分段货船
 
@@ -1190,7 +1402,9 @@
 
 - [Page 115，L1348–1349](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-115)
 
-疑点：原书仅说明结构，没有进一步明确性能目标。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原书仅说明结构，没有进一步明确性能目标。
 
 ## U2-017 风力机调速器气动制动
 
@@ -1217,7 +1431,9 @@
 
 - [Page 117，L1412–1415](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-117)
 
-疑点：材料与涂覆物名称OCR严重损坏，未恢复不明名词。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 材料与涂覆物名称OCR严重损坏，未恢复不明名词。
 
 ## U2-020 锯枝前预促愈合
 
@@ -1326,7 +1542,9 @@
 
 - [Page 121，L1612–1615](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-121)
 
-疑点：“张力”及加载动作原文OCR不清，按现有文字保留。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- “张力”及加载动作原文OCR不清，按现有文字保留。
 
 ## U2-033 焊接电流驱动供焊条
 
@@ -1384,7 +1602,9 @@
 
 - [Page 123，L1696–1697](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-123)
 
-疑点：原文仅概述方法，未列具体约束或性能目标。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文仅概述方法，未列具体约束或性能目标。
 
 ## U2-040 气囊夹持锯木制品
 
@@ -1517,7 +1737,9 @@
 
 - [Page 139，L2293–2294](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-139)
 
-疑点：铰接对象OCR为“锥噪”，未恢复。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 铰接对象OCR为“锥噪”，未恢复。
 
 ## U2-056 多金属偏转器定向钻井
 
@@ -1559,7 +1781,9 @@
 
 - [Page 141，L2393–2394](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
 
-疑点：原书仅列方法，未给具体约束。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原书仅列方法，未给具体约束。
 
 ## U2-062 热膨胀薄片对准微型元件
 
@@ -1577,7 +1801,9 @@
 
 - [Page 141，L2395–2396](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
 
-疑点：原书仅列方法，未给具体约束。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原书仅列方法，未给具体约束。
 
 ## U2-064 电压传动微调装置
 
@@ -1587,7 +1813,9 @@
 
 - [Page 141，L2396–2397](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-141)
 
-疑点：原文“电压传动器”疑为压电传动器，未改写为确定事实。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文“电压传动器”疑为压电传动器，未改写为确定事实。
 
 ## U2-065 磁致伸缩排液装置
 
@@ -1648,7 +1876,9 @@
 - [Page 145，L2541–2547](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-145)
 - [Page 146，L2548–2551](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-146)
 
-疑点：原书将该效应与经过居里点关联，按原书索引，不作物理修订。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原书将该效应与经过居里点关联，按原书索引，不作物理修订。
 
 ## U3-001 回转水泥窑传热挂链的多种改法
 
@@ -1658,17 +1888,22 @@
 
 - [Page 158，L228–238](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-158)
 
-疑点：图案与链节的OCR多有破损，六个证书号为226453、187606、260483、266484、310095、339743，未据此复原构型。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 图案与链节的OCR多有破损，六个证书号为226453、187606、260483、266484、310095、339743，未据此复原构型。
 
 ## U3-002 矿山救护人员致冷服与呼吸一体化
 
-竞赛要求救护服使人在外温100°C、相对湿度100%下工作两小时，衣服重不超过8至10kg。原有强制冷剂方案超20kg，人员还需携带12kg呼吸装置与7kg工具，总负重只容许20至30kg。怎样满足防热和呼吸需要？
+竞赛要求救护服使人在外温100°C、相对湿度100%下工作两小时，衣服重不超过8至10kg。原有强制冷剂方案超20kg，人员还需携带12kg呼吸装置与7kg工具，
+总负重只容许20至30kg。怎样满足防热和呼吸需要？
 
 题干位置：
 
 - [Page 159，L265–270](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-159)
 
-疑点：Page 159解法出现“Dkg”“500C”等损坏。前者不复原，后者可能指500°C，摘要不确定写成高温。竞赛要求两小时，解法只明确举另一温度下一小时的表现，不能断言完全达标。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- Page 159解法出现“Dkg”“500C”等损坏。前者不复原，后者可能指500°C，摘要不确定写成高温。竞赛要求两小时，解法只明确举另一温度下一小时的表现，不能断言完全达标。
 
 ## U3-003 电影院扩张与家庭电视的替代
 
@@ -1678,7 +1913,9 @@
 
 - [Page 160，L307–310](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-160)
 
-疑点：这是解释系统发展规律的历史性具体实例，没有独立提问的完整技术设计题干。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 这是解释系统发展规律的历史性具体实例，没有独立提问的完整技术设计题干。
 
 ## U3-004 冰箱产量饱和与多功能系统
 
@@ -1688,7 +1925,9 @@
 
 - [Page 161，L335–337](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-161)
 
-疑点：这是书中的预测示例，非已经实现效果的核验。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 这是书中的预测示例，非已经实现效果的核验。
 
 ## U3-005 油轮既多又少的多用途船预测
 
@@ -1699,7 +1938,9 @@
 - [Page 161，L350–371](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-161)
 - [Page 162，L372–376](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-162)
 
-疑点：原文油轮多于全部船的表述是在说明原系统边界变化，并非独立的算术题。两条方案目标和约束相同，合为同一实例的多个答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文油轮多于全部船的表述是在说明原系统边界变化，并非独立的算术题。两条方案目标和约束相同，合为同一实例的多个答案。
 
 ## U3-006 内燃机用作潜艇水下发动机的边界例
 
@@ -1709,7 +1950,9 @@
 
 - [Page 164，L479–484](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-164)
 
-疑点：原文只给结论，未解释失效机理，不自行补充供氧等原因。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文只给结论，未解释失效机理，不自行补充供氧等原因。
 
 ## U3-007 二十万吨油轮的制动难题
 
@@ -1719,7 +1962,9 @@
 
 - [Page 168，L624–629](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-168)
 
-疑点：书中明确说当时尚未有效解决，本部分无答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 书中明确说当时尚未有效解决，本部分无答案。
 
 ## U3-008 长链聚合物减少液固相对运动摩擦
 
@@ -1730,7 +1975,9 @@
 - [Page 170，L710–718](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-170)
 - [Page 171，L724–725](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-171)
 
-疑点：Page 170原文写“汤姆逊效应”，Page 197写“托姆斯效应”，名称有OCR或译名差异。列举应用缺乏完整独立约束，未逐个另立题。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- Page 170原文写“汤姆逊效应”，Page 197写“托姆斯效应”，名称有OCR或译名差异。列举应用缺乏完整独立约束，未逐个另立题。
 
 相关条目：T63。
 
@@ -1742,7 +1989,9 @@
 
 - [Page 171，L744–745](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-171)
 
-疑点：原文未给具体读出光路及量程。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文未给具体读出光路及量程。
 
 ## U3-010 穿孔薄板的反色图像叠合检验
 
@@ -1779,7 +2028,9 @@
 - [Page 172，L793–796](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-172)
 - [Page 173，L797–799](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
 
-疑点：原文只有一句专利摘要，未给密封对象和压力等约束。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文只有一句专利摘要，未给密封对象和压力等约束。
 
 ## U3-014 磁性液体控制减震装置
 
@@ -1789,7 +2040,9 @@
 
 - [Page 173，L799–801](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
 
-疑点：原文OCR为“减蔑装置”，据“减震”常见技术语境摘要，需核对原图。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文OCR为“减蔑装置”，据“减震”常见技术语境摘要，需核对原图。
 
 ## U3-015 铝芯支撑加工镍铬合金薄壁管
 
@@ -1799,7 +2052,9 @@
 
 - [Page 173，L811–818](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-173)
 
-疑点：题干由紧邻的标准解法适用条件和具体专利实例合成，原文没有独立题干段。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 题干由紧邻的标准解法适用条件和具体专利实例合成，原文没有独立题干段。
 
 ## U3-016 用固有振动频率测运动线重量
 
@@ -1809,7 +2064,9 @@
 
 - [Page 174，L838–843](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-174)
 
-疑点：原文只称“线”，未说明材质或单位长度，未自行补充。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文只称“线”，未说明材质或单位长度，未自行补充。
 
 ## U3-017 电磁流量计的重新组合设计
 
@@ -1819,7 +2076,9 @@
 
 - [Page 177，L972–981](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-177)
 
-疑点：图16未保留为可视图片，OCR将液流、电极、磁体的符号多处混淆，无法从纯文本可靠复原六种排列，保留叙述性答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 图16未保留为可视图片，OCR将液流、电极、磁体的符号多处混淆，无法从纯文本可靠复原六种排列，保留叙述性答案。
 
 ## U3-018 磁过滤器的内磁结构与组合预测
 
@@ -1829,7 +2088,9 @@
 
 - [Page 179，L1017–1027](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-179)
 
-疑点：文字写“图13”，上下文也有图号识别疑点。排列符号和图示未可靠保存，不自行复原。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 文字写“图13”，上下文也有图号识别疑点。排列符号和图示未可靠保存，不自行复原。
 
 相关条目：U3-019、U3-020、U3-021、U3-022。
 
@@ -1851,7 +2112,9 @@
 
 - [Page 179，L1041–1043](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-179)
 
-疑点：原文OCR为“提克专利”，据上下文译作捷克仍需核对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文OCR为“提克专利”，据上下文译作捷克仍需核对。
 
 相关条目：U3-018。
 
@@ -1883,7 +2146,9 @@
 
 - [Page 182，L1138–1144](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-182)
 
-疑点：“去掉上面部分”对应套娃类比还是炉体结构的精确范围，原文不够清晰，未进一步推断。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- “去掉上面部分”对应套娃类比还是炉体结构的精确范围，原文不够清晰，未进一步推断。
 
 ## U3-024 液压加工中的低粘度与高粘度共存
 
@@ -1893,7 +2158,9 @@
 
 - [Page 183，L1162–1173](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-183)
 
-疑点：Page 183–184还引用了另一问题的“水和石油”隔离层答案，但本部分没有明确其题号或完整题干，另设待配对记录。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- Page 183–184还引用了另一问题的“水和石油”隔离层答案，但本部分没有明确其题号或完整题干，另设待配对记录。
 
 相关条目：U3-037。
 
@@ -1914,7 +2181,9 @@
 - [Page 186，L1310–1313](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-186)
 - [Page 187，L1314–1324](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-187)
 
-疑点：“缓冲圈”等航空术语依OCR原文保留，原文无结构图，实际构件名称需核对。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- “缓冲圈”等航空术语依OCR原文保留，原文无结构图，实际构件名称需核对。
 
 ## U3-027 陶瓷器皿焙烧后的自动分选
 
@@ -1925,7 +2194,9 @@
 - [Page 187，L1344–1353](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-187)
 - [Page 188，L1354–1359](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-188)
 
-疑点：书中明确称盘子质量检验尚未解决。answer记录已尝试而失败的方案及类比方向，不代表成功答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 书中明确称盘子质量检验尚未解决。answer记录已尝试而失败的方案及类比方向，不代表成功答案。
 
 相关条目：U3-028、U3-029。
 
@@ -1957,7 +2228,9 @@
 
 - [Page 195，L1638–1645](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-195)
 
-疑点：名称及机理按原书索引，未作外部科学史或物理事实核验。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 名称及机理按原书索引，未作外部科学史或物理事实核验。
 
 相关条目：T35、T61。
 
@@ -1969,7 +2242,9 @@
 
 - [Page 193，L1570–1583](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-193)
 
-疑点：这是提出研究假说方向的实例，非书中给出的完整分子生物学解答，姓名译法依原文。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 这是提出研究假说方向的实例，非书中给出的完整分子生物学解答，姓名译法依原文。
 
 相关条目：U3-033。
 
@@ -1981,7 +2256,9 @@
 
 - [Page 194，L1591–1598](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-194)
 
-疑点：原文只给研究结论，没有具体生物机制、实验或数据，不能当作已独立验证事实。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文只给研究结论，没有具体生物机制、实验或数据，不能当作已独立验证事实。
 
 ## U3-033 DNA解旋速度的矛盾
 
@@ -1991,7 +2268,9 @@ DNA双螺旋增殖时需分成两条单螺旋，但按观察到的倍增时间�
 
 - [Page 194，L1600–1605](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-194)
 
-疑点：原文多处术语、转速单位OCR损坏，摘要只保留能辨认的叙述，科学机理未作外部核验。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原文多处术语、转速单位OCR损坏，摘要只保留能辨认的叙述，科学机理未作外部核验。
 
 相关条目：U3-031、U3-034。
 
@@ -2004,7 +2283,9 @@ DNA双螺旋增殖时需分成两条单螺旋，但按观察到的倍增时间�
 - [Page 194，L1612–1622](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-194)
 - [Page 195，L1623–1625](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-195)
 
-疑点：Page 194后半OCR严重破损，仅保留可从上下文明确恢复的约束。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- Page 194后半OCR严重破损，仅保留可从上下文明确恢复的约束。
 
 相关条目：U3-033。
 
@@ -2016,7 +2297,9 @@ DNA双螺旋增殖时需分成两条单螺旋，但按观察到的倍增时间�
 
 - [Page 196，L1665–1672](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-196)
 
-疑点：原书只提出矛盾和应建立模型的方向，未给具体模型或答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 原书只提出矛盾和应建立模型的方向，未给具体模型或答案。
 
 ## U3-036 天线增高而不增重的模型转换
 
@@ -2026,7 +2309,9 @@ DNA双螺旋增殖时需分成两条单螺旋，但按观察到的倍增时间�
 
 - [Page 213，L2324–2325](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-213)
 
-疑点：这是具体目标的模式转换示例，只达到重新表述问题的层次，没有技术答案。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 这是具体目标的模式转换示例，只达到重新表述问题的层次，没有技术答案。
 
 ## U3-037 隔离不同石油以避免混合（待跨文件配对）
 
@@ -2037,7 +2322,10 @@ DNA双螺旋增殖时需分成两条单螺旋，但按观察到的倍增时间�
 - [Page 183，L1191–1195](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-183)
 - [Page 184，L1196–1202](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-184)
 
-疑点：这是书中用于比较液压双液方案的一段引述，只给局部目标和答案。可能重复前部已编号题，待主agent跨文件配对，不能确定独立题号。；Page 183原句为“要求不同石油混合”，与隔离层及结论不符，疑漏“不”字，摘要按上下文解释为避免混合。。
+分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
+
+- 这是书中用于比较液压双液方案的一段引述，只给局部目标和答案。可能重复前部已编号题，待主agent跨文件配对，不能确定独立题号。
+- Page 183原句为“要求不同石油混合”，与隔离层及结论不符，疑漏“不”字，摘要按上下文解释为避免混合。
 
 相关条目：U3-024。
 

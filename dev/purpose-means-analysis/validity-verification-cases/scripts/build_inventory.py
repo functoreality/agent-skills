@@ -3,6 +3,7 @@
 from collections import Counter
 from pathlib import Path
 import json
+import re
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -13,6 +14,18 @@ def unique(values):
         if value not in result:
             result.append(value)
     return result
+
+
+def paragraph(text):
+    lines, current = [], ''
+    for chunk in re.split(r'(?<=[。，；！？])', text):
+        if current and len(current) + len(chunk) > 90:
+            lines.append(current)
+            current = ''
+        current += chunk
+    if current:
+        lines.append(current)
+    return '\n'.join(lines)
 
 
 def refs_text(refs):
@@ -79,16 +92,18 @@ def main():
     for case in cases:
         case_id = case['id']
         questions.append(f"## {case_id} {case['title']}\n\n")
-        questions.extend(f'{text}\n\n' for text in case['statements'])
+        questions.extend(f'{paragraph(text)}\n\n' for text in case['statements'])
         if not case['statements']:
             questions.append('本段仅有答案或后文引用，尚未定位完整题干。\n\n')
         questions.append(f"题干位置：\n\n{refs_text(case['question_refs'])}\n\n")
         if case['uncertainties']:
-            questions.append('疑点：' + '；'.join(case['uncertainties']) + '。\n\n')
+            questions.append('分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：\n\n')
+            questions.extend(f'- {paragraph(item)}\n' for item in case['uncertainties'])
+            questions.append('\n')
         if case['related_ids']:
             questions.append('相关条目：' + '、'.join(case['related_ids']) + '。\n\n')
         answers.append(f"## {case_id} {case['title']}\n\n")
-        answers.extend(f'{text}\n\n' for text in case['answers'])
+        answers.extend(f'{paragraph(text)}\n\n' for text in case['answers'])
         if not case['answers']:
             answers.append('未定位原书解答，保持待核对。\n\n')
         answers.append(f"解答位置：\n\n{refs_text(case['answer_refs'])}\n\n")

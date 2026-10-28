@@ -72,6 +72,11 @@ if frozen_path.exists():
         actual = hashlib.sha256(path.read_bytes()).hexdigest()
         if actual != item['sha256']:
             errors.append(f"Frozen record changed: {item['file']}")
+        for key, path in [
+            ('question_sha256', ROOT / f"pilot/{item['case_id']}/question.md"),
+            ('protocol_sha256', ROOT / 'protocols/solver.md')]:
+            if hashlib.sha256(path.read_bytes()).hexdigest() != item[key]:
+                errors.append(f"Frozen input changed: {path.relative_to(ROOT)}")
 
 print(json.dumps({'errors': errors, 'warnings': warnings,
                   'canonical_cases': len(cases) if cases_path.exists() else None},
