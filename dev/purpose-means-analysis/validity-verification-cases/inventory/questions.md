@@ -4,7 +4,7 @@
 无编号实例保留分段标识，重复或高度相关实例须结合 related_ids 阅读，
 不能把条目总数当作独立测试样本数。题干摘要仅提取问题及约束，答案另表。
 引用页码取 Markdown 的 Page 标记，与书内印刷页码可能不同。
-原图未读取，依赖图示的题目需在正式试解前单独处理。
+已定点补查原PDF，核验过的条目另列PDF补充说明，其余图示仍需按必要性处理。
 
 当前 205 条记录，其中编号题 69 条。
 
@@ -71,6 +71,12 @@
 
 - Page 28开头存在乱码，但冰磨料解法完整。
 
+PDF补充核验：PDF核对题干与冰及冻结磨料的解法。A-memory核心判断不变，冻结前候选未写磨料结构的限制仍保留。
+
+[PDF第27页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=27)、[PDF第28页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=28)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
+
 ## T05 干净手枪能否证明未开枪
 
 普尔顿两天前被与尼克相同口径的科尔特手枪打死，未找到子弹。尼克曾威胁死者且无不在场证据，以自己的枪很干净辩称未开枪，郡长认为有时间擦枪。请从发明立场担当专家处理。
@@ -119,6 +125,13 @@
 - 本部分未发现答案，需跨文件配对。
 - 原文AB、EB、BΓ等字母OCR混乱，几何图2、3缺失，不据此补出公式。
 
+PDF补充核验：图3确为同侧构型，原图字母为А、Б、В、Г；已知АВ和БВ，照片测АБ求ВГ，OCR的E及照片AB歧义可关闭。原书确写“越深间距越小”，与同侧定长直绳模型的单调方向相反。
+图示表达共竖直平面意图，但未给出现场保持条件。B类不变。
+
+[PDF第39页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=39)、[PDF第85页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=85)、[PDF第86页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=86)。
+
+[核验记录](../reviews/pdf/t07-figures.md)。
+
 ## T08 不中断内圆磨削测砂轮直径
 
 用砂轮加工金属圆筒内表面，砂轮不断磨损，需测直径，但不允许中断加工或把砂轮取出。
@@ -139,6 +152,12 @@
 - 本部分仅有局部重述和答案方向，完整题干及最终技术解法在别处。OCR原句为“通过砂轮壁（或沿轴）”，未擅自更正。
 - 主Agent核对：Page137“课题8”的易熔垫机制对应T12楔子，不计作T08砂轮解法。
 
+PDF补充核验：原书确印“课题8中是预先用易熔垫”，不是OCR错号。按机制该回提对应T12楔子，不计作T08砂轮解法。图4–6本轮未补查。
+
+[PDF第137页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=137)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
+
 ## T09 发现冷冻机泄漏点
 
 冷冻机密封不严时会漏出氟里昂、润滑油、液氨等液体，需迅速准确发现渗漏点。
@@ -151,6 +170,12 @@
 
 - 主agent核对前部题干为课题9。本部分仅回提，无完整题干。
 - 本部分仅有解法回述，完整检测目标与题干待跨文件配对。
+
+PDF补充核验：原书第137页确印“课题5中预先加入荧光粉”，OCR没有错认5；这是原书错引，仍按具体检漏机制归T09。
+
+[PDF第137页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=137)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
 
 ## T10 非接触判断聚合物硬化程度
 
@@ -186,6 +211,12 @@
 分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
 
 - Page137 L2215以课题8错号回提易熔垫，按Page41楔子解答机制归本题。
+
+PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引并按机制归T12，不再把它仅记为待判OCR疑点。
+
+[PDF第137页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=137)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
 
 ## T13 气体过滤器易过滤而难清理
 
@@ -396,6 +427,12 @@
 - “水化阿利芙干性油”物质名OCR不明。
 - 题干阈值OCR为25C，后文有350℃失活、“300C起安全区”且与700～1100℃方案不一致，精确温度待原图核验。
 
+PDF补充核验：原书物质名确印“阿利芙干性油”，温度确印25°C、350°C、500°C、300°C及700～1100°C。相关逻辑疑点属于原书文字，不能擅自补0或改译物质名。
+
+[PDF第75页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=75)、[PDF第76页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=76)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
+
 ## T27 高精度便携钟摆倾斜仪
 
 建筑物与大型机床需测斜度，钟摆倾斜仪摆长则同一斜度指针线性偏移大，精度高，但仪器庞大难安装。摆必须固定在固定壳体，不准装拆结构，也不准反光镜及光谱射线结构。
@@ -410,6 +447,12 @@
 - 题号OCR为“瀑®27”。
 - “光谱射线”疑为OCR错误，未擅自校正。
 - 本部分未发现答案，需跨文件配对。
+
+PDF补充核验：原书确印“反光镜和光谱射线”。本轮仅确认字词，不据术语不自然自行改译或补充物理原理。
+
+[PDF第77页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=77)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
 
 ## T28 空心锥体尺寸内形检验
 
@@ -500,8 +543,15 @@
 
 分段提取疑点（其中已跨段补齐的内容不再代表全书缺失）：
 
-- 本部分未发现答案，需跨文件配对。
-- Page79“课题3的”、Page106“课题29的容器”均为错号或OCR错误。主agent核对前部题干为课题31。
+- PDF核对：Page79原书实际为课题31，OCR误作3的。Page106原书确印课题29的容器，属于原书错引。
+- 原书合金杯解法未交代完整的温压传递、杯口气密及蒸气隔离结构，不能以材料核验替代工程验证。
+
+PDF补充核验：原题确有坚固气密容器、高温和高压。Page79原书实际为“课题31”，OCR误成“课题3的”；Page106原书则确印“课题29的容器”，这是原书错引。同处喷雾器题号原书为53，
+OCR误成3。空心合金杯解法及A-memory判断不变。
+
+[PDF第78页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=78)、[PDF第79页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=79)、[PDF第80页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=80)、[PDF第81页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=81)、[PDF第106页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=106)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
 
 ## T32 变工况反应器内判断酸液沸腾开始
 

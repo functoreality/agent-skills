@@ -65,6 +65,12 @@ if manifest_path.exists():
         if actual != item['sha256']:
             errors.append(f"Input changed since baseline: {item['path']}")
 
+pdf_manifest_path = ROOT / 'sources/pdf-manifest.json'
+if pdf_manifest_path.exists():
+    item = json.loads(pdf_manifest_path.read_text())
+    if hashlib.sha256(Path(item['path']).read_bytes()).hexdigest() != item['sha256']:
+        errors.append(f"PDF input changed: {item['path']}")
+
 frozen_path = ROOT / 'pilot/freeze.json'
 if frozen_path.exists():
     for item in json.loads(frozen_path.read_text()):

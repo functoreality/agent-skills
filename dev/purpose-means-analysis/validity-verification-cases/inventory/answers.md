@@ -53,6 +53,12 @@
 
 - [Page 28，L997–1000](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-28)
 
+PDF补充核验：PDF核对题干与冰及冻结磨料的解法。A-memory核心判断不变，冻结前候选未写磨料结构的限制仍保留。
+
+[PDF第27页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=27)、[PDF第28页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=28)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
+
 ## T05 干净手枪能否证明未开枪
 
 测射击冲击造成的枪管磁化程度变化。钢枪管在地磁场中磁化，射击使其消磁，重新磁化需时，用测磁仪跟踪该物理量判断射击时间。刚射击时可测温，但温度很快恢复，不适合作两昼夜指标。
@@ -79,6 +85,13 @@
 - [Page 85，L250–264](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-85)
 - [Page 86，L265–288](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-86)
 
+PDF补充核验：图3确为同侧构型，原图字母为А、Б、В、Г；已知АВ和БВ，照片测АБ求ВГ，OCR的E及照片AB歧义可关闭。原书确写“越深间距越小”，与同侧定长直绳模型的单调方向相反。
+图示表达共竖直平面意图，但未给出现场保持条件。B类不变。
+
+[PDF第39页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=39)、[PDF第85页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=85)、[PDF第86页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=86)。
+
+[核验记录](../reviews/pdf/t07-figures.md)。
+
 ## T08 不中断内圆磨削测砂轮直径
 
 保留机械场经砂轮作用圆筒的原有物场，按物场链锁规则使砂轮扩展成相连的新物场，取得可测终端场。本部分仅给原则和OCR损坏的物场图，未见具体传感方案。
@@ -95,6 +108,12 @@
 - [Page 87，L302–321](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-87)
 - [Page 166，L564–569](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-166)
 - [Page 167，L570–577](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-167)
+
+PDF补充核验：原书确印“课题8中是预先用易熔垫”，不是OCR错号。按机制该回提对应T12楔子，不计作T08砂轮解法。图4–6本轮未补查。
+
+[PDF第137页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=137)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
 
 ## T09 发现冷冻机泄漏点
 
@@ -114,6 +133,12 @@
 - [Page 54，L1957–1958](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-54)
 - [Page 137，L2214–2215](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-137)
 - [Page 171，L742–744](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-171)
+
+PDF补充核验：原书第137页确印“课题5中预先加入荧光粉”，OCR没有错认5；这是原书错引，仍按具体检漏机制归T09。
+
+[PDF第137页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=137)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
 
 ## T10 非接触判断聚合物硬化程度
 
@@ -145,6 +170,12 @@
 - [Page 42，L1510–1512](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-42)
 - [Page 45，L1610–1622](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-45)
 - [Page 137，L2214–2216](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-137)
+
+PDF补充核验：原书确以课题8错号回提易熔垫，保留原书错引并按机制归T12，不再把它仅记为待判OCR疑点。
+
+[PDF第137页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=137)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
 
 ## T13 气体过滤器易过滤而难清理
 
@@ -304,6 +335,12 @@
 
 - [Page 76，L2771–2788](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md#page-76)
 
+PDF补充核验：原书物质名确印“阿利芙干性油”，温度确印25°C、350°C、500°C、300°C及700～1100°C。相关逻辑疑点属于原书文字，不能擅自补0或改译物质名。
+
+[PDF第75页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=75)、[PDF第76页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=76)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
+
 ## T27 高精度便携钟摆倾斜仪
 
 未定位原书解答，保持待核对。
@@ -311,6 +348,12 @@
 解答位置：
 
 未定位
+
+PDF补充核验：原书确印“反光镜和光谱射线”。本轮仅确认字词，不据术语不自然自行改译或补充物理原理。
+
+[PDF第77页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=77)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
 
 ## T28 空心锥体尺寸内形检验
 
@@ -364,6 +407,13 @@
 - [Page 79，L25–35](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-79)
 - [Page 80，L36–69](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-80)
 - [Page 81，L70–77](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-81)
+
+PDF补充核验：原题确有坚固气密容器、高温和高压。Page79原书实际为“课题31”，OCR误成“课题3的”；Page106原书则确印“课题29的容器”，这是原书错引。同处喷雾器题号原书为53，
+OCR误成3。空心合金杯解法及A-memory判断不变。
+
+[PDF第78页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=78)、[PDF第79页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=79)、[PDF第80页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=80)、[PDF第81页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=81)、[PDF第106页](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pdf#page=106)。
+
+[核验记录](../reviews/pdf/ocr-spot-checks.md)。
 
 ## T32 变工况反应器内判断酸液沸腾开始
 

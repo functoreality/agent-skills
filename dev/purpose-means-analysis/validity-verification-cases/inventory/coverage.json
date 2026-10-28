@@ -5,8 +5,17 @@
   ],
   "unobserved_labels": {
     "T60": {
-      "status": "not_found_in_supplied_text",
-      "evidence": "原文第三段 Page181 为T59，Page182–184为无编号实例，Page185为T61。主Agent复读L1110–1250，与提取Agent结论一致。保留编号缺口，不自造T60。"
+      "status": "numbering_gap_confirmed_in_pdf",
+      "evidence": "原PDF物理181页清楚印58/59，182–184页为新章及无编号实例，185页清楚印61。OCR未吞掉这些页上的60题号，保留原书编号缺口，不自造T60。",
+      "pdf_pages": [
+        181,
+        182,
+        183,
+        184,
+        185
+      ],
+      "review": "reviews/pdf/ocr-spot-checks.md",
+      "image": "_private/evidence/pdf-check/ocr/p181-185-numbering.jpg"
     }
   }
 }

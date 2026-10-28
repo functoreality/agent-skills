@@ -267,6 +267,14 @@
     "provenance": [
       "part-1:T04"
     ],
+    "pdf_verification": {
+      "pages": [
+        27,
+        28
+      ],
+      "summary": "PDF核对题干与冰及冻结磨料的解法。A-memory核心判断不变，冻结前候选未写磨料结构的限制仍保留。",
+      "report": "../reviews/pdf/ocr-spot-checks.md"
+    },
     "answer_status": "located"
   },
   {
@@ -447,6 +455,15 @@
       "part-1:T07",
       "part-2:T07"
     ],
+    "pdf_verification": {
+      "pages": [
+        39,
+        85,
+        86
+      ],
+      "summary": "图3确为同侧构型，原图字母为А、Б、В、Г；已知АВ和БВ，照片测АБ求ВГ，OCR的E及照片AB歧义可关闭。原书确写“越深间距越小”，与同侧定长直绳模型的单调方向相反。图示表达共竖直平面意图，但未给出现场保持条件。B类不变。",
+      "report": "../reviews/pdf/t07-figures.md"
+    },
     "answer_status": "located"
   },
   {
@@ -544,6 +561,13 @@
       "part-2:T08",
       "part-3:T08"
     ],
+    "pdf_verification": {
+      "pages": [
+        137
+      ],
+      "summary": "原书确印“课题8中是预先用易熔垫”，不是OCR错号。按机制该回提对应T12楔子，不计作T08砂轮解法。图4–6本轮未补查。",
+      "report": "../reviews/pdf/ocr-spot-checks.md"
+    },
     "answer_status": "located"
   },
   {
@@ -641,6 +665,13 @@
       "part-2:T09",
       "part-3:T09"
     ],
+    "pdf_verification": {
+      "pages": [
+        137
+      ],
+      "summary": "原书第137页确印“课题5中预先加入荧光粉”，OCR没有错认5；这是原书错引，仍按具体检漏机制归T09。",
+      "report": "../reviews/pdf/ocr-spot-checks.md"
+    },
     "answer_status": "located"
   },
   {
@@ -826,6 +857,13 @@
     "provenance": [
       "part-1:T12"
     ],
+    "pdf_verification": {
+      "pages": [
+        137
+      ],
+      "summary": "原书确以课题8错号回提易熔垫，保留原书错引并按机制归T12，不再把它仅记为待判OCR疑点。",
+      "report": "../reviews/pdf/ocr-spot-checks.md"
+    },
     "answer_status": "located"
   },
   {
@@ -1726,6 +1764,14 @@
     "provenance": [
       "part-1:T26"
     ],
+    "pdf_verification": {
+      "pages": [
+        75,
+        76
+      ],
+      "summary": "原书物质名确印“阿利芙干性油”，温度确印25°C、350°C、500°C、300°C及700～1100°C。相关逻辑疑点属于原书文字，不能擅自补0或改译物质名。",
+      "report": "../reviews/pdf/ocr-spot-checks.md"
+    },
     "answer_status": "located"
   },
   {
@@ -1762,6 +1808,13 @@
     "provenance": [
       "part-1:T27"
     ],
+    "pdf_verification": {
+      "pages": [
+        77
+      ],
+      "summary": "原书确印“反光镜和光谱射线”。本轮仅确认字词，不据术语不自然自行改译或补充物理原理。",
+      "report": "../reviews/pdf/ocr-spot-checks.md"
+    },
     "answer_status": "not_located"
   },
   {
@@ -2099,14 +2152,25 @@
       "空间分离"
     ],
     "uncertainties": [
-      "本部分未发现答案，需跨文件配对。",
-      "Page79“课题3的”、Page106“课题29的容器”均为错号或OCR错误。主agent核对前部题干为课题31。"
+      "PDF核对：Page79原书实际为课题31，OCR误作3的。Page106原书确印课题29的容器，属于原书错引。",
+      "原书合金杯解法未交代完整的温压传递、杯口气密及蒸气隔离结构，不能以材料核验替代工程验证。"
     ],
     "related_ids": [],
     "provenance": [
       "part-1:T31",
       "part-2:T31"
     ],
+    "pdf_verification": {
+      "pages": [
+        78,
+        79,
+        80,
+        81,
+        106
+      ],
+      "summary": "原题确有坚固气密容器、高温和高压。Page79原书实际为“课题31”，OCR误成“课题3的”；Page106原书则确印“课题29的容器”，这是原书错引。同处喷雾器题号原书为53，OCR误成3。空心合金杯解法及A-memory判断不变。",
+      "report": "../reviews/pdf/ocr-spot-checks.md"
+    },
     "answer_status": "located"
   },
   {

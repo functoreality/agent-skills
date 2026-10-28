@@ -81,7 +81,7 @@ def main():
              '无编号实例保留分段标识，重复或高度相关实例须结合 related_ids 阅读，\n'
              '不能把条目总数当作独立测试样本数。题干摘要仅提取问题及约束，答案另表。\n'
              '引用页码取 Markdown 的 Page 标记，与书内印刷页码可能不同。\n'
-             '原图未读取，依赖图示的题目需在正式试解前单独处理。\n\n')
+             '已定点补查原PDF，核验过的条目另列PDF补充说明，其余图示仍需按必要性处理。\n\n')
     questions = ['# 题目索引\n\n', intro,
                  f'当前 {len(cases)} 条记录，其中编号题 {len(numbered)} 条。\n\n',
                  '解答见 [答案索引](answers.md)，疑点见各题及分段说明。\n\n']
@@ -107,6 +107,17 @@ def main():
         if not case['answers']:
             answers.append('未定位原书解答，保持待核对。\n\n')
         answers.append(f"解答位置：\n\n{refs_text(case['answer_refs'])}\n\n")
+        if case.get('pdf_verification'):
+            check = case['pdf_verification']
+            pdf_path = json.loads((ROOT / 'sources/pdf-manifest.json').read_text())['path']
+            pdf_links = '、'.join(f"[PDF第{page}页]({pdf_path}#page={page})"
+                                 for page in check['pages'])
+            note = ('PDF补充核验：' + paragraph(check['summary']) + '\n\n' +
+                    pdf_links + '。\n\n' +
+                    f"[核验记录]({check['report']})。\n\n")
+            questions.append(note)
+            answers.append(note)
+
     (ROOT / 'inventory/questions.md').write_text(''.join(questions))
     (ROOT / 'inventory/answers.md').write_text(''.join(answers))
     print(json.dumps({'total': len(cases), 'numbered': len(numbered),

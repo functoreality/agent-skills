@@ -9,6 +9,7 @@
 - [原书解答索引](inventory/answers.md)
 - [执行计划](planning/plan.md)与[阶段状态](planning/status.md)
 - [三题收尾核验](reviews/pilot-review.md)
+- [原书PDF补充核验](reviews/pdf-supplement-review.md)：19页定点核对，三题分类不变
 
 索引共有205条规范化记录，其中69道编号题、128条无编号实例、8条变体。
 169条找到解答或部分解法，36条未定位。第60题在所给文本中未见编号。
