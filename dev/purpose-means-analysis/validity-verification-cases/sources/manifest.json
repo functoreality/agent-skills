@@ -1,0 +1,50 @@
+{
+  "repository_head": "c52aefdb201745ba26c3f8f4612c12caff87d76b",
+  "files": [
+    {
+      "path": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md",
+      "sha256": "b99a09fb1b980f2cf2e0f78f10b2a345e0ac4c5cd26461a65859e4938e8aed4a",
+      "lines": 2872
+    },
+    {
+      "path": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+      "sha256": "b46b71a45654b59b0a1219d4853d7064e5c47259fd507edcabddee6122eb9190",
+      "lines": 2746
+    },
+    {
+      "path": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md",
+      "sha256": "2cf703e937220f9d53551c81bfdf508ba5efc5141d9cd36c86a1fd9266a44dd2",
+      "lines": 2536
+    },
+    {
+      "path": "../../../skills/causal-chain-analysis/SKILL.md",
+      "sha256": "2be5c61e4df0752c37ba7ec685fe1371456f9b7ef3cd62893c1b0450b6d42fe9",
+      "lines": 604
+    },
+    {
+      "path": "../../../skills/causal-chain-analysis/references/factor_definition.md",
+      "sha256": "518b25ade5ad7b4afe4392e4cbc2ff309d4796472eedd1c8fcfb0f4c4a44f737",
+      "lines": 105
+    },
+    {
+      "path": "../../../skills/purpose-means-analysis/SKILL.md",
+      "sha256": "14b439c474cb895e9a46321dd5d96b2327ca358d86ccf97f0b60512babfa0039",
+      "lines": 526
+    },
+    {
+      "path": "../../../skills/purpose-means-analysis/references/expansion-patterns.md",
+      "sha256": "3e1070842ef146ed307689fc94b71224e31f54d7ce8fa896969b02868672049b",
+      "lines": 127
+    },
+    {
+      "path": "../../../skills/purpose-means-analysis/references/node-definition.md",
+      "sha256": "974fadef36ced1504318b202ef0fa80fa5be0e39e78685df50d8f95b7323f73e",
+      "lines": 64
+    },
+    {
+      "path": "../../../skills/purpose-means-analysis/references/scenarios.md",
+      "sha256": "f51f4d377608e0860393679e7b1d2bd079bb9175c6ba17f62e15f246c2e88a4c",
+      "lines": 85
+    }
+  ]
+}
