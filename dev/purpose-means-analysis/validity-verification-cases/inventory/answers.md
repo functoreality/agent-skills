@@ -264,7 +264,6 @@
 - [Page 83，L189–192](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-83)
 - [Page 84，L193–204](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md#page-84)
 - [Page 205，L2043–2047](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-205)
-- [Page 206，L2069–2070](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-206)
 - [Page 207，L2121–2134](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-207)
 - [Page 207，L2147–2148](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-207)
 - [Page 208，L2163–2167](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-208)
@@ -1656,15 +1655,6 @@
 - [Page 183，L1175–1195](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-183)
 - [Page 184，L1196–1202](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-184)
 
-## U3-024-V1 隔离不同石油以避免混合（待跨文件配对）
-
-根据石油是有机物、同类易相溶，选择无机隔离层，具体用水。
-
-解答位置：
-
-- [Page 183，L1191–1195](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-183)
-- [Page 184，L1196–1202](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-184)
-
 ## U3-025 玻璃熔炉底衬的快速修理
 
 反向扩大缝隙，再用高耐火混凝土填满不均匀曲面壁之间的空间，按变害为利技法处理。苏联发明证书270209。
@@ -1761,4 +1751,13 @@ AKC-1自动机用两束单色光照射陶瓷，按通过样品的光通量强度
 解答位置：
 
 - [Page 213，L2324–2328](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-213)
+
+## U3-037 隔离不同石油以避免混合（待跨文件配对）
+
+根据石油是有机物、同类易相溶，选择无机隔离层，具体用水。
+
+解答位置：
+
+- [Page 183，L1191–1195](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-183)
+- [Page 184，L1196–1202](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-184)
 

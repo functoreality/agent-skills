@@ -1893,22 +1893,9 @@
 
 - [Page 183，L1162–1173](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-183)
 
-疑点：Page 183–184还引用了另一问题的“水和石油”隔离层答案，但本部分没有明确其题号或完整题干，另设待配对子项。。
+疑点：Page 183–184还引用了另一问题的“水和石油”隔离层答案，但本部分没有明确其题号或完整题干，另设待配对记录。。
 
-相关条目：U3-024-V1。
-
-## U3-024-V1 隔离不同石油以避免混合（待跨文件配对）
-
-需要使不同石油不相混合，选择隔离层。
-
-题干位置：
-
-- [Page 183，L1191–1195](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-183)
-- [Page 184，L1196–1202](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-184)
-
-疑点：这是书中用于比较液压双液方案的一段引述，只给局部目标和答案。可能重复前部已编号题，待主agent跨文件配对，不能确定独立题号。；Page 183原句为“要求不同石油混合”，与隔离层及结论不符，疑漏“不”字，摘要按上下文解释为避免混合。。
-
-相关条目：U3-024。
+相关条目：U3-037。
 
 ## U3-025 玻璃熔炉底衬的快速修理
 
@@ -2040,4 +2027,17 @@ DNA双螺旋增殖时需分成两条单螺旋，但按观察到的倍增时间�
 - [Page 213，L2324–2325](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-213)
 
 疑点：这是具体目标的模式转换示例，只达到重新表述问题的层次，没有技术答案。。
+
+## U3-037 隔离不同石油以避免混合（待跨文件配对）
+
+需要使不同石油不相混合，选择隔离层。
+
+题干位置：
+
+- [Page 183，L1191–1195](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-183)
+- [Page 184，L1196–1202](../_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md#page-184)
+
+疑点：这是书中用于比较液压双液方案的一段引述，只给局部目标和答案。可能重复前部已编号题，待主agent跨文件配对，不能确定独立题号。；Page 183原句为“要求不同石油混合”，与隔离层及结论不符，疑漏“不”字，摘要按上下文解释为避免混合。。
+
+相关条目：U3-024。
 

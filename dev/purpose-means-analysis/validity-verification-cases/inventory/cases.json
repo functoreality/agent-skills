@@ -1489,12 +1489,6 @@
       },
       {
         "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md",
-        "line_start": 2069,
-        "line_end": 2070,
-        "page": 206
-      },
-      {
-        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md",
         "line_start": 2121,
         "line_end": 2134,
         "page": 207
@@ -8702,70 +8696,13 @@
       "空间分离"
     ],
     "uncertainties": [
-      "Page 183–184还引用了另一问题的“水和石油”隔离层答案，但本部分没有明确其题号或完整题干，另设待配对子项。"
+      "Page 183–184还引用了另一问题的“水和石油”隔离层答案，但本部分没有明确其题号或完整题干，另设待配对记录。"
     ],
     "related_ids": [
-      "U3-024-V1"
+      "U3-037"
     ],
     "provenance": [
       "part-3:U3-024"
-    ],
-    "answer_status": "located"
-  },
-  {
-    "id": "U3-024-V1",
-    "title": "隔离不同石油以避免混合（待跨文件配对）",
-    "kind": "variant",
-    "original_labels": [],
-    "statements": [
-      "需要使不同石油不相混合，选择隔离层。"
-    ],
-    "question_refs": [
-      {
-        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md",
-        "line_start": 1191,
-        "line_end": 1195,
-        "page": 183
-      },
-      {
-        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md",
-        "line_start": 1196,
-        "line_end": 1202,
-        "page": 184
-      }
-    ],
-    "answers": [
-      "根据石油是有机物、同类易相溶，选择无机隔离层，具体用水。"
-    ],
-    "answer_refs": [
-      {
-        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md",
-        "line_start": 1191,
-        "line_end": 1195,
-        "page": 183
-      },
-      {
-        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md",
-        "line_start": 1196,
-        "line_end": 1202,
-        "page": 184
-      }
-    ],
-    "keywords": [
-      "石油",
-      "隔离层",
-      "水",
-      "不混合"
-    ],
-    "uncertainties": [
-      "这是书中用于比较液压双液方案的一段引述，只给局部目标和答案。可能重复前部已编号题，待主agent跨文件配对，不能确定独立题号。",
-      "Page 183原句为“要求不同石油混合”，与隔离层及结论不符，疑漏“不”字，摘要按上下文解释为避免混合。"
-    ],
-    "related_ids": [
-      "U3-024"
-    ],
-    "provenance": [
-      "part-3:U3-024-V1"
     ],
     "answer_status": "located"
   },
@@ -9300,6 +9237,63 @@
     "related_ids": [],
     "provenance": [
       "part-3:U3-036"
+    ],
+    "answer_status": "located"
+  },
+  {
+    "id": "U3-037",
+    "title": "隔离不同石油以避免混合（待跨文件配对）",
+    "kind": "unnumbered",
+    "original_labels": [],
+    "statements": [
+      "需要使不同石油不相混合，选择隔离层。"
+    ],
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md",
+        "line_start": 1191,
+        "line_end": 1195,
+        "page": 183
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md",
+        "line_start": 1196,
+        "line_end": 1202,
+        "page": 184
+      }
+    ],
+    "answers": [
+      "根据石油是有机物、同类易相溶，选择无机隔离层，具体用水。"
+    ],
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md",
+        "line_start": 1191,
+        "line_end": 1195,
+        "page": 183
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md",
+        "line_start": 1196,
+        "line_end": 1202,
+        "page": 184
+      }
+    ],
+    "keywords": [
+      "石油",
+      "隔离层",
+      "水",
+      "不混合"
+    ],
+    "uncertainties": [
+      "这是书中用于比较液压双液方案的一段引述，只给局部目标和答案。可能重复前部已编号题，待主agent跨文件配对，不能确定独立题号。",
+      "Page 183原句为“要求不同石油混合”，与隔离层及结论不符，疑漏“不”字，摘要按上下文解释为避免混合。"
+    ],
+    "related_ids": [
+      "U3-024"
+    ],
+    "provenance": [
+      "part-3:U3-037"
     ],
     "answer_status": "located"
   }
