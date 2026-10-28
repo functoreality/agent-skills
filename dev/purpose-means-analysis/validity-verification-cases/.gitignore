@@ -1,5 +1,6 @@
 # Local references, evidence and original experiment inputs are not published.
 /_private/
+Altshuller-creativity-as-an-exact-science.pages-*.md
 
 # This case-study directory publishes text only. Other repo directories are unaffected.
 *.pdf

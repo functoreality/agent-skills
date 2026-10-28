@@ -19,6 +19,10 @@ source_cache = {}
 BINARY_SUFFIXES = {'.pdf', '.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg', '.bmp',
                    '.tif', '.tiff', '.avif', '.heic', '.zip', '.7z', '.tar', '.gz',
                    '.docx', '.xlsx', '.pptx', '.mp3', '.mp4'}
+REFERENCE_NAMES = {Path(item['path']).name
+                   for item in json.loads((ROOT / 'sources/manifest.json').read_text())['files']
+                   if item['path'].startswith('_private/references/')}
+REFERENCE_NAMES.add(Path(json.loads((ROOT / 'sources/pdf-manifest.json').read_text())['path']).name)
 MACHINE_PATH = re.compile(r'/(?:home|Users)/[^\s"\x27)]+|[A-Za-z]:[\\/](?:Users|Documents)[\\/]')
 
 
@@ -49,6 +53,8 @@ def verify_hash(item, label):
 def check_public_file(name, data):
     if '_private' in Path(name).parts:
         errors.append(f'Private material tracked: {name}')
+    if Path(name).name in REFERENCE_NAMES:
+        errors.append(f'Complete reference file tracked: {name}')
     if Path(name).suffix.lower() in BINARY_SUFFIXES:
         errors.append(f'Media or document file tracked: {name}')
     try:
