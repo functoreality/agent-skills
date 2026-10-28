@@ -1,0 +1,12 @@
+{
+  "number_range": [
+    1,
+    70
+  ],
+  "unobserved_labels": {
+    "T60": {
+      "status": "not_found_in_supplied_text",
+      "evidence": "原文第三段 Page181 为T59，Page182–184为无编号实例，Page185为T61。主Agent复读L1110–1250，与提取Agent结论一致。保留编号缺口，不自造T60。"
+    }
+  }
+}

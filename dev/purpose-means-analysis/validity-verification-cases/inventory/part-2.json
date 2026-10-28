@@ -1,0 +1,3396 @@
+[
+  {
+    "id": "T31",
+    "original_label": "课题3的 / 课题29（原文错号，对应课题31）",
+    "title": "侵蚀性液体处理合金块",
+    "kind": "numbered",
+    "statement": null,
+    "question_refs": [],
+    "answer": "取合金块与液体为矛盾对，使合金块本身成为空心杯，液体注入合金块。另一表述是空间分离：有合金块处有液体，有容器处无液体。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 25,
+        "line_end": 35,
+        "page": 79
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 36,
+        "line_end": 69,
+        "page": 80
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 70,
+        "line_end": 77,
+        "page": 81
+      }
+    ],
+    "keywords": [
+      "合金块",
+      "侵蚀性液体",
+      "容器",
+      "空间分离"
+    ],
+    "uncertainties": [
+      "Page79“课题3的”、Page106“课题29的容器”均为错号或OCR错误。主agent核对前部题干为课题31。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-001",
+    "original_label": null,
+    "title": "苯分子环状结构的联想",
+    "kind": "unnumbered",
+    "statement": "怎样用符合苯性质的结构式表示苯分子？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 134,
+        "line_end": 148,
+        "page": 82
+      }
+    ],
+    "answer": "凯库勒由猴子相互抓握形成圆圈，联想到苯分子的环状结构。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 134,
+        "line_end": 148,
+        "page": 82
+      }
+    ],
+    "keywords": [
+      "苯",
+      "凯库勒",
+      "小人建模"
+    ],
+    "uncertainties": [
+      "故事及分子式有OCR损坏，按原书叙述建索引，不作史实核查。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-002",
+    "original_label": null,
+    "title": "麦克斯韦分子分选想象实验",
+    "kind": "unnumbered",
+    "statement": "两个同温气体容器中均有快慢分子，怎样使快分子集中在一容器，慢分子集中在另一容器？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 154,
+        "line_end": 165,
+        "page": 83
+      }
+    ],
+    "answer": "以有小门的管相连，让分子大小的精灵选择性开门，使快分子通过而慢分子不通过。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 154,
+        "line_end": 165,
+        "page": 83
+      }
+    ],
+    "keywords": [
+      "麦克斯韦",
+      "精灵",
+      "分子分选"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T24",
+    "original_label": "课题24",
+    "title": "砂轮外层颗粒活动而不脱落",
+    "kind": "numbered",
+    "statement": null,
+    "question_refs": [],
+    "answer": "将砂轮外层碎化成颗粒，使颗粒能随凹陷深度重组，但由其他颗粒支撑而不脱离砂轮。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 189,
+        "line_end": 192,
+        "page": 83
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 193,
+        "line_end": 204,
+        "page": 84
+      }
+    ],
+    "keywords": [
+      "砂轮",
+      "小人建模",
+      "颗粒"
+    ],
+    "uncertainties": [
+      "本部分为既有题的解法补充，题干在前部，图1的实物细节未被OCR保留。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-003",
+    "original_label": null,
+    "title": "提高破冰船航速",
+    "kind": "unnumbered",
+    "statement": "提高破冰船航速，不能增加发动机功率，因为发动机已占据过多载货空间。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 211,
+        "line_end": 213,
+        "page": 84
+      }
+    ],
+    "answer": "把水上部分与冰下部分用细长尖利竖杆连接，竖杆穿冰而行，不必破开大冰块。认同法受人体不可分割性限制，小人法使设想出现。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 214,
+        "line_end": 223,
+        "page": 84
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 224,
+        "line_end": 236,
+        "page": 85
+      }
+    ],
+    "keywords": [
+      "破冰船",
+      "小人建模",
+      "分割"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T07",
+    "original_label": "课题7",
+    "title": "从飞机测量河水深度",
+    "kind": "numbered",
+    "statement": "从飞机测河深，不用直升机，不许人员着陆，不能订购特殊电波装置，仅能支出沿河飞行费用。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 245,
+        "line_end": 248,
+        "page": 85
+      }
+    ],
+    "answer": "投下两块浮木与一石块，两根超过河深的钓丝将浮木分别系在石块上，形成三角形。浮标附尺并从飞机拍照，用已知绳长及照片浮木间距求深度。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 250,
+        "line_end": 264,
+        "page": 85
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 265,
+        "line_end": 288,
+        "page": 86
+      }
+    ],
+    "keywords": [
+      "河深",
+      "飞机",
+      "浮标",
+      "三角形"
+    ],
+    "uncertainties": [
+      "原文AB、EB、BΓ等字母OCR混乱，几何图2、3缺失，不据此补出公式。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T08",
+    "original_label": "课题8",
+    "title": "不抽出砂轮测量半径",
+    "kind": "numbered",
+    "statement": "砂轮在圆筒内加工，须监测砂轮半径变化，不能抽出测量。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 290,
+        "line_end": 296,
+        "page": 86
+      }
+    ],
+    "answer": "本段比较三法：端面铺导电片以电阻监测，但受压力、接触与温度影响而不精确；间隔导电链用脉冲数表征半径，但逐点供电不易；不规则三角形导电结构使信号与间歇比随半径变化，测量简单可靠。Page137又回提预先加易熔垫的反馈解法。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 296,
+        "line_end": 301,
+        "page": 86
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 302,
+        "line_end": 321,
+        "page": 87
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2214,
+        "line_end": 2216,
+        "page": 137
+      }
+    ],
+    "keywords": [
+      "砂轮",
+      "半径",
+      "电脉冲",
+      "反馈"
+    ],
+    "uncertainties": [
+      "图4–6未被OCR保留，三角形结构需查图。易熔垫的回提见Page137 line2215–2216，应作为额外答案引用补入。",
+      "Page137易熔垫回提的编号8可能错引，需主agent按机制与前部题干核对，不据此认定与砂轮方案相同。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T33",
+    "original_label": "课题33",
+    "title": "突破快艇速度记录",
+    "kind": "numbered",
+    "statement": "快艇形状理想且发动机先进，怎样再提高100–200km/h创造新纪录？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 363,
+        "line_end": 367,
+        "page": 89
+      }
+    ],
+    "answer": "书中列出覆人造革、绒布等减少摩擦的方案，又从“反船”推演：艇身缩小，容纳超功率发动机，航行依靠水翼升力，停泊依靠充气附加容器，起航后收去容器。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 376,
+        "line_end": 397,
+        "page": 89
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 398,
+        "line_end": 424,
+        "page": 90
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 425,
+        "line_end": 455,
+        "page": 91
+      }
+    ],
+    "keywords": [
+      "快艇",
+      "反船",
+      "水翼",
+      "充气浮标"
+    ],
+    "uncertainties": [
+      "Page89覆面方案与后续反船方案性质不同，均保留。反船在书中是构想。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-004",
+    "original_label": null,
+    "title": "威尔逊室转为气泡室",
+    "kind": "unnumbered",
+    "statement": "使核物理带电粒子的运动轨迹可见。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 459,
+        "line_end": 468,
+        "page": 92
+      }
+    ],
+    "answer": "威尔逊室以过饱和蒸气中的液滴成迹，反向设想是在液体中以气泡成迹，形成气泡室。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 459,
+        "line_end": 468,
+        "page": 92
+      }
+    ],
+    "keywords": [
+      "威尔逊室",
+      "气泡室",
+      "反图像"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-005",
+    "original_label": null,
+    "title": "人的生命意义课堂练习",
+    "kind": "unnumbered",
+    "statement": "人的生命意义何在？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 513,
+        "line_end": 516,
+        "page": 93
+      }
+    ],
+    "answer": "原书将命题扩展到细胞、有机体、社会及过去现在未来，构成层次接力发展的图式；明确最终仍未研究生命意义本身。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 518,
+        "line_end": 532,
+        "page": 93
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 533,
+        "line_end": 561,
+        "page": 94
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 562,
+        "line_end": 601,
+        "page": 95
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 602,
+        "line_end": 614,
+        "page": 96
+      }
+    ],
+    "keywords": [
+      "生命意义",
+      "全屏幕图式",
+      "课堂练习"
+    ],
+    "uncertainties": [
+      "本例属于思维训练，原书未给原问题的结论性答案。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-006",
+    "original_label": null,
+    "title": "外星文明为何不联络人类",
+    "kind": "unnumbered",
+    "statement": "外星文明是什么样，为什么不寻找我们、发送信号，为何看不到其活动？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 590,
+        "line_end": 592,
+        "page": 95
+      }
+    ],
+    "answer": "用层次发展的图式推测超文明处在上位社会乃至更高层次，与人类层次相隔极远，类比细胞无法期待有机体专门找它联系。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 594,
+        "line_end": 601,
+        "page": 95
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 602,
+        "line_end": 609,
+        "page": 96
+      }
+    ],
+    "keywords": [
+      "外星文明",
+      "层次发展"
+    ],
+    "uncertainties": [
+      "书中为课堂推想，并非验证结论。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-007",
+    "original_label": null,
+    "title": "邓克尔射线治胃癌实验",
+    "kind": "unnumbered",
+    "statement": "患者胃癌不能做切除手术。射线能消除肿瘤，也会损坏周围健康组织，怎样治疗？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 650,
+        "line_end": 652,
+        "page": 97
+      }
+    ],
+    "answer": "许多弱射线由不同方向交叉汇聚到肿瘤。被试者曾提出宽弱射线经透镜聚焦；作者还讨论驻波使能量密度改变的思路，强调改变工具射线而非天然组织。失败尝试包括经食道照射、保护或锻炼组织、移动胃等。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 657,
+        "line_end": 681,
+        "page": 97
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 682,
+        "line_end": 726,
+        "page": 98
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 727,
+        "line_end": 766,
+        "page": 99
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 767,
+        "line_end": 800,
+        "page": 100
+      }
+    ],
+    "keywords": [
+      "邓克尔",
+      "心理实验",
+      "射线",
+      "肿瘤",
+      "聚焦"
+    ],
+    "uncertainties": [
+      "书中“驻波及肿瘤区波谷”表述照录为原书思路，不作物理订正。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T34",
+    "original_label": "例1课题34",
+    "title": "小型塑料圆筒快速喷漆",
+    "kind": "numbered",
+    "statement": "用喷雾器给小塑料圆筒外部喷漆。全速喷会漆厚、质量差且难干，低速需30–40分钟、产量低。禁用静电喷漆及添加物。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 832,
+        "line_end": 843,
+        "page": 101
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 844,
+        "line_end": 846,
+        "page": 102
+      }
+    ],
+    "answer": "先大量快速着漆，再使圆筒旋转，利用离心力甩掉多余漆，以转速控制漆层，可同时处理多个圆筒。分析中排除电场、磁场、热场并选择机械场。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 850,
+        "line_end": 886,
+        "page": 102
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 887,
+        "line_end": 921,
+        "page": 103
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 922,
+        "line_end": 957,
+        "page": 104
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 958,
+        "line_end": 962,
+        "page": 105
+      }
+    ],
+    "keywords": [
+      "喷漆",
+      "圆筒",
+      "离心力",
+      "过量作用"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T35",
+    "original_label": "例2课速35",
+    "title": "气体正负离子迁移时间测量",
+    "kind": "numbered",
+    "statement": "已知电场强度和极距，须测两种符号离子的迁移时间。气体成分迅速变化，需在约30毫秒内完成，设备简便，避免复杂高压同步电路。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 968,
+        "line_end": 989,
+        "page": 105
+      }
+    ],
+    "answer": "先让负离子迁移，在正电极设置针状局部强场。负离子到终点分解引发非自激正电晕，既标示负离子到达，也产生立即反向起跑的正离子。在一个示波器上记录起点、转换、返回三个时刻，分别求迁移时间。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 996,
+        "line_end": 1029,
+        "page": 106
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1030,
+        "line_end": 1069,
+        "page": 107
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1070,
+        "line_end": 1076,
+        "page": 108
+      }
+    ],
+    "keywords": [
+      "离子",
+      "迁移率",
+      "电晕",
+      "针电极"
+    ],
+    "uncertainties": [
+      "原文时间单位30mL、mLs等OCR损坏，按上下文疑为毫秒。Page106 line1011“课题34”疑应35。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T36",
+    "original_label": "课题36",
+    "title": "铁矿浆磨损阀门",
+    "kind": "numbered",
+    "statement": "管道输送铁矿浆，用阀门调流量，矿砂很快磨坏阀门，怎么办？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1085,
+        "line_end": 1089,
+        "page": 108
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "铁矿浆",
+      "阀门",
+      "磨损"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T37",
+    "original_label": "课题37",
+    "title": "安瓿瓶焊封隔热",
+    "kind": "numbered",
+    "statement": "成组焊封盛药安瓿瓶，火大烧瓶，火小封不了口。多孔隔板孔大易穿瓶颈却漏火，孔小挡火却难穿瓶颈，隔板还传热，怎么办？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1091,
+        "line_end": 1103,
+        "page": 108
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1104,
+        "line_end": 1107,
+        "page": 109
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "安瓿瓶",
+      "焊封",
+      "隔板"
+    ],
+    "uncertainties": [
+      "瓶数26与5排每排6座及焊嘴数量相互不合，保留为OCR疑点。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T38",
+    "original_label": "课意38",
+    "title": "短斜面演示匀加速运动",
+    "kind": "numbered",
+    "statement": "小车沿斜面运动，滴液器等时滴液在纸带留痕。要用较短斜面得到更多滴痕，保持滴量装置原理不变，不能增加滴频，怎么办？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1109,
+        "line_end": 1123,
+        "page": 109
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "斜面",
+      "滴液",
+      "匀加速"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T39",
+    "original_label": "课题39",
+    "title": "化学镀浴升温与分解",
+    "kind": "numbered",
+    "statement": "不用电的金属盐热溶液还原镀覆，升温加快镀覆却使溶液分解、金属沉在槽壁槽底，2–3小时更换，75%药剂报废，稳定剂无效，怎么办？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1125,
+        "line_end": 1136,
+        "page": 109
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "化学镀",
+      "溶液",
+      "温度"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T40",
+    "original_label": "课题40",
+    "title": "用盐溶液检验肉质量",
+    "kind": "numbered",
+    "statement": "已有发明按“好肉沉底”原理，把肉放在不同浓度的食盐溶液中检验质量。以此为原型作更完善发明。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1142,
+        "line_end": 1152,
+        "page": 110
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "肉质",
+      "比重",
+      "盐水"
+    ],
+    "uncertainties": [
+      "题干已给原型解法，本部分没有进一步发明答案。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T41",
+    "original_label": "课题41",
+    "title": "密封护送酒精罐车短缺",
+    "kind": "numbered",
+    "statement": "10立方米酒精罐车每周数次行驶5公里交货，每次少15–20升乃至30升。双方计量正常、罐体不漏、铅封完整，警卫护送和沿途监视均无效，怎样发生并解决？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1168,
+        "line_end": 1188,
+        "page": 111
+      }
+    ],
+    "answer": "罪犯前夜趁罐车空且无人看守时悬挂空桶，装车时桶也灌满，卸车后满桶留车，空车返回撤警后取走。事先只完成部分作用。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1197,
+        "line_end": 1209,
+        "page": 112
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2200,
+        "line_end": 2205,
+        "page": 136
+      }
+    ],
+    "keywords": [
+      "酒精",
+      "侦探",
+      "罐车",
+      "预先作用"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-008",
+    "original_label": null,
+    "title": "可增减长度的分段货船",
+    "kind": "unnumbered",
+    "statement": "货船需要按需要改变船长。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1262,
+        "line_end": 1263,
+        "page": 113
+      }
+    ],
+    "answer": "把货船分为同型且可组合的几个部分。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1262,
+        "line_end": 1263,
+        "page": 113
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2144,
+        "line_end": 2151,
+        "page": 135
+      }
+    ],
+    "keywords": [
+      "货船",
+      "分割",
+      "联合"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-009",
+    "original_label": null,
+    "title": "游艇停泊供电隔绝噪声",
+    "kind": "unnumbered",
+    "statement": "游艇停泊仍需供电，辅助内燃机发电造成噪声振动。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1277,
+        "line_end": 1281,
+        "page": 114
+      }
+    ],
+    "answer": "把发动机和发电机分别安在距艇不远的两个容器，用电缆连接。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1277,
+        "line_end": 1281,
+        "page": 114
+      }
+    ],
+    "keywords": [
+      "游艇",
+      "发电",
+      "拆出"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-010",
+    "original_label": null,
+    "title": "矿山喷水除尘避免雾化",
+    "kind": "unnumbered",
+    "statement": "小水珠除尘好，却容易成雾妨碍工作。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1294,
+        "line_end": 1297,
+        "page": 114
+      }
+    ],
+    "answer": "锥状小水珠喷流外再包围一层大水珠。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1294,
+        "line_end": 1297,
+        "page": 114
+      }
+    ],
+    "keywords": [
+      "除尘",
+      "水珠",
+      "局部性质"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-011",
+    "original_label": null,
+    "title": "防路缘碰撞的汽车轮胎",
+    "kind": "unnumbered",
+    "statement": "汽车轮胎需抵抗道路缘石碰撞。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1304,
+        "line_end": 1305,
+        "page": 114
+      }
+    ],
+    "answer": "使一侧缘具有较高强度。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1304,
+        "line_end": 1305,
+        "page": 114
+      }
+    ],
+    "keywords": [
+      "轮胎",
+      "不对称"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-012",
+    "original_label": null,
+    "title": "双联显微镜分工",
+    "kind": "unnumbered",
+    "statement": "显微镜操作与观察记录需要协作。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1317,
+        "line_end": 1318,
+        "page": 115
+      }
+    ],
+    "answer": "用双联显微镜，一人操作，另一人观察记录。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1317,
+        "line_end": 1318,
+        "page": 115
+      }
+    ],
+    "keywords": [
+      "显微镜",
+      "联合"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-013",
+    "original_label": null,
+    "title": "兼作拉力器的提包手柄",
+    "kind": "unnumbered",
+    "statement": "提包手柄具有额外锻炼用途。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1330,
+        "line_end": 1333,
+        "page": 115
+      }
+    ],
+    "answer": "使提手兼作拉力器。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1330,
+        "line_end": 1333,
+        "page": 115
+      }
+    ],
+    "keywords": [
+      "提包",
+      "多功能"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-014",
+    "original_label": null,
+    "title": "套合锥形超声精选机",
+    "kind": "unnumbered",
+    "statement": "减小超声精选机长度并提高稳定性。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1344,
+        "line_end": 1347,
+        "page": 115
+      }
+    ],
+    "answer": "两个互相夹紧的半波片作成互相套合的空锥体。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1344,
+        "line_end": 1347,
+        "page": 115
+      }
+    ],
+    "keywords": [
+      "超声",
+      "半波片",
+      "套合"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-015",
+    "original_label": null,
+    "title": "变压器压电元件缩小输出部",
+    "kind": "unnumbered",
+    "statement": "缩小变压器压电元件输出部分外形尺寸。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1347,
+        "line_end": 1348,
+        "page": 115
+      }
+    ],
+    "answer": "采用与前例相同的套合方案。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1347,
+        "line_end": 1348,
+        "page": 115
+      }
+    ],
+    "keywords": [
+      "压电元件",
+      "套合"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-016",
+    "original_label": null,
+    "title": "拉模套合的金属拉制设备",
+    "kind": "unnumbered",
+    "statement": "金属拉制设备的拉模配置实例，原文未提出独立性能约束。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1348,
+        "line_end": 1349,
+        "page": 115
+      }
+    ],
+    "answer": "由拉模组成“玩偶”套合结构。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1348,
+        "line_end": 1349,
+        "page": 115
+      }
+    ],
+    "keywords": [
+      "拉模",
+      "套合"
+    ],
+    "uncertainties": [
+      "原书仅说明结构，没有进一步明确性能目标。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-017",
+    "original_label": null,
+    "title": "风力机调速器气动制动",
+    "kind": "unnumbered",
+    "statement": "风力增大时，需把转子速度控制在较小范围，而旋转中的离心片难以增加质量。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1358,
+        "line_end": 1364,
+        "page": 115
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1365,
+        "line_end": 1383,
+        "page": 116
+      }
+    ],
+    "answer": "离心片作成负迎角翼片，以气动力形成制动，代替增重。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1358,
+        "line_end": 1364,
+        "page": 115
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1365,
+        "line_end": 1383,
+        "page": 116
+      }
+    ],
+    "keywords": [
+      "风力机",
+      "离心调速器",
+      "气动制动"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-018",
+    "original_label": null,
+    "title": "杯形车刀预加载抑振",
+    "kind": "unnumbered",
+    "statement": "杯形车刀绕自身轴转动车削，需防振。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1390,
+        "line_end": 1393,
+        "page": 116
+      }
+    ],
+    "answer": "事先加与切削力大小接近、方向相反的负载。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1390,
+        "line_end": 1393,
+        "page": 116
+      }
+    ],
+    "keywords": [
+      "车刀",
+      "预先反作用"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-019",
+    "original_label": null,
+    "title": "等离子加工无机材料防裂",
+    "kind": "unnumbered",
+    "statement": "等离子束加工无机材料，需要提高机械强度。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1412,
+        "line_end": 1415,
+        "page": 117
+      }
+    ],
+    "answer": "预先涂敷金属或碱土金属的溶液、熔融体，也可预涂能使小裂缝愈合的物质。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1412,
+        "line_end": 1415,
+        "page": 117
+      }
+    ],
+    "keywords": [
+      "等离子",
+      "防裂",
+      "预先补偿"
+    ],
+    "uncertainties": [
+      "材料与涂覆物名称OCR严重损坏，未恢复不明名词。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-020",
+    "original_label": null,
+    "title": "锯枝前预促愈合",
+    "kind": "unnumbered",
+    "statement": "锯掉树枝后希望伤口迅速愈合。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1415,
+        "line_end": 1418,
+        "page": 117
+      }
+    ],
+    "answer": "锯前用紧箍环使树木提前向局部输送营养及治疗物质。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1415,
+        "line_end": 1418,
+        "page": 117
+      }
+    ],
+    "keywords": [
+      "树枝",
+      "愈合",
+      "预先补偿"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-021",
+    "original_label": null,
+    "title": "重压模平移免升降",
+    "kind": "unnumbered",
+    "statement": "沉重压模搬运时希望不必升降。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1426,
+        "line_end": 1428,
+        "page": 117
+      }
+    ],
+    "answer": "压床装带输送轨道的附件。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1426,
+        "line_end": 1428,
+        "page": 117
+      }
+    ],
+    "keywords": [
+      "压模",
+      "轨道",
+      "等势"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-072",
+    "original_label": "课题9（关于消除灰尘的过滤器）",
+    "title": "磁性颗粒过滤器",
+    "kind": "unnumbered",
+    "statement": "需要过滤、清除液体或气体中的杂质。本部分回提磁性颗粒过滤器，未重述完整原题约束。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1444,
+        "line_end": 1446,
+        "page": 117
+      }
+    ],
+    "answer": "书中回提两磁铁间放铁磁粉末的过滤器，并把多层金属网过滤器分割、联合、多孔、受电磁场动态改变尺寸解释为技法组合。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1444,
+        "line_end": 1447,
+        "page": 117
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2177,
+        "line_end": 2182,
+        "page": 136
+      }
+    ],
+    "keywords": [
+      "过滤器",
+      "铁磁粉末",
+      "技法组合"
+    ],
+    "uncertainties": [
+      "父agent核对前文：真正的课题9是荧光检漏，本段“课题9”错号，过滤器题待主agent按原题机制配对。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-022",
+    "original_label": null,
+    "title": "过滤元件围绕磁场源",
+    "kind": "variant",
+    "statement": "电磁过滤器清洗液体或气体，需要降低单位耗电并提高产率。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1447,
+        "line_end": 1452,
+        "page": 117
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1453,
+        "line_end": 1456,
+        "page": 118
+      }
+    ],
+    "answer": "把颗粒磁性过滤元件放在磁场源周围，形成外部闭式磁路，反转旧过滤器的内外布局。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1447,
+        "line_end": 1452,
+        "page": 117
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1453,
+        "line_end": 1456,
+        "page": 118
+      }
+    ],
+    "keywords": [
+      "过滤器",
+      "相反原则"
+    ],
+    "uncertainties": [],
+    "related_ids": [
+      "U2-072"
+    ]
+  },
+  {
+    "id": "U2-023",
+    "original_label": null,
+    "title": "管栅滚动球形焊接电极",
+    "kind": "unnumbered",
+    "statement": "将管子焊入管栅。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1465,
+        "line_end": 1465,
+        "page": 118
+      }
+    ],
+    "answer": "焊接装置采用滚动球形电极。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1465,
+        "line_end": 1465,
+        "page": 118
+      }
+    ],
+    "keywords": [
+      "焊接",
+      "球形电极"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-024",
+    "original_label": null,
+    "title": "带状电焊条动态弯曲",
+    "kind": "unnumbered",
+    "statement": "自动电焊中要大范围调节焊池形状与尺寸。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1478,
+        "line_end": 1481,
+        "page": 118
+      }
+    ],
+    "answer": "焊接过程中沿母线弯曲带状电焊条，使其成为曲线。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1478,
+        "line_end": 1481,
+        "page": 118
+      }
+    ],
+    "keywords": [
+      "焊池",
+      "电焊条",
+      "动态"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-025",
+    "original_label": null,
+    "title": "越冬圆木竖放",
+    "kind": "unnumbered",
+    "statement": "越冬圆木水中存放，需增大停泊场单位容积并减少冻结木材体积。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1516,
+        "line_end": 1520,
+        "page": 119
+      }
+    ],
+    "answer": "扎成横截面宽高超过木长的捆，并竖直存放。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1516,
+        "line_end": 1520,
+        "page": 119
+      }
+    ],
+    "keywords": [
+      "圆木",
+      "维度过渡"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-026",
+    "original_label": null,
+    "title": "共振脉冲断木",
+    "kind": "unnumbered",
+    "statement": "无锯末断木需要降低工具进入木材的力。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1534,
+        "line_end": 1537,
+        "page": 119
+      }
+    ],
+    "answer": "工具脉冲频率接近木材固有振动频率。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1534,
+        "line_end": 1537,
+        "page": 119
+      }
+    ],
+    "keywords": [
+      "木材",
+      "共振",
+      "振动"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-027",
+    "original_label": null,
+    "title": "触点焊脉冲间测热电势",
+    "kind": "unnumbered",
+    "statement": "热循环自动控制薄件触点焊，需提高温差电动势测温的控制精度。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1550,
+        "line_end": 1553,
+        "page": 120
+      }
+    ],
+    "answer": "在高频焊接电流脉冲的间歇测量温差电动势。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1550,
+        "line_end": 1553,
+        "page": 120
+      }
+    ],
+    "keywords": [
+      "触点焊",
+      "周期作用"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-028",
+    "original_label": null,
+    "title": "双向行程切削交叉孔",
+    "kind": "unnumbered",
+    "statement": "加工两个相交圆柱孔或轴承分离环槽，需提高效率。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1560,
+        "line_end": 1562,
+        "page": 120
+      }
+    ],
+    "answer": "采用正反行程均可切削的钻头或扩孔器。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1560,
+        "line_end": 1562,
+        "page": 120
+      }
+    ],
+    "keywords": [
+      "钻孔",
+      "连续有益作用"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-029",
+    "original_label": null,
+    "title": "短时高温烘木保持材性",
+    "kind": "unnumbered",
+    "statement": "生产胶合板时烘烤木材，需保持木材原本性质。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1568,
+        "line_end": 1573,
+        "page": 120
+      }
+    ],
+    "answer": "用300–600摄氏度燃气火焰短时间直接作用。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1568,
+        "line_end": 1573,
+        "page": 120
+      }
+    ],
+    "keywords": [
+      "胶合板",
+      "烘木",
+      "快速通过"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-030",
+    "original_label": null,
+    "title": "超低温恢复冻结物料颗粒性",
+    "kind": "unnumbered",
+    "statement": "冻结物料需恢复颗粒状、加速处理并降低劳动强度。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1591,
+        "line_end": 1593,
+        "page": 121
+      }
+    ],
+    "answer": "对冻结材料施加超低温。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1591,
+        "line_end": 1593,
+        "page": 121
+      }
+    ],
+    "keywords": [
+      "冻结材料",
+      "超低温",
+      "变害为利"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-031",
+    "original_label": null,
+    "title": "按尾气含硫量控制焙烧供料",
+    "kind": "unnumbered",
+    "statement": "硫化物沸腾层焙烧需提高指定温度动态控制精度。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1602,
+        "line_end": 1605,
+        "page": 121
+      }
+    ],
+    "answer": "除原有按温度供料外，按废气含硫量改变供料。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1602,
+        "line_end": 1605,
+        "page": 121
+      }
+    ],
+    "keywords": [
+      "焙烧",
+      "反馈",
+      "硫"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-032",
+    "original_label": null,
+    "title": "动态张力仪柔性介质校准",
+    "kind": "unnumbered",
+    "statement": "稠密介质中动态张力测量仪需要提高静态校准精度。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1612,
+        "line_end": 1615,
+        "page": 121
+      }
+    ],
+    "answer": "通过柔软的中介元件装入介质样品及其中的仪器。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1612,
+        "line_end": 1615,
+        "page": 121
+      }
+    ],
+    "keywords": [
+      "张力仪",
+      "校准",
+      "中介"
+    ],
+    "uncertainties": [
+      "“张力”及加载动作原文OCR不清，按现有文字保留。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-033",
+    "original_label": null,
+    "title": "焊接电流驱动供焊条",
+    "kind": "unnumbered",
+    "statement": "通常焊条需专门装置供给焊枪。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1623,
+        "line_end": 1624,
+        "page": 121
+      }
+    ],
+    "answer": "利用焊接电流工作的螺旋管供给焊条。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1623,
+        "line_end": 1624,
+        "page": 121
+      }
+    ],
+    "keywords": [
+      "焊条",
+      "自我服务"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-034",
+    "original_label": null,
+    "title": "大地测量全景教具",
+    "kind": "unnumbered",
+    "statement": "需要进行地形图像全景测量摄影教学。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1646,
+        "line_end": 1649,
+        "page": 122
+      }
+    ],
+    "answer": "按视距摄影数据制作平面艺术全景，在代表地形点配缩微视距尺。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1646,
+        "line_end": 1649,
+        "page": 122
+      }
+    ],
+    "keywords": [
+      "大地测量",
+      "教具",
+      "复制"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-035",
+    "original_label": null,
+    "title": "一次性塑料捕鼠器",
+    "kind": "unnumbered",
+    "statement": "使用廉价一次性物体捕鼠。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1656,
+        "line_end": 1658,
+        "page": 122
+      }
+    ],
+    "answer": "带诱饵塑料管设可伸缩圆锥入口，鼠能进不能出。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1656,
+        "line_end": 1658,
+        "page": 122
+      }
+    ],
+    "keywords": [
+      "捕鼠器",
+      "一次性"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-036",
+    "original_label": null,
+    "title": "电磁场增强热塑材料金属涂层",
+    "kind": "unnumbered",
+    "statement": "金属粉末涂覆热塑材料，需要增强结合强度与密实性。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1677,
+        "line_end": 1680,
+        "page": 123
+      }
+    ],
+    "answer": "让热塑材料接触超过其熔点温度的金属粉末，并在电磁场中进行。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1677,
+        "line_end": 1680,
+        "page": 123
+      }
+    ],
+    "keywords": [
+      "热塑材料",
+      "金属涂覆",
+      "电磁场"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-037",
+    "original_label": null,
+    "title": "推进器轴气袋联接",
+    "kind": "unnumbered",
+    "statement": "推进器轴与螺杆套需可靠联接，传统金属连接需精磨相接面。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1687,
+        "line_end": 1693,
+        "page": 123
+      }
+    ],
+    "answer": "轴槽内放弹性空容器，充气使套与轴挤紧，还能缓冲冲击负载。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1687,
+        "line_end": 1693,
+        "page": 123
+      }
+    ],
+    "keywords": [
+      "轴套",
+      "气袋"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-038",
+    "original_label": null,
+    "title": "易碎制品运输气囊压紧",
+    "kind": "unnumbered",
+    "statement": "运输排水管等易碎制品，需要避免互撞损坏。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1693,
+        "line_end": 1695,
+        "page": 123
+      }
+    ],
+    "answer": "在集装箱里放充气囊，使制品互相靠紧。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1693,
+        "line_end": 1695,
+        "page": 123
+      }
+    ],
+    "keywords": [
+      "排水管",
+      "集装箱",
+      "气囊"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-039",
+    "original_label": null,
+    "title": "充气元件起重机抓斗",
+    "kind": "unnumbered",
+    "statement": "起重机抓斗的抓持操作。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1696,
+        "line_end": 1697,
+        "page": 123
+      }
+    ],
+    "answer": "采用充气元件工作。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1696,
+        "line_end": 1697,
+        "page": 123
+      }
+    ],
+    "keywords": [
+      "起重机",
+      "抓斗",
+      "充气"
+    ],
+    "uncertainties": [
+      "原文仅概述方法，未列具体约束或性能目标。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-040",
+    "original_label": null,
+    "title": "气囊夹持锯木制品",
+    "kind": "unnumbered",
+    "statement": "锯木装置需夹持易碎制品。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1697,
+        "line_end": 1698,
+        "page": 123
+      }
+    ],
+    "answer": "用气囊夹持。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1697,
+        "line_end": 1698,
+        "page": 123
+      }
+    ],
+    "keywords": [
+      "锯木",
+      "夹持",
+      "气囊"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-041",
+    "original_label": null,
+    "title": "铁磁粉末袋磁力挤紧",
+    "kind": "variant",
+    "statement": "需使物体暂时紧靠。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1703,
+        "line_end": 1709,
+        "page": 123
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1710,
+        "line_end": 1714,
+        "page": 124
+      }
+    ],
+    "answer": "在袋中加入铁磁粉末，以磁场使物体挤靠紧，作为气袋机械场向铁磁场的过渡。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1712,
+        "line_end": 1714,
+        "page": 124
+      }
+    ],
+    "keywords": [
+      "铁磁粉末",
+      "磁场",
+      "夹紧"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-042",
+    "original_label": null,
+    "title": "充气混凝土覆膜成型",
+    "kind": "unnumbered",
+    "statement": "模型内浇注充气混凝土原料，需提高膨胀程度。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1721,
+        "line_end": 1724,
+        "page": 124
+      }
+    ],
+    "answer": "在原料上罩不透气薄膜。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1721,
+        "line_end": 1724,
+        "page": 124
+      }
+    ],
+    "keywords": [
+      "混凝土",
+      "薄膜"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-043",
+    "original_label": null,
+    "title": "多孔钢储液冷却电机",
+    "kind": "unnumbered",
+    "statement": "电机冷却剂输送麻烦，需要短时强力均匀冷却。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1732,
+        "line_end": 1736,
+        "page": 124
+      }
+    ],
+    "answer": "活动部件或结构采用渗冷却液的多孔粉末钢，工作时冷却液蒸发。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1732,
+        "line_end": 1736,
+        "page": 124
+      }
+    ],
+    "keywords": [
+      "电机",
+      "多孔材料",
+      "蒸发冷却"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-044",
+    "original_label": null,
+    "title": "透明绷带观察伤口",
+    "kind": "unnumbered",
+    "statement": "观察伤情希望不必取下绷带。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1748,
+        "line_end": 1751,
+        "page": 124
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1752,
+        "line_end": 1754,
+        "page": 125
+      }
+    ],
+    "answer": "使用透明绷带。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1748,
+        "line_end": 1751,
+        "page": 124
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1752,
+        "line_end": 1754,
+        "page": 125
+      }
+    ],
+    "keywords": [
+      "绷带",
+      "透明"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-045",
+    "original_label": null,
+    "title": "同材芯模铸模补偿收缩",
+    "kind": "unnumbered",
+    "statement": "铸模中成型制品会收缩，需予补偿。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1761,
+        "line_end": 1764,
+        "page": 125
+      }
+    ],
+    "answer": "芯模、铸模与制品使用相同材料。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1761,
+        "line_end": 1764,
+        "page": 125
+      }
+    ],
+    "keywords": [
+      "铸模",
+      "收缩",
+      "一致"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-046",
+    "original_label": null,
+    "title": "连续熔化供给光导探头",
+    "kind": "unnumbered",
+    "statement": "电弧焊、电火花焊高温区难以检查。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1775,
+        "line_end": 1779,
+        "page": 125
+      }
+    ],
+    "answer": "采用可熔光导探头，以不低于熔化速度连续送入高温区。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1775,
+        "line_end": 1779,
+        "page": 125
+      }
+    ],
+    "keywords": [
+      "焊接",
+      "光导探头",
+      "再生"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-047",
+    "original_label": null,
+    "title": "粘性液体跑道减速段",
+    "kind": "unnumbered",
+    "statement": "降落跑道需要减速。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1787,
+        "line_end": 1789,
+        "page": 125
+      }
+    ],
+    "answer": "减速段作浴盆状，填粘性液体，上铺厚弹性物。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1787,
+        "line_end": 1789,
+        "page": 125
+      }
+    ],
+    "keywords": [
+      "跑道",
+      "粘性液体",
+      "聚合态"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-048",
+    "original_label": null,
+    "title": "低熔合金通用管塞",
+    "kind": "unnumbered",
+    "statement": "需密封各种截面管道与管口，并简化结构、统一规格。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1800,
+        "line_end": 1803,
+        "page": 126
+      }
+    ],
+    "answer": "杯状塞内放低熔合金，合金凝固膨胀保证密封。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1800,
+        "line_end": 1803,
+        "page": 126
+      }
+    ],
+    "keywords": [
+      "管塞",
+      "相变",
+      "膨胀"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T30",
+    "original_label": "课题30",
+    "title": "温室盖自动启闭",
+    "kind": "numbered",
+    "statement": null,
+    "question_refs": [],
+    "answer": "温室盖由铰接空心管制成，内装易膨胀液体。温变使管重心改变，自动升降。另一解法是在温室盖上固定双金属片。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1811,
+        "line_end": 1814,
+        "page": 126
+      }
+    ],
+    "keywords": [
+      "温室",
+      "热膨胀",
+      "双金属"
+    ],
+    "uncertainties": [
+      "题干在前部；原书本段明确称课题30。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-049",
+    "original_label": null,
+    "title": "臭氧介质制取铁箔",
+    "kind": "unnumbered",
+    "statement": "氧化剂介质中化学输气反应制铁箔，需加强氧化并提高铁箔均匀性。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1827,
+        "line_end": 1830,
+        "page": 126
+      }
+    ],
+    "answer": "在臭氧介质中进行。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1827,
+        "line_end": 1830,
+        "page": 126
+      }
+    ],
+    "keywords": [
+      "铁箔",
+      "臭氧",
+      "强氧化剂"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-050",
+    "original_label": null,
+    "title": "惰性气体预防棉花库火",
+    "kind": "unnumbered",
+    "statement": "提高仓库棉花贮存可靠性，预防燃烧。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1842,
+        "line_end": 1844,
+        "page": 127
+      }
+    ],
+    "answer": "运输到贮存地点途中用惰性气体处理棉花。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1842,
+        "line_end": 1844,
+        "page": 127
+      }
+    ],
+    "keywords": [
+      "棉花",
+      "惰性气体",
+      "防火"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-051",
+    "original_label": null,
+    "title": "气液悬浮金属冷却剂",
+    "kind": "unnumbered",
+    "statement": "热处理金属需要保证规定冷却速度。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1850,
+        "line_end": 1852,
+        "page": 127
+      }
+    ],
+    "answer": "冷却介质采用气体在液体中的悬浮体。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1850,
+        "line_end": 1852,
+        "page": 127
+      }
+    ],
+    "keywords": [
+      "热处理",
+      "冷却剂",
+      "混合材料"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-052",
+    "original_label": null,
+    "title": "文氏管热质交换装置扩容",
+    "kind": "unnumbered",
+    "statement": "文氏管热质交换器流量每小时达数万立方米，扩流导致尺寸增大。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1863,
+        "line_end": 1871,
+        "page": 127
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1872,
+        "line_end": 1878,
+        "page": 128
+      }
+    ],
+    "answer": "把线性管分布过渡为平面组合和立方体组合，制造系列紧凑装置。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1863,
+        "line_end": 1871,
+        "page": 127
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1872,
+        "line_end": 1878,
+        "page": 128
+      }
+    ],
+    "keywords": [
+      "文氏管",
+      "热质交换",
+      "维度过渡"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T28",
+    "original_label": "课题28（测量制成的锥体）",
+    "title": "锥体精度检验",
+    "kind": "numbered",
+    "statement": null,
+    "question_refs": [],
+    "answer": "以液体样规替代固体样规，把空锥体放入水槽，逐次注水到指定高度，用同一底片从上方重复拍摄水面，得到同心圆组，与标准照片对照。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1918,
+        "line_end": 1949,
+        "page": 129
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1950,
+        "line_end": 1952,
+        "page": 130
+      }
+    ],
+    "keywords": [
+      "锥体",
+      "液体量规",
+      "摄影",
+      "复制"
+    ],
+    "uncertainties": [
+      "本部分为既有题解法，题干在前部，合并时须按锥体测量机制核对原编号。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T42",
+    "original_label": "课题42",
+    "title": "石油气管道预加溶剂",
+    "kind": "numbered",
+    "statement": "热气态石油产品沿管道产生固体石蜡沉淀，原须停机用溶剂清除。已有发明预加溶剂蒸气，问用了哪种技法。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1960,
+        "line_end": 1965,
+        "page": 130
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "石蜡",
+      "溶剂",
+      "技法识别"
+    ],
+    "uncertainties": [
+      "题干已给技术解法，本部分未给技法名称答案。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T43",
+    "original_label": "课题43",
+    "title": "造雨机管长重量矛盾",
+    "kind": "numbered",
+    "statement": "可摇转喷水管越长，降雨覆盖越大，却增重、结构复杂且耗能，应用哪种技法？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1967,
+        "line_end": 1972,
+        "page": 130
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "造雨机",
+      "重量",
+      "喷水管"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T44",
+    "original_label": "课题44",
+    "title": "真空袋替代气袋",
+    "kind": "numbered",
+    "statement": "用相反的真空袋法代替气袋法，实现易碎物体暂时互相靠紧，请据此发明。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1974,
+        "line_end": 1980,
+        "page": 130
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "真空袋",
+      "气袋",
+      "相反原则"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T45",
+    "original_label": "课题45",
+    "title": "莫比乌斯带与多棱带发明预测",
+    "kind": "numbered",
+    "statement": "研磨带割开一端扭转180度再接合，两面都可用，等效工作长度加倍。录音、过滤、切割、输送带也已有类似发明，问用了何种技法；再由三棱带端部转120度、多棱带延长工作面原型预测后续发明。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 1985,
+        "line_end": 2003,
+        "page": 131
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "莫比乌斯带",
+      "研磨带",
+      "发明预测"
+    ],
+    "uncertainties": [
+      "原型技术解法写在题干，本部分无技法判断和预测答案。",
+      "多棱带原文工作面“增长二倍”保留为含义待核。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T03",
+    "original_label": "课题3",
+    "title": "磁性处理树皮后分离木材颗粒",
+    "kind": "numbered",
+    "statement": null,
+    "question_refs": [],
+    "answer": "预先用磁性物质处理树皮，以便后续把木材颗粒与树皮颗粒分开，结合预先作用、部分作用、磁场及反馈。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2205,
+        "line_end": 2208,
+        "page": 136
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2209,
+        "line_end": 2214,
+        "page": 137
+      }
+    ],
+    "keywords": [
+      "树皮",
+      "磁性",
+      "反馈"
+    ],
+    "uncertainties": [
+      "此为既有题解法回提，编号按原文，待合并核对。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T46",
+    "original_label": "课题46",
+    "title": "压紧小球延后取出",
+    "kind": "numbered",
+    "statement": "仪器金属壳孔内压紧小球，过一段时间须取出，因太紧而困难，不能改可拆卸结构。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2218,
+        "line_end": 2222,
+        "page": 137
+      }
+    ],
+    "answer": "压小球前在深孔内滴水，取出前加热使水蒸发，由蒸汽压力将球顶出。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2224,
+        "line_end": 2231,
+        "page": 137
+      }
+    ],
+    "keywords": [
+      "小球",
+      "深孔",
+      "蒸汽",
+      "反馈"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-053",
+    "original_label": null,
+    "title": "可升降拆装信号灯支架",
+    "kind": "unnumbered",
+    "statement": "信号灯需要不移动灯座而快速升降。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2272,
+        "line_end": 2275,
+        "page": 138
+      }
+    ],
+    "answer": "支架由活动相连、销钉固定的可拆装元件构成。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2272,
+        "line_end": 2275,
+        "page": 138
+      }
+    ],
+    "keywords": [
+      "信号灯",
+      "支架",
+      "宏观分割"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-054",
+    "original_label": null,
+    "title": "热分解复合的发电工作介质",
+    "kind": "unnumbered",
+    "statement": "发电设备双循环回路需要在加热冷却中吸收和传递热量。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2277,
+        "line_end": 2279,
+        "page": 138
+      }
+    ],
+    "answer": "采用加热时分解、吸热并减小分子量，冷却时复合的化学反应物质。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2277,
+        "line_end": 2279,
+        "page": 138
+      }
+    ],
+    "keywords": [
+      "发电",
+      "工作介质",
+      "分子分割"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-055",
+    "original_label": null,
+    "title": "热力钻井机铰接斜钻",
+    "kind": "unnumbered",
+    "statement": "热力钻井机需要不停机进行斜面钻孔。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2293,
+        "line_end": 2294,
+        "page": 139
+      }
+    ],
+    "answer": "使喷枪与部件铰接以保证活动性。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2293,
+        "line_end": 2294,
+        "page": 139
+      }
+    ],
+    "keywords": [
+      "钻井",
+      "铰接"
+    ],
+    "uncertainties": [
+      "铰接对象OCR为“锥噪”，未恢复。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-056",
+    "original_label": null,
+    "title": "多金属偏转器定向钻井",
+    "kind": "unnumbered",
+    "statement": "定向钻井需要调节喷筒弯曲角。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2296,
+        "line_end": 2298,
+        "page": 139
+      }
+    ],
+    "answer": "使用多金属偏转器，通过改变温度控制弯曲，利用不同热膨胀系数。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2296,
+        "line_end": 2298,
+        "page": 139
+      }
+    ],
+    "keywords": [
+      "钻井",
+      "多金属",
+      "热膨胀"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-057",
+    "original_label": null,
+    "title": "压电陶瓷制动环",
+    "kind": "unnumbered",
+    "statement": "制动装置希望改善使用性能。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2325,
+        "line_end": 2332,
+        "page": 140
+      }
+    ],
+    "answer": "用压电陶瓷制动环与高频振荡器，改变晶格参数使制动环胀大。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2325,
+        "line_end": 2332,
+        "page": 140
+      }
+    ],
+    "keywords": [
+      "制动环",
+      "压电",
+      "微观"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-058",
+    "original_label": null,
+    "title": "电磁泵喷气式船用发动机",
+    "kind": "unnumbered",
+    "statement": "船用发动机的推进功能。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2367,
+        "line_end": 2370,
+        "page": 141
+      }
+    ],
+    "answer": "采用输送电解质的电磁泵作为喷气式船用发动机，以场驱动离子代替机械部件。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2367,
+        "line_end": 2370,
+        "page": 141
+      }
+    ],
+    "keywords": [
+      "船舶",
+      "电磁泵",
+      "电解质"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-059",
+    "original_label": null,
+    "title": "聚合物粉末喷涂电极定位",
+    "kind": "unnumbered",
+    "statement": "聚合物粉末喷涂装置要提高涂覆质量并进一步提高电极位移精度和自动化。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2378,
+        "line_end": 2390,
+        "page": 141
+      }
+    ],
+    "answer": "已有装置把起晕电极做环状，以微动螺杆移动。作者预测以磁致伸缩、电致伸缩、反压电或热膨胀驱动替代螺杆。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2378,
+        "line_end": 2390,
+        "page": 141
+      }
+    ],
+    "keywords": [
+      "粉末喷涂",
+      "电极",
+      "精密位移"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-060",
+    "original_label": null,
+    "title": "热控调节元件微位移",
+    "kind": "unnumbered",
+    "statement": "微调位移装置需调节位移。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2391,
+        "line_end": 2393,
+        "page": 141
+      }
+    ],
+    "answer": "加热冷却改变调节元件长度。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2391,
+        "line_end": 2393,
+        "page": 141
+      }
+    ],
+    "keywords": [
+      "微位移",
+      "热膨胀"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-061",
+    "original_label": null,
+    "title": "电致伸缩微型发射器",
+    "kind": "unnumbered",
+    "statement": "微型发射器需驱动。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2393,
+        "line_end": 2394,
+        "page": 141
+      }
+    ],
+    "answer": "采用电致伸缩驱动机构。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2393,
+        "line_end": 2394,
+        "page": 141
+      }
+    ],
+    "keywords": [
+      "微型发射器",
+      "电致伸缩"
+    ],
+    "uncertainties": [
+      "原书仅列方法，未给具体约束。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-062",
+    "original_label": null,
+    "title": "热膨胀薄片对准微型元件",
+    "kind": "unnumbered",
+    "statement": "微型元件装置需对准。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2394,
+        "line_end": 2395,
+        "page": 141
+      }
+    ],
+    "answer": "传动机构做成可因热膨胀改变尺寸的小薄片。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2394,
+        "line_end": 2395,
+        "page": 141
+      }
+    ],
+    "keywords": [
+      "微型元件",
+      "对准",
+      "热膨胀"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-063",
+    "original_label": null,
+    "title": "热膨胀调节迷宫泵",
+    "kind": "unnumbered",
+    "statement": "迷宫泵需要调节。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2395,
+        "line_end": 2396,
+        "page": 141
+      }
+    ],
+    "answer": "以热膨胀实现调节。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2395,
+        "line_end": 2396,
+        "page": 141
+      }
+    ],
+    "keywords": [
+      "迷宫泵",
+      "热膨胀"
+    ],
+    "uncertainties": [
+      "原书仅列方法，未给具体约束。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-064",
+    "original_label": null,
+    "title": "电压传动微调装置",
+    "kind": "unnumbered",
+    "statement": "微调装置需驱动。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2396,
+        "line_end": 2397,
+        "page": 141
+      }
+    ],
+    "answer": "采用电压传动器。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2396,
+        "line_end": 2397,
+        "page": 141
+      }
+    ],
+    "keywords": [
+      "微调",
+      "电压传动"
+    ],
+    "uncertainties": [
+      "原文“电压传动器”疑为压电传动器，未改写为确定事实。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-065",
+    "original_label": null,
+    "title": "磁致伸缩排液装置",
+    "kind": "unnumbered",
+    "statement": "微型喷射器的排液驱动。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2403,
+        "line_end": 2404,
+        "page": 142
+      }
+    ],
+    "answer": "采用磁致伸缩驱动机构。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2403,
+        "line_end": 2404,
+        "page": 142
+      }
+    ],
+    "keywords": [
+      "排液",
+      "微型喷射器",
+      "磁致伸缩"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T05",
+    "original_label": "课题5",
+    "title": "判断手枪此前是否射击",
+    "kind": "numbered",
+    "statement": "需要判断手枪在两昼夜前是否射击过。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2430,
+        "line_end": 2432,
+        "page": 142
+      }
+    ],
+    "answer": "测射击冲击造成的枪管磁化程度变化。钢枪管在地磁场中磁化，射击使其消磁，重新磁化需时，用测磁仪跟踪该物理量判断射击时间。刚射击时可测温，但温度很快恢复，不适合作两昼夜指标。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2441,
+        "line_end": 2461,
+        "page": 143
+      }
+    ],
+    "keywords": [
+      "手枪",
+      "射击时间",
+      "铁磁性",
+      "测磁仪"
+    ],
+    "uncertainties": [
+      "Page137误称“课题5预先加入荧光粉”，父agent核对对应荧光检漏题，未并入本题。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "U2-066",
+    "original_label": null,
+    "title": "刚开枪即鉴别的时间缩短变体",
+    "kind": "variant",
+    "statement": "邻室一枪或多枪后1微秒内擦净枪，给出两把枪，鉴别哪把刚射击。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2432,
+        "line_end": 2437,
+        "page": 142
+      }
+    ],
+    "answer": "刚射击的枪温度较高，可测温鉴别。这是引向随射击有规律变化物理性质的时间缩短实验。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2441,
+        "line_end": 2444,
+        "page": 143
+      }
+    ],
+    "keywords": [
+      "手枪",
+      "温度",
+      "时间缩短"
+    ],
+    "uncertainties": [],
+    "related_ids": [
+      "T05"
+    ]
+  },
+  {
+    "id": "U2-067",
+    "original_label": null,
+    "title": "磁性十字盘间歇运动机构",
+    "kind": "unnumbered",
+    "statement": "间歇运动机构需延长使用期限。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2481,
+        "line_end": 2485,
+        "page": 144
+      }
+    ],
+    "answer": "主动构件配带永磁铁的软磁十字盘，从动间歇盘配磁滞板。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2481,
+        "line_end": 2485,
+        "page": 144
+      }
+    ],
+    "keywords": [
+      "间歇运动",
+      "磁滞板",
+      "永磁铁"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T47",
+    "original_label": "课题47",
+    "title": "不增尺寸材料提高弹簧刚度",
+    "kind": "numbered",
+    "statement": "钢弹簧不可增加尺寸或改变钢材牌号，不附加任何东西或辅助弹簧，要简单地显著增大刚度。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2489,
+        "line_end": 2494,
+        "page": 144
+      }
+    ],
+    "answer": "每圈弹簧磁化，使同极相邻，压缩时产生附加斥力。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2496,
+        "line_end": 2498,
+        "page": 144
+      }
+    ],
+    "keywords": [
+      "弹簧",
+      "刚度",
+      "磁化"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T48",
+    "original_label": "课题48",
+    "title": "输电防冻敷皮自动停热",
+    "kind": "numbered",
+    "statement": "露天输电线和设备以铁氧体敷皮在交流电作用下发热防冻，但沿线及随时间温度变化，无法人为反复装卸敷皮。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2502,
+        "line_end": 2510,
+        "page": 144
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2511,
+        "line_end": 2516,
+        "page": 145
+      }
+    ],
+    "answer": "选择居里点约0摄氏度的铁氧体，低温有磁性而发热，高于该温度失磁停止，自我调节。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2518,
+        "line_end": 2529,
+        "page": 145
+      }
+    ],
+    "keywords": [
+      "输电线",
+      "防冻",
+      "居里点"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-068",
+    "original_label": null,
+    "title": "磁离合器温度自控",
+    "kind": "unnumbered",
+    "statement": "磁离合器需在一定温度自动开关。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2528,
+        "line_end": 2529,
+        "page": 145
+      }
+    ],
+    "answer": "利用居里点温度的磁性转变实现自开关。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2528,
+        "line_end": 2529,
+        "page": 145
+      }
+    ],
+    "keywords": [
+      "磁离合器",
+      "居里点"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-069",
+    "original_label": null,
+    "title": "感应电炉居里点坩埚",
+    "kind": "unnumbered",
+    "statement": "感应电炉需在给定加热温度自调节。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2529,
+        "line_end": 2530,
+        "page": 145
+      }
+    ],
+    "answer": "坩埚材料居里点等于规定加热温度。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2529,
+        "line_end": 2530,
+        "page": 145
+      }
+    ],
+    "keywords": [
+      "感应电炉",
+      "坩埚",
+      "居里点"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-070",
+    "original_label": null,
+    "title": "热控磁心降低磁放大器噪声",
+    "kind": "unnumbered",
+    "statement": "测量磁放大器需降低磁噪声并提高灵敏度。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2535,
+        "line_end": 2539,
+        "page": 145
+      }
+    ],
+    "answer": "保持磁心绝对温度为材料居里温度的0.92–0.99，利用霍普金斯效应。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2535,
+        "line_end": 2539,
+        "page": 145
+      }
+    ],
+    "keywords": [
+      "磁放大器",
+      "霍普金斯效应"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "U2-071",
+    "original_label": null,
+    "title": "巴克豪森跳跃计数测力",
+    "kind": "unnumbered",
+    "statement": "需要测作用于磁性材料的力。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2541,
+        "line_end": 2547,
+        "page": 145
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2548,
+        "line_end": 2551,
+        "page": 146
+      }
+    ],
+    "answer": "计算微结构磁性跳跃或变化次数，利用巴克豪森效应。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2541,
+        "line_end": 2547,
+        "page": 145
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2548,
+        "line_end": 2551,
+        "page": 146
+      }
+    ],
+    "keywords": [
+      "测力",
+      "巴克豪森效应"
+    ],
+    "uncertainties": [
+      "原书将该效应与经过居里点关联，按原书索引，不作物理修订。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T49",
+    "original_label": "课题49",
+    "title": "超高压导线电压电流测量",
+    "kind": "numbered",
+    "statement": "测高压导线的超高压与电流，传统绝缘支架巨大，要求简单、便宜、精确。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2612,
+        "line_end": 2617,
+        "page": 147
+      }
+    ],
+    "answer": "把电场或磁场输入变为光场输出，分别采用克尔效应或法拉第效应。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2619,
+        "line_end": 2624,
+        "page": 147
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2625,
+        "line_end": 2630,
+        "page": 148
+      }
+    ],
+    "keywords": [
+      "超高压",
+      "电流",
+      "克尔效应",
+      "法拉第效应"
+    ],
+    "uncertainties": [
+      "绝缘结构高度原文“1020m”疑缺连接号，未确定数值。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T50",
+    "original_label": "课题50",
+    "title": "清水中按比重分选番茄",
+    "kind": "numbered",
+    "statement": "熟生番茄均因密度略小于水而浮起，熟果稍重。希望在约0.99g/cm³液体按密度分选，但无合适食品液体，不准往水加其他液体、加热或充气。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2656,
+        "line_end": 2662,
+        "page": 148
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2663,
+        "line_end": 2672,
+        "page": 149
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "番茄",
+      "分选",
+      "比重"
+    ],
+    "uncertainties": [
+      "密度单位及数值有OCR损坏，“18/Cm3”按上下文为1g/cm³。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T51",
+    "original_label": "课题51",
+    "title": "装废金属车皮就地称量",
+    "kind": "numbered",
+    "statement": "需直接在装料地点称废金属车皮，误差允许1–2吨。拖至磅秤需6–12小时且要返工补卸；不能在轨下、车下或车内安放张线式传感器。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2674,
+        "line_end": 2684,
+        "page": 149
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "废金属",
+      "车皮",
+      "称量"
+    ],
+    "uncertainties": [
+      "“张线式”传感器名称OCR疑点。"
+    ],
+    "related_ids": []
+  },
+  {
+    "id": "T52",
+    "original_label": "课愿52",
+    "title": "人控高精度气体开关",
+    "kind": "numbered",
+    "statement": "容器A向B输气，在极微小开度下普通开关夹具太粗笨。要简单精确、由人操纵，不是根据B反馈的自动控制。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2685,
+        "line_end": 2696,
+        "page": 149
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "气体",
+      "开关",
+      "精密控制"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T53",
+    "original_label": "课愿53",
+    "title": "离心机反应恒温",
+    "kind": "numbered",
+    "statement": "大型快速旋转离心机内须长时间保持250摄氏度，不能装入恒温箱，通电或红外加热均遇内部温度控制困难，测表温不足。",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2702,
+        "line_end": 2711,
+        "page": 150
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "离心机",
+      "恒温",
+      "化学反应"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T54",
+    "original_label": "课唐54",
+    "title": "被切钻石的来源鉴定",
+    "kind": "numbered",
+    "statement": "被盗大金刚石疑被切为五颗小钻石。嫌疑人称是祖母遗产，重量形状不同，颜色与碳成分不能证明同源，如何断案？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2712,
+        "line_end": 2730,
+        "page": 150
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "钻石",
+      "侦探",
+      "同源鉴定"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T55",
+    "original_label": "课题55",
+    "title": "大范围输入转速保持定速输出",
+    "kind": "numbered",
+    "statement": "主动轴400–4000转/分，从动轴须恒为400转/分。拟人类比手抓主动轴、脚踏从动轴未得到答案，如何解决、基于何规则？",
+    "question_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2732,
+        "line_end": 2739,
+        "page": 150
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2740,
+        "line_end": 2744,
+        "page": 151
+      }
+    ],
+    "answer": null,
+    "answer_refs": [],
+    "keywords": [
+      "转速",
+      "主动轴",
+      "从动轴",
+      "定速"
+    ],
+    "uncertainties": [],
+    "related_ids": []
+  },
+  {
+    "id": "T09",
+    "original_label": "课题5（原文错号，对应课题9）",
+    "title": "荧光检漏的预先反馈",
+    "kind": "numbered",
+    "statement": null,
+    "question_refs": [],
+    "answer": "预先加入荧光粉以保证后续反馈，作为预先作用、部分作用与反馈原则组合的回提。",
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2214,
+        "line_end": 2215,
+        "page": 137
+      }
+    ],
+    "keywords": [
+      "荧光粉",
+      "检漏",
+      "反馈"
+    ],
+    "uncertainties": [
+      "主agent核对前部题干为课题9。本部分仅回提，无完整题干。"
+    ],
+    "related_ids": []
+  }
+]

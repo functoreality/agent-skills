@@ -1,0 +1,83 @@
+{
+  "T08": {
+    "answers": [
+      "保留机械场经砂轮作用圆筒的原有物场，按物场链锁规则使砂轮扩展成相连的新物场，取得可测终端场。本部分仅给原则和OCR损坏的物场图，未见具体传感方案。",
+      "本段比较三法：端面铺导电片以电阻监测，但受压力、接触与温度影响而不精确；间隔导电链用脉冲数表征半径，但逐点供电不易；不规则三角形导电结构使信号与间歇比随半径变化，测量简单可靠。",
+      "把测量问题看成能量传导问题，以电流给砂轮供能，并通过砂轮壁或沿轴引出。书中明确说这还不是最终答案。"
+    ],
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md",
+        "line_start": 1931,
+        "line_end": 1944,
+        "page": 53
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md",
+        "line_start": 1949,
+        "line_end": 1955,
+        "page": 54
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 296,
+        "line_end": 301,
+        "page": 86
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 302,
+        "line_end": 321,
+        "page": 87
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md",
+        "line_start": 564,
+        "line_end": 569,
+        "page": 166
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-152-219.md",
+        "line_start": 570,
+        "line_end": 577,
+        "page": 167
+      }
+    ],
+    "uncertainties": [
+      "标签OCR为“课愿8”。",
+      "物场图丢失布局，答案仅能恢复文字原则，具体原书答案需后文配对。",
+      "图4–6未被OCR保留，三角形结构需查图。易熔垫的回提见Page137 line2215–2216，应作为额外答案引用补入。",
+      "Page137易熔垫回提的编号8可能错引，需主agent按机制与前部题干核对，不据此认定与砂轮方案相同。",
+      "本部分仅有局部重述和答案方向，完整题干及最终技术解法在别处。OCR原句为“通过砂轮壁（或沿轴）”，未擅自更正。",
+      "主Agent核对：Page137“课题8”的易熔垫机制对应T12楔子，不计作T08砂轮解法。"
+    ]
+  },
+  "T12": {
+    "answer_refs": [
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md",
+        "line_start": 1510,
+        "line_end": 1512,
+        "page": 42
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md",
+        "line_start": 1610,
+        "line_end": 1622,
+        "page": 45
+      },
+      {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 2214,
+        "line_end": 2216,
+        "page": 137
+      }
+    ],
+    "uncertainties": [
+      "Page137 L2215以课题8错号回提易熔垫，按Page41楔子解答机制归本题。"
+    ]
+  },
+  "T24": {
+    "title": "研磨凹凸曲面制品时的砂轮适形与磨粒保持"
+  }
+}
