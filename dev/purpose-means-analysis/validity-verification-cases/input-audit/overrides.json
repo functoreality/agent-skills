@@ -1,0 +1,719 @@
+{
+  "T01": {
+    "status": "source_conflict",
+    "summary": "原书题干目标与后文解法存在冲突，PDF已确认原印，不能根据答案静默改成防气化。",
+    "pdf_resolution": "原书题干目标与后文解法存在冲突，PDF已确认原印，不能根据答案静默改成防气化。"
+  },
+  "T35": {
+    "status": "source_conflict",
+    "summary": "时间语境的单位原印为mL／s形，其科学含义未明，不能擅改成微秒。",
+    "pdf_resolution": "时间语境的单位原印为mL／s形，其科学含义未明，不能擅改成微秒。"
+  },
+  "T36": {
+    "status": "source_conflict",
+    "summary": "原印同时写铁矿浆与铁水中的悬浮物，介质解释有疑义，不能默认为水或改字。",
+    "pdf_resolution": "原印同时写铁矿浆与铁水中的悬浮物，介质解释有疑义，不能默认为水或改字。"
+  },
+  "T55": {
+    "status": "source_conflict",
+    "summary": "原题转速目标清楚，但附带类比把脚上的力写为400r/min，量名与单位冲突须保留并澄清。",
+    "pdf_resolution": "原题转速目标清楚，但附带类比把脚上的力写为400r/min，量名与单位冲突须保留并澄清。"
+  },
+  "T16": {
+    "status": "ready_text",
+    "summary": "原书已给磁控装置，完整文本可用作方案解释，不能用来证明该方案由盲解生成。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 2,
+        "old": "装置白",
+        "new": "装置由",
+        "pdf_page": 56
+      },
+      {
+        "segment_index": 2,
+        "old": "液体容器牢：",
+        "new": "液体容器中。",
+        "pdf_page": 56
+      },
+      {
+        "segment_index": 2,
+        "old": "电滋",
+        "new": "电磁",
+        "pdf_page": 56
+      }
+    ]
+  },
+  "T24": {
+    "status": "ready_text",
+    "summary": "附录完整题干可用，冰磨砂轮确为原印，保留其被排除的条件。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。"
+  },
+  "T29": {
+    "status": "ready_text",
+    "summary": "完整效率题干可用，原印每卷52张，保留卷字及原数值，不按算术推测改写。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 1,
+        "old": "2张图片",
+        "new": "52张图片",
+        "pdf_page": 77
+      }
+    ]
+  },
+  "T30": {
+    "status": "ready_text",
+    "summary": "温室题干全文可用，15°C至25°C、30°及一日几变均已核实。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 1,
+        "old": "翻紧",
+        "new": "绷紧",
+        "pdf_page": 78
+      },
+      {
+        "segment_index": 1,
+        "old": "温度增减",
+        "new": "温度增高",
+        "pdf_page": 78
+      },
+      {
+        "segment_index": 1,
+        "old": "由5，C增至？5C",
+        "new": "由15°C增至25°C",
+        "pdf_page": 78
+      },
+      {
+        "segment_index": 1,
+        "old": "30·",
+        "new": "30°",
+        "pdf_page": 78
+      },
+      {
+        "segment_index": 1,
+        "old": "一具机变",
+        "new": "一日几变",
+        "pdf_page": 78
+      }
+    ]
+  },
+  "T34": {
+    "status": "ready_text",
+    "summary": "喷漆全文可用，补回低速优势并核实不易风干，后续解法回指不并入题干。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "不易风",
+        "new": "不易风干",
+        "pdf_page": 101
+      }
+    ]
+  },
+  "T37": {
+    "status": "ready_text",
+    "summary": "原印25瓶、5排、每排6座及5焊嘴已核，保留隔板两种失败尝试。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "26个",
+        "new": "25个",
+        "pdf_page": 108
+      },
+      {
+        "segment_index": 0,
+        "old": "煤接封口",
+        "new": "焊接封口",
+        "pdf_page": 108
+      },
+      {
+        "segment_index": 0,
+        "old": "盛稠药物",
+        "new": "盛满药物",
+        "pdf_page": 108
+      }
+    ]
+  },
+  "T39": {
+    "status": "ready_text",
+    "summary": "化学镀题干可用，温度越高等漏字已核，原书金属液一词保持原样。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "铜液液",
+        "new": "铜溶液",
+        "pdf_page": 109
+      },
+      {
+        "segment_index": 0,
+        "old": "機中",
+        "new": "槽中",
+        "pdf_page": 109
+      },
+      {
+        "segment_index": 0,
+        "old": "表面土覆",
+        "new": "表面上覆",
+        "pdf_page": 109
+      },
+      {
+        "segment_index": 0,
+        "old": "温度越，",
+        "new": "温度越高，",
+        "pdf_page": 109
+      }
+    ]
+  },
+  "T45": {
+    "status": "ready_text",
+    "summary": "完整给定方案及预测任务可用，120°及倍数已核，不计为未知方案的盲解。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 1,
+        "old": "120”",
+        "new": "120°",
+        "pdf_page": 131
+      }
+    ]
+  },
+  "T49": {
+    "status": "ready_text",
+    "summary": "完整原题可用，恢复对全电压绝缘要求，PDF确认高度10～20m。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "1020m",
+        "new": "10～20m",
+        "pdf_page": 147
+      }
+    ]
+  },
+  "T50": {
+    "status": "ready_text",
+    "summary": "恢复分选自动化和现有水槽，密度1g/cm³及0.99g/cm³已核，禁用条件保持。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 1,
+        "old": "18/Cm3",
+        "new": "1g/cm³",
+        "pdf_page": 149
+      },
+      {
+        "segment_index": 1,
+        "old": "0.99g/cm",
+        "new": "0.99g/cm³",
+        "pdf_page": 149
+      }
+    ]
+  },
+  "T51": {
+    "status": "ready_text",
+    "summary": "原文敞车与称量条件可用，传感器不好/更不好不得强化为禁止。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "散车",
+        "new": "敞车",
+        "pdf_page": 149
+      }
+    ]
+  },
+  "T56": {
+    "status": "ready_text",
+    "summary": "水果下落题干可用，高度已核为0.5m，不加入后文取小球解法。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 1,
+        "old": "05\nm",
+        "new": "0.5 m",
+        "pdf_page": 177
+      }
+    ]
+  },
+  "T65": {
+    "status": "ready_text",
+    "summary": "原题可用，氧化铍及2000°C已核，原书溶点/溶化字样保持。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 1,
+        "old": "2000·C",
+        "new": "2000°C",
+        "pdf_page": 198
+      },
+      {
+        "segment_index": 1,
+        "old": "氧化皱",
+        "new": "氧化铍",
+        "pdf_page": 198
+      },
+      {
+        "segment_index": 1,
+        "old": "氧\n\n化皱",
+        "new": "氧化铍",
+        "pdf_page": 198
+      },
+      {
+        "segment_index": 1,
+        "old": "氧化皱",
+        "new": "氧化铍",
+        "pdf_page": 198
+      },
+      {
+        "segment_index": 1,
+        "old": "氧化皱",
+        "new": "氧化铍",
+        "pdf_page": 198
+      },
+      {
+        "segment_index": 1,
+        "old": "氧化皱",
+        "new": "氧化铍",
+        "pdf_page": 198
+      }
+    ]
+  },
+  "T66": {
+    "status": "ready_text",
+    "summary": "原题可用，荧光变化已核，周期地停开发动机确为原书用词。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 1,
+        "old": "荧光孪化",
+        "new": "荧光变化",
+        "pdf_page": 198
+      },
+      {
+        "segment_index": 1,
+        "old": "粗楂",
+        "new": "粗糙",
+        "pdf_page": 198
+      },
+      {
+        "segment_index": 1,
+        "old": "粗楂",
+        "new": "粗糙",
+        "pdf_page": 198
+      }
+    ]
+  },
+  "T67": {
+    "status": "ready_text",
+    "summary": "侦探题全文可用，别墅里15分钟与谁也不能放毒药已核，不改成别室。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 2,
+        "old": "别壁里",
+        "new": "别墅里",
+        "pdf_page": 199
+      },
+      {
+        "segment_index": 2,
+        "old": "如谁也不能",
+        "new": "谁也不能",
+        "pdf_page": 199
+      }
+    ]
+  },
+  "U1-018": {
+    "status": "ready_text",
+    "summary": "原场景可提取，千分之一秒与照明电源条件已核，原书未单独提出此发明题。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "干分之一秒",
+        "new": "千分之一秒",
+        "pdf_page": 29
+      }
+    ]
+  },
+  "U2-001": {
+    "status": "ready_text",
+    "summary": "原发现问题文字可用，苯分子式已核为C₆H₆，属于历史重构而非新设计。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "C。H6",
+        "new": "C₆H₆",
+        "pdf_page": 82
+      }
+    ]
+  },
+  "U2-019": {
+    "status": "ready_text",
+    "summary": "可分离的专利任务信息已核为加工光纤，需按重构案例使用。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "加无机材料",
+        "new": "加工无机材料",
+        "pdf_page": 117
+      },
+      {
+        "segment_index": 0,
+        "old": "如光年",
+        "new": "如光纤",
+        "pdf_page": 117
+      }
+    ]
+  },
+  "U2-026": {
+    "status": "ready_text",
+    "summary": "可分离任务信息已核为无锯末断木及降低工具进入力，需按重构案例使用。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "无锯未",
+        "new": "无锯末",
+        "pdf_page": 119
+      },
+      {
+        "segment_index": 0,
+        "old": "为减少士真\n\n进入木材的力",
+        "new": "为减少工具进入木材的力",
+        "pdf_page": 119
+      }
+    ]
+  },
+  "U2-029": {
+    "status": "ready_text",
+    "summary": "可分离任务信息已核为胶合板及保持木材的本性，需按重构案例使用。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "胶合蔽",
+        "new": "胶合板",
+        "pdf_page": 120
+      },
+      {
+        "segment_index": 0,
+        "old": "木材莳本性",
+        "new": "木材的本性",
+        "pdf_page": 120
+      }
+    ]
+  },
+  "U2-032": {
+    "status": "ready_text",
+    "summary": "校准任务原文已核，保留动态张力和静态装入，需按重构案例使用。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "稠密众质",
+        "new": "稠密介质",
+        "pdf_page": 121
+      },
+      {
+        "segment_index": 0,
+        "old": "甚特征是",
+        "new": "其特征是",
+        "pdf_page": 121
+      },
+      {
+        "segment_index": 0,
+        "old": "校谁精度",
+        "new": "校准精度",
+        "pdf_page": 121
+      }
+    ]
+  },
+  "U3-026": {
+    "status": "ready_text",
+    "summary": "尾翼原叙述可分离，安定面与缓冲圈原字已核，需按重构案例使用。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。"
+  },
+  "U3-033": {
+    "status": "ready_text",
+    "summary": "DNA历史问题文字及15000r/min已核，原书氨基酸一词不作现代科学订正。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "增蕴",
+        "new": "增殖",
+        "pdf_page": 194
+      },
+      {
+        "segment_index": 0,
+        "old": "鞔转",
+        "new": "旋转",
+        "pdf_page": 194
+      },
+      {
+        "segment_index": 0,
+        "old": "15000rmn",
+        "new": "15000r/min",
+        "pdf_page": 194
+      }
+    ]
+  },
+  "U3-034": {
+    "status": "ready_text",
+    "summary": "绕线叙述的导线、绕线架、线轴稍小和虚绕句已核，需按任务重构使用。",
+    "pdf_resolution": "必要疑字已定点核PDF，原书异常字样保持原样。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "将导缘放人饰集饗\n中",
+        "new": "将导线放入绕线架中",
+        "pdf_page": 194
+      },
+      {
+        "segment_index": 0,
+        "old": "线轴不得不做得稍？",
+        "new": "线轴不得不做得稍小",
+        "pdf_page": 194
+      },
+      {
+        "segment_index": 0,
+        "old": "限懒",
+        "new": "限制",
+        "pdf_page": 194
+      },
+      {
+        "segment_index": 0,
+        "old": "在绕线架里面绣多\n少",
+        "new": "在绕线架里面绕多少",
+        "pdf_page": 194
+      }
+    ]
+  },
+  "T07": {
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "土0.5m",
+        "new": "±0.5m",
+        "pdf_page": 39
+      }
+    ]
+  },
+  "U3-017": {
+    "pdf_resolution": "原题旧结构图16(a)已核实并单独裁出，无解法(b)。仍需将该中性原图作为多模态输入一起提供。",
+    "figure_assets": [
+      "_private/evidence/input-audit/c-p178-fig16a.png"
+    ]
+  },
+  "U3-018": {
+    "pdf_resolution": "原书确印图13及粉末空气流，图13实际指向未独立确认。此记录本就缺独立任务，仍不用于完整盲试。"
+  },
+  "T08": {
+    "segment_updates": {
+      "1": [
+        {
+          "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+          "line_start": 293,
+          "line_end": 295,
+          "page": 86,
+          "role": "later_constraint",
+          "char_start": 0,
+          "char_end": 11
+        },
+        {
+          "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+          "line_start": 293,
+          "line_end": 295,
+          "page": 86,
+          "role": "later_constraint",
+          "char_start": 42,
+          "char_end": 70
+        }
+      ]
+    },
+    "boundary_review": "独立逐条复核后修正原题/后文边界，去掉作者的路线、物场或矛盾分析，原题跨页验收条件仍保留。",
+    "summary": "初始测量题干可用，后文正常加工及不得抽出条件单独保留，物场与题型分析不入包。"
+  },
+  "T09": {
+    "segment_updates": {
+      "1": {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md",
+        "line_start": 1473,
+        "line_end": 1474,
+        "page": 41,
+        "role": "later_constraint",
+        "char_start": 5,
+        "char_end": 23
+      }
+    },
+    "boundary_review": "独立逐条复核后修正原题/后文边界，去掉作者的路线、物场或矛盾分析，原题跨页验收条件仍保留。"
+  },
+  "T10": {
+    "segment_updates": {
+      "1": {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md",
+        "line_start": 1474,
+        "line_end": 1475,
+        "page": 41,
+        "role": "later_constraint",
+        "char_start": 39,
+        "char_end": 48
+      }
+    },
+    "boundary_review": "独立逐条复核后修正原题/后文边界，去掉作者的路线、物场或矛盾分析，原题跨页验收条件仍保留。"
+  },
+  "T11": {
+    "segment_updates": {
+      "1": {
+        "role": "later_constraint"
+      }
+    },
+    "boundary_review": "独立逐条复核后修正原题/后文边界，去掉作者的路线、物场或矛盾分析，原题跨页验收条件仍保留。"
+  },
+  "T12": {
+    "omit_segment_indices": [
+      1
+    ],
+    "boundary_review": "独立逐条复核后修正原题/后文边界，去掉作者的路线、物场或矛盾分析，原题跨页验收条件仍保留。",
+    "summary": "基础题干保留易于拔出的楔子这一原问，后文机构复杂化分析不作为补充条件。",
+    "findings": [
+      {
+        "type": "meaning_shift",
+        "detail": "原文说明为省力而安装机构会造成结构复杂化的技术矛盾，摘要改成“避免结构复杂”略有强化，不能扩成绝不允许增加任何机构。",
+        "impact": "possible",
+        "source_refs": [
+          {
+            "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md",
+            "line_start": 1482,
+            "line_end": 1484,
+            "page": 42
+          }
+        ]
+      }
+    ]
+  },
+  "T14": {
+    "segment_updates": {
+      "1": {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md",
+        "line_start": 1896,
+        "line_end": 1897,
+        "page": 52,
+        "role": "later_constraint",
+        "char_start": 9,
+        "char_end": 23
+      }
+    },
+    "boundary_review": "独立逐条复核后修正原题/后文边界，去掉作者的路线、物场或矛盾分析，原题跨页验收条件仍保留。"
+  },
+  "T20": {
+    "segment_updates": {
+      "3": {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-1-78.md",
+        "line_start": 2315,
+        "line_end": 2317,
+        "page": 64,
+        "role": "later_constraint",
+        "char_start": 6,
+        "char_end": 34
+      }
+    },
+    "boundary_review": "独立逐条复核后修正原题/后文边界，去掉作者的路线、物场或矛盾分析，原题跨页验收条件仍保留。"
+  },
+  "T23": {
+    "omit_segment_indices": [
+      2
+    ],
+    "boundary_review": "独立逐条复核后修正原题/后文边界，去掉作者的路线、物场或矛盾分析，原题跨页验收条件仍保留。"
+  },
+  "T31": {
+    "segment_updates": {
+      "2": {
+        "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+        "line_start": 74,
+        "line_end": 75,
+        "page": 81,
+        "role": "later_constraint",
+        "char_start": 27,
+        "char_end": 40
+      }
+    },
+    "boundary_review": "独立逐条复核后修正原题/后文边界，去掉作者的路线、物场或矛盾分析，原题跨页验收条件仍保留。"
+  },
+  "T64": {
+    "segment_updates": {
+      "3": {
+        "role": "statement"
+      },
+      "4": {
+        "role": "statement"
+      }
+    },
+    "boundary_review": "独立逐条复核后修正原题/后文边界，去掉作者的路线、物场或矛盾分析，原题跨页验收条件仍保留。"
+  },
+  "U2-017": {
+    "omit_segment_indices": [
+      3
+    ],
+    "boundary_review": "独立逐条复核后修正原题/后文边界，去掉作者的路线、物场或矛盾分析，原题跨页验收条件仍保留。",
+    "summary": "仅从专利前序分离原系统和调速目标，后文离心片质量分析不进入重构任务包。",
+    "packet_notes": "原文属于专利方案叙述，前序任务可分离。作者随后对离心片质量的路线分析已排除。",
+    "findings": [
+      {
+        "type": "omission",
+        "detail": "摘要省略制动式离心调节器安在转子垂直轴上，以及给定风力和离心片质量决定转速的原结构关系。",
+        "impact": "material",
+        "source_refs": [
+          {
+            "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+            "line_start": 1358,
+            "line_end": 1364,
+            "page": 115
+          },
+          {
+            "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+            "line_start": 1365,
+            "line_end": 1383,
+            "page": 116
+          }
+        ]
+      },
+      {
+        "type": "answer_leak",
+        "detail": "旧标题“气动制动”就是原文已给的实现方案，不能保留。",
+        "impact": "material",
+        "source_refs": [
+          {
+            "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+            "line_start": 1358,
+            "line_end": 1364,
+            "page": 115
+          },
+          {
+            "file": "_private/references/altshuller/Altshuller-creativity-as-an-exact-science.pages-79-151.md",
+            "line_start": 1365,
+            "line_end": 1383,
+            "page": 116
+          }
+        ]
+      }
+    ]
+  },
+  "T26": {
+    "pdf_resolution": "复用此前PDF75页定点核字：原印阿利芙干性油、25°C。与后文温度的原书逻辑疑点仍保留，不是新OCR错误。",
+    "confirmed_corrections": [
+      {
+        "segment_index": 0,
+        "old": "25C",
+        "new": "25°C",
+        "pdf_page": 75
+      }
+    ]
+  }
+}

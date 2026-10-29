@@ -1,0 +1,82 @@
+{
+  "record_count": 205,
+  "generation_candidate_count": 75,
+  "private_audit_files": [
+    {
+      "path": "_private/input-audit/part-1.json",
+      "sha256": "a94bdbff7e4c820209aaf442db0634c90ce42342e2ddc94b6d26b0fde27d4a68"
+    },
+    {
+      "path": "_private/input-audit/part-2.json",
+      "sha256": "2042dbe9f38fa38184117057c09b5349b2d845d9e13473cdf4f1c99835627161"
+    },
+    {
+      "path": "_private/input-audit/part-3.json",
+      "sha256": "cd92eef773da118a468882798e84a052c579263c9e9a4bdc871895a2470d12c2"
+    },
+    {
+      "path": "_private/input-audit/part-4.json",
+      "sha256": "dd13deeec880f523287e71515030e2abea6194ab4f8ba593dcf21626e7978be1"
+    },
+    {
+      "path": "_private/input-audit/part-5.json",
+      "sha256": "09262c073f41e57621caebcc5123ab13b414d0d9de2d49cc0c967411896c464e"
+    },
+    {
+      "path": "_private/input-audit/part-6.json",
+      "sha256": "e7130652beecc88327acb4b787987fe1f6249fe6621d0c4ca7c8943f76afa9ae"
+    },
+    {
+      "path": "_private/input-audit/pdf-checks-b.json",
+      "sha256": "b54f7ff707af4bc9e1ebf57a0854c3ed5e98c3c17579a7999c6ad502744f7d26"
+    },
+    {
+      "path": "_private/input-audit/pdf-checks-c.json",
+      "sha256": "ecb7893e42a464f3aa2cb8a49461b14b63c548f98dcb75a54c8073ffebc65643"
+    },
+    {
+      "path": "_private/input-audit/pdf-checks-d.json",
+      "sha256": "9ae7eea3c06309be4c39ba4c1a6e95f46f21e69a364c9c345b7f4e2db7054cf1"
+    },
+    {
+      "path": "_private/input-audit/pdf-checks.json",
+      "sha256": "95d5a9bd1d723c14feec84d158fa99e0035937cae3bc739fd426e6d85af128c2"
+    }
+  ],
+  "pdf_pages_checked_this_audit": [
+    19,
+    23,
+    29,
+    56,
+    77,
+    78,
+    82,
+    101,
+    105,
+    108,
+    109,
+    117,
+    119,
+    120,
+    121,
+    131,
+    147,
+    148,
+    149,
+    150,
+    151,
+    177,
+    178,
+    179,
+    187,
+    194,
+    198,
+    199,
+    202
+  ],
+  "reused_pdf_evidence": [
+    "reviews/pdf/ocr-spot-checks.md",
+    "reviews/pdf/t07-figures.md"
+  ],
+  "basis": "All entries reviewed against OCR. Only listed PDF pages checked visually. Ready text is not scientific or engineering validation."
+}

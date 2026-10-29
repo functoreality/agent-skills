@@ -8,7 +8,13 @@
     "ra_first_reference_core_hit": false,
     "engineering_validation": "not_performed",
     "notes": "冲击磁变及测量已覆盖，地磁恢复和时间读出未覆盖。",
-    "comparison": "batches/round-01/T05/comparison.md"
+    "comparison": "batches/round-01/T05/comparison.md",
+    "input_fidelity": {
+      "audit": "input-audit/existing-trials.json",
+      "assessment": "narrative_compression",
+      "source_equivalence": "not_established",
+      "rerun_performed": false
+    }
   },
   {
     "case_id": "T13",
@@ -19,7 +25,13 @@
     "ra_first_reference_core_hit": false,
     "engineering_validation": "not_performed",
     "notes": "磁控可聚散颗粒滤床已覆盖，清理细节不同。",
-    "comparison": "batches/round-01/T13/comparison.md"
+    "comparison": "batches/round-01/T13/comparison.md",
+    "input_fidelity": {
+      "audit": "input-audit/existing-trials.json",
+      "assessment": "no_material_loss_found",
+      "source_equivalence": "no_material_loss_found_in_review",
+      "rerun_performed": false
+    }
   },
   {
     "case_id": "T28",
@@ -30,7 +42,13 @@
     "ra_first_reference_core_hit": false,
     "engineering_validation": "not_performed",
     "notes": "未覆盖液面交线及多水位成像。",
-    "comparison": "batches/round-01/T28/comparison.md"
+    "comparison": "batches/round-01/T28/comparison.md",
+    "input_fidelity": {
+      "audit": "input-audit/existing-trials.json",
+      "assessment": "omitted_shared_constraints",
+      "source_equivalence": "not_established",
+      "rerun_performed": false
+    }
   },
   {
     "case_id": "T34",
@@ -41,7 +59,13 @@
     "ra_first_reference_core_hit": false,
     "engineering_validation": "not_performed",
     "notes": "先上漆再离心排出核心已覆盖，控膜参数未验证。",
-    "comparison": "batches/round-01/T34/comparison.md"
+    "comparison": "batches/round-01/T34/comparison.md",
+    "input_fidelity": {
+      "audit": "input-audit/existing-trials.json",
+      "assessment": "omitted_explicit_information",
+      "source_equivalence": "not_established",
+      "rerun_performed": false
+    }
   },
   {
     "case_id": "T46",
@@ -52,7 +76,13 @@
     "ra_first_reference_core_hit": false,
     "engineering_validation": "not_performed",
     "notes": "未覆盖预置介质及取出时内部汽化产压。",
-    "comparison": "batches/round-01/T46/comparison.md"
+    "comparison": "batches/round-01/T46/comparison.md",
+    "input_fidelity": {
+      "audit": "input-audit/existing-trials.json",
+      "assessment": "no_material_loss_found",
+      "source_equivalence": "no_material_loss_found_in_review",
+      "rerun_performed": false
+    }
   },
   {
     "case_id": "T49",
@@ -68,6 +98,12 @@
       "voltage_reference_specific": "B",
       "voltage_concrete_mechanism_family": "A-CP",
       "current_reference_specific": "A-CP"
+    },
+    "input_fidelity": {
+      "audit": "input-audit/existing-trials.json",
+      "assessment": "omitted_explicit_information",
+      "source_equivalence": "not_established",
+      "rerun_performed": false
     }
   },
   {
@@ -79,6 +115,12 @@
     "ra_first_reference_core_hit": false,
     "engineering_validation": "not_performed",
     "notes": "分子输送、摩擦热分解及表面沉积核心已覆盖。",
-    "comparison": "batches/round-01/T61/comparison.md"
+    "comparison": "batches/round-01/T61/comparison.md",
+    "input_fidelity": {
+      "audit": "input-audit/existing-trials.json",
+      "assessment": "omitted_original_hint",
+      "source_equivalence": "not_established",
+      "rerun_performed": false
+    }
   }
 ]

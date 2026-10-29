@@ -1,0 +1,112 @@
+[
+  {
+    "case_id": "T04",
+    "trial_group": "pilot",
+    "question_path": "pilot/T04/question.md",
+    "question_sha256": "9f62a45a6efb5db295f897bf81b4dcd8c745a5371c6dbe7cad0a62c023a78d86",
+    "fidelity_assessment": "near_verbatim",
+    "actual_input_difference": "原试点接近逐字转录，未发现实质题干信息删减。",
+    "result_limit": "现有核心命中事实保留，仍有原已记录的熟悉度及工程限制。",
+    "source_equivalence": "no_material_loss_found_in_review",
+    "rerun_performed": false
+  },
+  {
+    "case_id": "T05",
+    "trial_group": "batches/round-01",
+    "question_path": "batches/round-01/T05/question.md",
+    "question_sha256": "6baeabbdbc5a210ddc9929ac9de9f472ab3cc835df8ed873e32477a183686445",
+    "fidelity_assessment": "narrative_compression",
+    "actual_input_difference": "压缩侦探对话，并把后文两昼夜射击史目标明确写入试解题干。该目标有原文依据，不是根据磁化答案杜撰。",
+    "result_limit": "未见将钢/铁磁材料提示提前交给解题者。B只描述该输入下缺恢复定时环节。",
+    "source_equivalence": "not_established",
+    "rerun_performed": false
+  },
+  {
+    "case_id": "T07",
+    "trial_group": "pilot",
+    "question_path": "pilot/T07/question.md",
+    "question_sha256": "3ba11bf91e0deb1691cffe09b752084a322d0e67cddb1b98e5a8f779088c5b54",
+    "fidelity_assessment": "partial_later_constraints",
+    "actual_input_difference": "原试点已经写明免费、只付飞行费、不能用直升机及订购特殊设备，不能把索引摘要的预算删减误归给试点。没有完整转录后文某些电波路线的排除语句。",
+    "result_limit": "B的实际漏机制事实保留，尚未证明完整重述对分支排序和生成无影响。",
+    "source_equivalence": "not_established",
+    "rerun_performed": false
+  },
+  {
+    "case_id": "T13",
+    "trial_group": "batches/round-01",
+    "question_path": "batches/round-01/T13/question.md",
+    "question_sha256": "70a261ff1b04e34227556d2cd1f91fa0f2af17b9bcab6456a0b88c286954d5ed",
+    "fidelity_assessment": "no_material_loss_found",
+    "actual_input_difference": "实际试解仅用了保留主要条件的第一条摘要，未读取索引中的磁性过滤器回提。",
+    "result_limit": "没有证据表明本题提前泄答，实际输入下A核心覆盖保留。",
+    "source_equivalence": "no_material_loss_found_in_review",
+    "rerun_performed": false
+  },
+  {
+    "case_id": "T28",
+    "trial_group": "batches/round-01",
+    "question_path": "batches/round-01/T28/question.md",
+    "question_sha256": "2dc991ec9370e062eaad057648c010ac2f24f1d4e1127165536d2c5a44976776",
+    "fidelity_assessment": "omitted_shared_constraints",
+    "actual_input_difference": "主体规格、截面样板、精度和耗时关系基本保留。遗漏该组共用练习说明，尤其不引入庞杂设备的限制。",
+    "result_limit": "程序练习要求由用户指定研究方法替代，但技术复杂度限制不应默默省略。B和H2关联只作该摘要输入下的观察，完整原题等价性未证。",
+    "source_equivalence": "not_established",
+    "rerun_performed": false
+  },
+  {
+    "case_id": "T31",
+    "trial_group": "pilot",
+    "question_path": "pilot/T31/question.md",
+    "question_sha256": "c0d19d1492711d639a0695849af87bea4f815064f0167549e25087416411d55b",
+    "fidelity_assessment": "omitted_later_constraints",
+    "actual_input_difference": "主体近逐字转录，未带入后文明言的液体持续作用要求，亦未带入该组共用设备复杂度限制。",
+    "result_limit": "已生成合金杯的事实保留，不能因此断言全部原书约束已在盲解中核验。",
+    "source_equivalence": "not_established",
+    "rerun_performed": false
+  },
+  {
+    "case_id": "T34",
+    "trial_group": "batches/round-01",
+    "question_path": "batches/round-01/T34/question.md",
+    "question_sha256": "b2d982bfe8ba93bd62b103a910045be7a292ace3b570e2fe63dc4f39ca3f0bc5",
+    "fidelity_assessment": "omitted_explicit_information",
+    "actual_input_difference": "摘要省略低速易控时间、不留空白和不过厚的明示优点。PDF确认不易风干，原摘要难干有依据。",
+    "result_limit": "冻结分析自行考虑了覆盖和厚度，不能由此证明删减不影响搜索。A只描述原摘要输入下候选。",
+    "source_equivalence": "not_established",
+    "rerun_performed": false
+  },
+  {
+    "case_id": "T46",
+    "trial_group": "batches/round-01",
+    "question_path": "batches/round-01/T46/question.md",
+    "question_sha256": "6d719c58e7e82113c129b5d4bf43635132c1db03b307a0b8caf07641f609b3ee",
+    "fidelity_assessment": "no_material_loss_found",
+    "actual_input_difference": "金属壳、孔内压入球、延后取出、太紧及禁止可拆卸结构均保留。深孔与放水仅在答案中，不是被压缩掉的原题条件。",
+    "result_limit": "B不归因于删除了深孔或水信息，原书本身未在初始题干给这些条件。",
+    "source_equivalence": "no_material_loss_found_in_review",
+    "rerun_performed": false
+  },
+  {
+    "case_id": "T49",
+    "trial_group": "batches/round-01",
+    "question_path": "batches/round-01/T49/question.md",
+    "question_sha256": "26399ae5cf6ea784b5d36511beeeb08f29d3066318052af11de921dcf6dbc0fc",
+    "fidelity_assessment": "omitted_explicit_information",
+    "actual_input_difference": "省略对全电压绝缘及结构高度，原OCR数值损坏后被只保留为巨大。PDF现确认10～20m。",
+    "result_limit": "冻结分析确实讨论了跨全电位差和隔离，但静态核对不能保证完整题干下的候选相同。分项标签仍属旧输入。",
+    "source_equivalence": "not_established",
+    "rerun_performed": false
+  },
+  {
+    "case_id": "T61",
+    "trial_group": "batches/round-01",
+    "question_path": "batches/round-01/T61/question.md",
+    "question_sha256": "7f70db7ad77394f6799dd202d979f9fe49b34406f01086031046e9c3ff4d25b9",
+    "fidelity_assessment": "omitted_original_hint",
+    "actual_input_difference": "保留真溶液一词，删去括注的分子、原子、离子存在形式。该括注是原题信息，不是后文答案。",
+    "result_limit": "原输入下A事实保留，不能把本次与含原题完整提示的试解视作同一实验条件。",
+    "source_equivalence": "not_established",
+    "rerun_performed": false
+  }
+]

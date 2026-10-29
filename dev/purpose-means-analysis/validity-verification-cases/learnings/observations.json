@@ -22,7 +22,8 @@
     ],
     "next_action": "等待新案例独立出现相同缺口，尚不修改Skill。",
     "adopted_change": null,
-    "round_01_assessment": "未确认复现。T46阻力根有局部性，但已存在施力PMA，不能把漏内部产压直接归为H1。"
+    "round_01_assessment": "未确认复现。T46阻力根有局部性，但已存在施力PMA，不能把漏内部产压直接归为H1。",
+    "input_fidelity_audit": "input-audit/existing-trials.md"
   },
   {
     "id": "T07-H2",
@@ -46,11 +47,13 @@
     "counterevidence": [
       "既有Skill已有相关展开指示，未证明需要新增规则。",
       "原试解已有间接测量分支，不能归因为完全缺少该能力。",
-      "T49在未修改Skill下生成了具体电光/磁光信号结构，不能声称该类操作完全缺失。"
+      "T49在未修改Skill下生成了具体电光/磁光信号结构，不能声称该类操作完全缺失。",
+      "T28实际输入未给共用设备复杂度限制，可能影响分支优先级，后验关联不能当完整原题等价试验。"
     ],
     "next_action": "等待新案例独立出现相同缺口，尚不修改Skill。",
     "adopted_change": null,
-    "round_01_assessment": "新增后验相关实例，仍同属几何测量。尚无候选指令的行为验证，不升级。"
+    "round_01_assessment": "新增后验相关实例，仍同属几何测量。尚无候选指令的行为验证，不升级。 全量题干复核后另附输入删减限制，仍不升级。",
+    "input_fidelity_audit": "input-audit/existing-trials.md"
   },
   {
     "id": "R01-O3",
@@ -74,7 +77,8 @@
       "枪管磁性有模糊记忆贡献，恢复时间主张未核验。"
     ],
     "next_action": "寻找已知动态规律且仍遗漏桥接的新例。",
-    "adopted_change": null
+    "adopted_change": null,
+    "input_fidelity_audit": "input-audit/existing-trials.md"
   },
   {
     "id": "R01-O4",
@@ -98,7 +102,8 @@
       "PMA中介对象和实施条件已有相关要求，原题未给深孔余隙。"
     ],
     "next_action": "在其他任务寻找先形成条件再激活的独立缺口，并检查允许预置的边界。",
-    "adopted_change": null
+    "adopted_change": null,
+    "input_fidelity_audit": "input-audit/existing-trials.md"
   },
   {
     "id": "R01-O5",
@@ -122,6 +127,7 @@
       "现有Skill已支持效应Or展开，强制穷举可能扩大成本。"
     ],
     "next_action": "仅记录复现差异，待出现功能缺口再评估搜索策略。",
-    "adopted_change": null
+    "adopted_change": null,
+    "input_fidelity_audit": "input-audit/existing-trials.md"
   }
 ]

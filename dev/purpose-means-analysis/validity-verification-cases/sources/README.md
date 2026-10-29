@@ -27,6 +27,8 @@ _private/
   evidence/pdf-check/           # 书页截图，按需在本地生成
   frozen-inputs/                # 原始揭答归档、旧冻结协议
   history/                     # 公开整理前的本地提交备份
+  input-audit/                 # 全量资料审核与定点核字原始记录
+  question-packets-v2/          # 按审核原文构建的基础/增补题干包
   work/                        # 临时文件
 ```
 
@@ -97,3 +99,10 @@ python3 scripts/check_artifacts.py --history
 [Git的gitignore文档](https://git-scm.com/docs/gitignore)说明忽略规则不影响已追踪文件。
 历史中的截图需另行处理，不能只靠添加忽略规则。
 历史处理与备份范围见[公开目录整理记录](../reviews/publication-review.md)。
+
+## 全量题干复核后的输入
+
+全部205条的[保真审核](../input-audit/README.md)另列状态和任务类型。
+完整题干私有保存，公开只保留原文范围、字符边界、PDF校正与哈希。
+prepare_case_input.py可用自有OCR重新准备就绪条目，不依赖个人机器路径。
+后文补充条件和首次题干分别生成，旧10题的冻结输入不覆盖。

@@ -48,6 +48,12 @@
     "provenance": [
       "part-1:T01"
     ],
+    "input_audit": {
+      "status": "source_conflict",
+      "evaluation_mode": "generation",
+      "generation_eligible": false,
+      "summary": "原书题干目标与后文解法存在冲突，PDF已确认原印，不能根据答案静默改成防气化。"
+    },
     "answer_status": "located"
   },
   {
@@ -97,6 +103,12 @@
     "provenance": [
       "part-1:T02"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "完整题干可用，后续方案排除及反射镜内容须留在盲试输入之外。"
+    },
     "answer_status": "located"
   },
   {
@@ -176,6 +188,12 @@
       "part-2:T03",
       "part-3:T03"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "完整原题可直接提取，电荷差异及预加磁性物质均不是给定条件。"
+    },
     "answer_status": "located"
   },
   {
@@ -223,6 +241,12 @@
     "provenance": [
       "part-1:T03-V1"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "该变体需带回原树皮木片题的条件，只抽取假设不带电的问句。"
+    },
     "answer_status": "located"
   },
   {
@@ -274,6 +298,12 @@
       ],
       "summary": "PDF核对题干与冰及冻结磨料的解法。A-memory核心判断不变，冻结前候选未写磨料结构的限制仍保留。",
       "report": "../reviews/pdf/ocr-spot-checks.md"
+    },
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原题条件齐全，保留题干原有失败尝试，排除题后矛盾分析与解法。"
     },
     "answer_status": "located"
   },
@@ -331,6 +361,12 @@
       "part-1:T05",
       "part-2:T05"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "完整侦探题干与后文明确任务可用，须排除材料提示及缩时变式。"
+    },
     "answer_status": "located"
   },
   {
@@ -393,6 +429,12 @@
       "part-1:T06",
       "part-3:T06"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "完整题干可用，需隔离后文失败折衷方案与方法回指。"
+    },
     "answer_status": "located"
   },
   {
@@ -463,6 +505,12 @@
       ],
       "summary": "图3确为同侧构型，原图字母为А、Б、В、Г；已知АВ和БВ，照片测АБ求ВГ，OCR的E及照片AB歧义可关闭。原书确写“越深间距越小”，与同侧定长直绳模型的单调方向相反。图示表达共竖直平面意图，但未给出现场保持条件。B类不变。",
       "report": "../reviews/pdf/t07-figures.md"
+    },
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原题及第85页新增限制可组合为文本输入，解答几何图不是题干必需图。"
     },
     "answer_status": "located"
   },
@@ -568,6 +616,12 @@
       "summary": "原书确印“课题8中是预先用易熔垫”，不是OCR错号。按机制该回提对应T12楔子，不计作T08砂轮解法。图4–6本轮未补查。",
       "report": "../reviews/pdf/ocr-spot-checks.md"
     },
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "初始测量题干可用，后文正常加工及不得抽出条件单独保留，物场与题型分析不入包。"
+    },
     "answer_status": "located"
   },
   {
@@ -672,6 +726,12 @@
       "summary": "原书第137页确印“课题5中预先加入荧光粉”，OCR没有错认5；这是原书错引，仍按具体检漏机制归T09。",
       "report": "../reviews/pdf/ocr-spot-checks.md"
     },
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "主题干可用，需连同后文微小液滴条件保留，所有荧光相关回提均属答案。"
+    },
     "answer_status": "located"
   },
   {
@@ -739,6 +799,12 @@
       "part-1:T10",
       "part-3:T10"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "可构造完整文本题干，传感器禁放应按原文强度保留。"
+    },
     "answer_status": "located"
   },
   {
@@ -794,6 +860,12 @@
     "provenance": [
       "part-1:T11"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "运动强度目标和压力不足以判别的条件均可由原文保留，允许置入传感器另列。"
+    },
     "answer_status": "located"
   },
   {
@@ -863,6 +935,12 @@
       ],
       "summary": "原书确以课题8错号回提易熔垫，保留原书错引并按机制归T12，不再把它仅记为待判OCR疑点。",
       "report": "../reviews/pdf/ocr-spot-checks.md"
+    },
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "基础题干保留易于拔出的楔子这一原问，后文机构复杂化分析不作为补充条件。"
     },
     "answer_status": "located"
   },
@@ -940,6 +1018,12 @@
       "part-1:T13",
       "part-2:U2-072"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "初始原题可直接提取，后部磁性过滤器回提全部排除。"
+    },
     "answer_status": "located"
   },
   {
@@ -994,6 +1078,12 @@
       "part-1:T14",
       "part-3:T14"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "应恢复感光纸与底图的结构关系，并保留不遮光和不复杂化条件。"
+    },
     "answer_status": "located"
   },
   {
@@ -1042,6 +1132,12 @@
     "provenance": [
       "part-1:T15"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "题干可由跨页两片段完整恢复，探测方式的排除范围应照原文。"
+    },
     "answer_status": "located"
   },
   {
@@ -1078,6 +1174,12 @@
     "provenance": [
       "part-1:T16"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "given_solution_analysis",
+      "generation_eligible": false,
+      "summary": "原书已给磁控装置，完整文本可用作方案解释，不能用来证明该方案由盲解生成。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -1131,6 +1233,12 @@
       "part-1:T17",
       "part-3:T17"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原题完整，钢球版本和铜球追加问句应分包保留。"
+    },
     "answer_status": "located"
   },
   {
@@ -1165,6 +1273,12 @@
     "provenance": [
       "part-1:T17-V1"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "铜球变体依赖同题前文，需同时带入原运输结构和防护垫失效。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -1214,6 +1328,12 @@
       "part-1:T18",
       "part-3:T18"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "可提取无答案完整题干，微米数量级不可简化掉。"
+    },
     "answer_status": "located"
   },
   {
@@ -1255,6 +1375,12 @@
     "provenance": [
       "part-1:T19"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "prediction",
+      "generation_eligible": false,
+      "summary": "原题要求预测后继发明，给定装置及强化搅拌目的均应保留。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -1315,6 +1441,12 @@
       "part-1:T20",
       "part-3:T20"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "初始题干与镊子难排列的后文条件可分开提取。"
+    },
     "answer_status": "located"
   },
   {
@@ -1365,6 +1497,12 @@
       "part-1:T21",
       "part-3:T21"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原题无需图即可提取，答案里的冰层与部位描述不得前置。"
+    },
     "answer_status": "located"
   },
   {
@@ -1400,6 +1538,12 @@
     "provenance": [
       "part-1:T22"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "埋入钢筋的目标、禁止破坏和麻烦的检测路线均完整，可用原文输入。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -1450,6 +1594,12 @@
     "provenance": [
       "part-1:T23"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "需补足预应力制作顺序与既有方法的失败背景，题解模型不作为原题条件。"
+    },
     "answer_status": "located"
   },
   {
@@ -1574,6 +1724,12 @@
       "part-2:T24",
       "part-3:T24"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "附录完整题干可用，冰磨砂轮确为原印，保留其被排除的条件。"
+    },
     "answer_status": "located"
   },
   {
@@ -1718,6 +1874,12 @@
       "part-1:T25",
       "part-3:T25"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "附录提供完整独立题干，可直接摘取，后文理想结果及电离机制均排除。"
+    },
     "answer_status": "located"
   },
   {
@@ -1772,6 +1934,12 @@
       "summary": "原书物质名确印“阿利芙干性油”，温度确印25°C、350°C、500°C、300°C及700～1100°C。相关逻辑疑点属于原书文字，不能擅自补0或改译物质名。",
       "report": "../reviews/pdf/ocr-spot-checks.md"
     },
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "可提取原文题干，但必须保留原词和已确认的25°C阈值及其原书疑点。"
+    },
     "answer_status": "located"
   },
   {
@@ -1814,6 +1982,12 @@
       ],
       "summary": "原书确印“反光镜和光谱射线”。本轮仅确认字词，不据术语不自然自行改译或补充物理原理。",
       "report": "../reviews/pdf/ocr-spot-checks.md"
+    },
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "题干文字完整且关键禁用术语已有核图记录，另列本节练习要求。"
     },
     "answer_status": "not_located"
   },
@@ -1888,6 +2062,12 @@
       "part-2:T28",
       "part-3:T28"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "初始题干完整，无须把标准解法回提加入输入。"
+    },
     "answer_status": "located"
   },
   {
@@ -1959,6 +2139,12 @@
       "part-1:T29",
       "part-3:T29"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "完整效率题干可用，原印每卷52张，保留卷字及原数值，不按算术推测改写。"
+    },
     "answer_status": "located"
   },
   {
@@ -2005,6 +2191,12 @@
     "provenance": [
       "part-3:T29-V1"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "此条是原题29的转换设想，不能从解题方向倒造完整变式。"
+    },
     "answer_status": "located"
   },
   {
@@ -2050,6 +2242,12 @@
     "provenance": [
       "part-3:T29-V2"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "此条是原题29的转换设想，不能从解题方向倒造完整变式。"
+    },
     "answer_status": "located"
   },
   {
@@ -2098,6 +2296,12 @@
       "part-1:T30",
       "part-2:T30"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "温室题干全文可用，15°C至25°C、30°及一日几变均已核实。"
+    },
     "answer_status": "located"
   },
   {
@@ -2171,6 +2375,12 @@
       "summary": "原题确有坚固气密容器、高温和高压。Page79原书实际为“课题31”，OCR误成“课题3的”；Page106原书则确印“课题29的容器”，这是原书错引。同处喷雾器题号原书为53，OCR误成3。空心合金杯解法及A-memory判断不变。",
       "report": "../reviews/pdf/ocr-spot-checks.md"
     },
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "需保留气密高温高压，并将后文明确的持续作用条件独立列出。"
+    },
     "answer_status": "located"
   },
   {
@@ -2206,6 +2416,12 @@
     "provenance": [
       "part-1:T32"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "技术题干完整且不依赖图示，共用练习要求应单列保留。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -2262,6 +2478,12 @@
     "provenance": [
       "part-2:T33"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "完整编号题干与后续快艇方案可明确分开。"
+    },
     "answer_status": "located"
   },
   {
@@ -2343,6 +2565,12 @@
       "part-2:T34",
       "part-3:T34"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "喷漆全文可用，补回低速优势并核实不易风干，后续解法回指不并入题干。"
+    },
     "answer_status": "located"
   },
   {
@@ -2419,6 +2647,12 @@
       "part-2:T35",
       "part-3:T35"
     ],
+    "input_audit": {
+      "status": "source_conflict",
+      "evaluation_mode": "generation",
+      "generation_eligible": false,
+      "summary": "时间语境的单位原印为mL／s形，其科学含义未明，不能擅改成微秒。"
+    },
     "answer_status": "located"
   },
   {
@@ -2464,6 +2698,12 @@
       "part-2:T36",
       "part-3:T36"
     ],
+    "input_audit": {
+      "status": "source_conflict",
+      "evaluation_mode": "generation",
+      "generation_eligible": false,
+      "summary": "原印同时写铁矿浆与铁水中的悬浮物，介质解释有疑义，不能默认为水或改字。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -2520,6 +2760,12 @@
       "part-2:T37",
       "part-3:T37"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原印25瓶、5排、每排6座及5焊嘴已核，保留隔板两种失败尝试。"
+    },
     "answer_status": "located"
   },
   {
@@ -2552,6 +2798,12 @@
     "provenance": [
       "part-2:T38"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "完整原题可以取得，斜面、纸带、滴量器位置与禁止提高滴频的理由均应保留。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -2584,6 +2836,12 @@
     "provenance": [
       "part-2:T39"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "化学镀题干可用，温度越高等漏字已核，原书金属液一词保持原样。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -2618,6 +2876,12 @@
     "provenance": [
       "part-2:T40"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "prediction",
+      "generation_eligible": false,
+      "summary": "可完整截取引用型题干，原题自带“好肉沉底”原理应保留。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -2666,6 +2930,12 @@
     "provenance": [
       "part-2:T41"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原题可完整分离，运输卸货返回的时序应保留，后文偷窃方法不得加入。"
+    },
     "answer_status": "located"
   },
   {
@@ -2700,6 +2970,12 @@
     "provenance": [
       "part-2:T42"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "given_solution_analysis",
+      "generation_eligible": false,
+      "summary": "已提取无答案原文并分离原题背景或提示，旧摘要的具体差异已逐项记录。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -2732,6 +3008,12 @@
     "provenance": [
       "part-2:T43"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "已提取无答案原文并分离原题背景或提示，旧摘要的具体差异已逐项记录。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -2764,6 +3046,12 @@
     "provenance": [
       "part-2:T44"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "已提取无答案原文并分离原题背景或提示，旧摘要的具体差异已逐项记录。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -2799,6 +3087,12 @@
     "provenance": [
       "part-2:T45"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "prediction",
+      "generation_eligible": false,
+      "summary": "完整给定方案及预测任务可用，120°及倍数已核，不计为未知方案的盲解。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -2841,6 +3135,12 @@
     "provenance": [
       "part-2:T46"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "已提取无答案原文并分离原题背景或提示，旧摘要的具体差异已逐项记录。"
+    },
     "answer_status": "located"
   },
   {
@@ -2882,6 +3182,12 @@
     "provenance": [
       "part-2:T47"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "已提取无答案原文并分离原题背景或提示，旧摘要的具体差异已逐项记录。"
+    },
     "answer_status": "located"
   },
   {
@@ -2942,6 +3248,12 @@
       "part-2:T48",
       "part-3:T48"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "已提取无答案原文并分离原题背景或提示，旧摘要的具体差异已逐项记录。"
+    },
     "answer_status": "located"
   },
   {
@@ -2992,6 +3304,12 @@
     "provenance": [
       "part-2:T49"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "完整原题可用，恢复对全电压绝缘要求，PDF确认高度10～20m。"
+    },
     "answer_status": "located"
   },
   {
@@ -3044,6 +3362,12 @@
       "part-2:T50",
       "part-3:T50"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "恢复分选自动化和现有水槽，密度1g/cm³及0.99g/cm³已核，禁用条件保持。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3078,6 +3402,12 @@
     "provenance": [
       "part-2:T51"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原文敞车与称量条件可用，传感器不好/更不好不得强化为禁止。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3128,6 +3458,12 @@
       "part-2:T52",
       "part-3:T52"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "已提取无答案原文并分离原题背景或提示，旧摘要的具体差异已逐项记录。"
+    },
     "answer_status": "located"
   },
   {
@@ -3177,6 +3513,12 @@
       "part-2:T53",
       "part-3:T53"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "已提取无答案原文并分离原题背景或提示，旧摘要的具体差异已逐项记录。"
+    },
     "answer_status": "located"
   },
   {
@@ -3233,6 +3575,12 @@
       "part-2:T54",
       "part-3:T54"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "已提取无答案原文并分离原题背景或提示，旧摘要的具体差异已逐项记录。"
+    },
     "answer_status": "located"
   },
   {
@@ -3272,6 +3620,12 @@
     "provenance": [
       "part-2:T55"
     ],
+    "input_audit": {
+      "status": "source_conflict",
+      "evaluation_mode": "generation",
+      "generation_eligible": false,
+      "summary": "原题转速目标清楚，但附带类比把脚上的力写为400r/min，量名与单位冲突须保留并澄清。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3324,6 +3678,12 @@
     "provenance": [
       "part-3:T56"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "水果下落题干可用，高度已核为0.5m，不加入后文取小球解法。"
+    },
     "answer_status": "located"
   },
   {
@@ -3367,6 +3727,12 @@
     "provenance": [
       "part-3:T57"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "prediction",
+      "generation_eligible": false,
+      "summary": "原题完整，补回浮标连接关系并单列课题50提示即可。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3402,6 +3768,12 @@
     "provenance": [
       "part-3:T58"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原题完整，可用全文并补回气管与聚合物表面关系。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3437,6 +3809,12 @@
     "provenance": [
       "part-3:T59"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "可提取完整题干和原题自带模式提示，盲试时应区分题目与提示。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3490,6 +3868,12 @@
     "provenance": [
       "part-3:T61"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "可使用独立原题全文，真溶液括注属于原题信息而非答案。"
+    },
     "answer_status": "located"
   },
   {
@@ -3525,6 +3909,12 @@
     "provenance": [
       "part-3:T62"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "独立题干完整，须一并保留练习节规定的先说明依据后作答的要求。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3562,6 +3952,12 @@
     "provenance": [
       "part-3:T63"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "prediction",
+      "generation_eligible": false,
+      "summary": "完整题干可用，原文已有托姆斯效应及第七章提示，应明确保留。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3603,6 +3999,12 @@
     "provenance": [
       "part-3:T64"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "独立题干和跨页验收条件完整可取，方法提示应保留为hint。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3638,6 +4040,12 @@
     "provenance": [
       "part-3:T65"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原题可用，氧化铍及2000°C已核，原书溶点/溶化字样保持。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3673,6 +4081,12 @@
     "provenance": [
       "part-3:T66"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原题可用，荧光变化已核，周期地停开发动机确为原书用词。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3714,6 +4128,12 @@
     "provenance": [
       "part-3:T67"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "侦探题全文可用，别墅里15分钟与谁也不能放毒药已核，不改成别室。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3749,6 +4169,12 @@
     "provenance": [
       "part-3:T68"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "可直接摘取原题，保留“表面”措辞与第二章提示，不另行定义观察目标。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3784,6 +4210,12 @@
     "provenance": [
       "part-3:T69"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "题干完整，须保留毛细管力的有益背景及第四章提示。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3819,6 +4251,12 @@
     "provenance": [
       "part-3:T70"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "独立原题完整可提取，具体物质、添加条件和标准解法要求均有原文支持。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3850,6 +4288,12 @@
     "provenance": [
       "part-1:U1-001"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "可使用原文列举的完整短问，不能把未给出的技术条件补成题干。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3881,6 +4325,12 @@
     "provenance": [
       "part-1:U1-002"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "可使用原文列举的完整短问，不能把未给出的技术条件补成题干。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3912,6 +4362,12 @@
     "provenance": [
       "part-1:U1-003"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "可使用原文列举的完整短问，不能把未给出的技术条件补成题干。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3943,6 +4399,12 @@
     "provenance": [
       "part-1:U1-004"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "可使用原文列举的完整短问，不能把未给出的技术条件补成题干。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -3975,6 +4437,12 @@
     "provenance": [
       "part-1:U1-005"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原文只有联接更牢固这一开放问题，可原样输入。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -4016,6 +4484,12 @@
     "provenance": [
       "part-1:U1-006"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "可保留类比原文，但没有独立待解的技术问题。"
+    },
     "answer_status": "located"
   },
   {
@@ -4057,6 +4531,12 @@
     "provenance": [
       "part-1:U1-007"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "无答案的对象片段可保留，不能据此恢复完整改进任务。"
+    },
     "answer_status": "located"
   },
   {
@@ -4098,6 +4578,12 @@
     "provenance": [
       "part-1:U1-008"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可抽取原文明确点名的开放课题，但没有车型、温度、起动时限等条件。"
+    },
     "answer_status": "located"
   },
   {
@@ -4139,6 +4625,12 @@
     "provenance": [
       "part-1:U1-009"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原文引号中的完整短问可直接作为无额外限制版本。"
+    },
     "answer_status": "located"
   },
   {
@@ -4179,6 +4671,12 @@
     "provenance": [
       "part-1:U1-010"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "只可抽取结构与防磨目的，完整专利引文与解法交织，没有可确认的独立原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -4220,6 +4718,12 @@
     "provenance": [
       "part-1:U1-011"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "旧法片段可保存，持续监测任务不是原文独立题干。"
+    },
     "answer_status": "located"
   },
   {
@@ -4269,6 +4773,12 @@
     "provenance": [
       "part-1:U1-012"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "只有已完成发明及其意义介绍，无法抽出完整而不泄方案的原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -4310,6 +4820,12 @@
     "provenance": [
       "part-1:U1-013"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "仅有历史课题名称及求解者故事，不能从后文方案反造原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -4351,6 +4867,12 @@
     "provenance": [
       "part-1:U1-014"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可保留专利目的片段，原始问题与具体约束未另行出现。"
+    },
     "answer_status": "located"
   },
   {
@@ -4412,6 +4934,12 @@
       "part-1:U1-015",
       "part-2:U2-058"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "两处均为已完成方案，无可确认的完整原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -4454,6 +4982,12 @@
     "provenance": [
       "part-1:U1-016"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "仅能保留检查目的，原文专利方案与作者矛盾评述不能拼成原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -4496,6 +5030,12 @@
     "provenance": [
       "part-1:U1-017"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可保留专利目的，独立问题和允许条件不足，旧标题有直接答案污染。"
+    },
     "answer_status": "located"
   },
   {
@@ -4537,6 +5077,12 @@
     "provenance": [
       "part-1:U1-018"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原场景可提取，千分之一秒与照明电源条件已核，原书未单独提出此发明题。"
+    },
     "answer_status": "located"
   },
   {
@@ -4577,6 +5123,12 @@
     "provenance": [
       "part-1:U1-019"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文问题情境可完整提取，题名与后续规律评论须从盲试输入排除。"
+    },
     "answer_status": "located"
   },
   {
@@ -4617,6 +5169,12 @@
     "provenance": [
       "part-1:U1-020"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "只有假想方案的物理知识例示，不能恢复其所称发明课题。"
+    },
     "answer_status": "located"
   },
   {
@@ -4658,6 +5216,12 @@
     "provenance": [
       "part-1:U1-021"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "可作为带概念教学语境的文本提问，不能标成正式实验或独立工程发明题。"
+    },
     "answer_status": "located"
   },
   {
@@ -4699,6 +5263,12 @@
     "provenance": [
       "part-1:U1-022"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "仅能确认提高破冰速度的示例片段，无法恢复一个未含解题分析的完整独立任务。"
+    },
     "answer_status": "located"
   },
   {
@@ -4744,6 +5314,12 @@
     "provenance": [
       "part-1:U1-023"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "可从轶事中抽取完整测温任务，停在卡丘金给出方案之前。"
+    },
     "answer_status": "located"
   },
   {
@@ -4787,6 +5363,12 @@
     "provenance": [
       "part-1:U1-024"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "仅为已含操作的解题类比，不宜作为独立盲试题。"
+    },
     "answer_status": "located"
   },
   {
@@ -4835,6 +5417,12 @@
     "provenance": [
       "part-1:U1-025"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "只能保存分鱼轶事的任务回指，没有足够条件重建独立问题。"
+    },
     "answer_status": "located"
   },
   {
@@ -4876,6 +5464,12 @@
     "provenance": [
       "part-2:U2-001"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "historical_reconstruction",
+      "generation_eligible": false,
+      "summary": "原发现问题文字可用，苯分子式已核为C₆H₆，属于历史重构而非新设计。"
+    },
     "answer_status": "located"
   },
   {
@@ -4915,6 +5509,12 @@
     "provenance": [
       "part-2:U2-002"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "historical_reconstruction",
+      "generation_eligible": false,
+      "summary": "原叙述含可分离的完整目标与初始条件，管子、小门和精灵均为答案。"
+    },
     "answer_status": "located"
   },
   {
@@ -4960,6 +5560,12 @@
     "provenance": [
       "part-2:U2-003"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原课堂任务可独立截取，后文认同与小人建模属于解法。"
+    },
     "answer_status": "located"
   },
   {
@@ -4999,6 +5605,12 @@
     "provenance": [
       "part-2:U2-004"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "historical_reconstruction",
+      "generation_eligible": false,
+      "summary": "只能提取既有仪器背景，原书未给出无答案的独立改进任务。"
+    },
     "answer_status": "located"
   },
   {
@@ -5058,6 +5670,12 @@
     "provenance": [
       "part-2:U2-005"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "可截取原有生命意义问题并用原文补足“生命”指人，层次图式是讨论过程。"
+    },
     "answer_status": "located"
   },
   {
@@ -5104,6 +5722,12 @@
     "provenance": [
       "part-2:U2-006"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原文问题完整可分离，关于超文明层次的后续推测不能加入题干。"
+    },
     "answer_status": "located"
   },
   {
@@ -5165,6 +5789,12 @@
     "provenance": [
       "part-2:U2-007"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "可取得完整原题，实验中失败方案、实验者提示及后文规则均为解题过程。"
+    },
     "answer_status": "located"
   },
   {
@@ -5210,6 +5840,12 @@
     "provenance": [
       "part-2:U2-008"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可保留“必要时长些或短些”的功能片段，但不能反造原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -5249,6 +5885,12 @@
     "provenance": [
       "part-2:U2-009"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文明确交代已有供电系统、停泊需求和噪声振动缺点，可在建议方案前截断。"
+    },
     "answer_status": "located"
   },
   {
@@ -5288,6 +5930,12 @@
     "provenance": [
       "part-2:U2-010"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "解法前已有完整除尘系统与起雾冲突，需保留原布局。"
+    },
     "answer_status": "located"
   },
   {
@@ -5326,6 +5974,12 @@
     "provenance": [
       "part-2:U2-011"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "去掉高强度侧缘方案后不剩完整原题，不据用途反造任务。"
+    },
     "answer_status": "located"
   },
   {
@@ -5364,6 +6018,12 @@
     "provenance": [
       "part-2:U2-012"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "只有成品与操作方式的介绍，没有独立待解问题。"
+    },
     "answer_status": "located"
   },
   {
@@ -5402,6 +6062,12 @@
     "provenance": [
       "part-2:U2-013"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "全部例句都在描述方案，题干片段留空。"
+    },
     "answer_status": "located"
   },
   {
@@ -5441,6 +6107,12 @@
     "provenance": [
       "part-2:U2-014"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可截取既有两半波片结构与改进目标，需排除空锥体套合的后半句。"
+    },
     "answer_status": "located"
   },
   {
@@ -5479,6 +6151,12 @@
     "provenance": [
       "part-2:U2-015"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "只有方案回指与用途片段，不能构造完整原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -5519,6 +6197,12 @@
     "provenance": [
       "part-2:U2-016"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原书仅给一项方案实例，无完整问题。"
+    },
     "answer_status": "located"
   },
   {
@@ -5570,6 +6254,12 @@
     "provenance": [
       "part-2:U2-017"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "仅从专利前序分离原系统和调速目标，后文离心片质量分析不进入重构任务包。"
+    },
     "answer_status": "located"
   },
   {
@@ -5608,6 +6298,12 @@
     "provenance": [
       "part-2:U2-018"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文既有车削方式与防振目标可在预加载方案前截断。"
+    },
     "answer_status": "located"
   },
   {
@@ -5649,6 +6345,12 @@
     "provenance": [
       "part-2:U2-019"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可分离的专利任务信息已核为加工光纤，需按重构案例使用。"
+    },
     "answer_status": "located"
   },
   {
@@ -5688,6 +6390,12 @@
     "provenance": [
       "part-2:U2-020"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "无答案条件下只剩零散结果语，不能充作原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -5727,6 +6435,12 @@
     "provenance": [
       "part-2:U2-021"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "只有装置效果和方案介绍，不能把效果改写成原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -5779,6 +6493,12 @@
     "provenance": [
       "part-2:U2-022"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可抽出既有内置铁磁材料结构、用途和节电增产目标，外部闭式磁路为方案。"
+    },
     "answer_status": "located"
   },
   {
@@ -5817,6 +6537,12 @@
     "provenance": [
       "part-2:U2-023"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "去掉滚动球形电极后不构成完整原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -5856,6 +6582,12 @@
     "provenance": [
       "part-2:U2-024"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可分离带状焊条自动电焊系统及调节目标，母线弯曲为答案。"
+    },
     "answer_status": "located"
   },
   {
@@ -5894,6 +6626,12 @@
     "provenance": [
       "part-2:U2-025"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可抽取圆形水上停泊场的越冬圆木存放目标，捆形和竖放不加入。"
+    },
     "answer_status": "located"
   },
   {
@@ -5933,6 +6671,12 @@
     "provenance": [
       "part-2:U2-026"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可分离任务信息已核为无锯末断木及降低工具进入力，需按重构案例使用。"
+    },
     "answer_status": "located"
   },
   {
@@ -5971,6 +6715,12 @@
     "provenance": [
       "part-2:U2-027"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可提取原控制方法和精度目标，高频脉冲及间隔测量是后半句方案。"
+    },
     "answer_status": "located"
   },
   {
@@ -6009,6 +6759,12 @@
     "provenance": [
       "part-2:U2-028"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原加工任务与效率目标完整可截取，应保持例示关系。"
+    },
     "answer_status": "located"
   },
   {
@@ -6048,6 +6804,12 @@
     "provenance": [
       "part-2:U2-029"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可分离任务信息已核为胶合板及保持木材的本性，需按重构案例使用。"
+    },
     "answer_status": "located"
   },
   {
@@ -6087,6 +6849,12 @@
     "provenance": [
       "part-2:U2-030"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原有材料状态和恢复目标可在超低温措施前截断。"
+    },
     "answer_status": "located"
   },
   {
@@ -6126,6 +6894,12 @@
     "provenance": [
       "part-2:U2-031"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "须保留既有按温度加料的控制方法，废气硫量信号不可当题干条件。"
+    },
     "answer_status": "located"
   },
   {
@@ -6167,6 +6941,12 @@
     "provenance": [
       "part-2:U2-032"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "校准任务原文已核，保留动态张力和静态装入，需按重构案例使用。"
+    },
     "answer_status": "located"
   },
   {
@@ -6205,6 +6985,12 @@
     "provenance": [
       "part-2:U2-033"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "只有既有专用供条装置和新方案，没有独立待解目标。"
+    },
     "answer_status": "located"
   },
   {
@@ -6244,6 +7030,12 @@
     "provenance": [
       "part-2:U2-034"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "只有教具用途可摘出，既有教具形式与复制制作方式均属已给方案。"
+    },
     "answer_status": "located"
   },
   {
@@ -6282,6 +7074,12 @@
     "provenance": [
       "part-2:U2-035"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "没有独立问题，不能把已给成品和技法原则转写为原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -6321,6 +7119,12 @@
     "provenance": [
       "part-2:U2-036"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原有热接触涂层方法与强度密实性目标可分离，电磁场是方案。"
+    },
     "answer_status": "located"
   },
   {
@@ -6359,6 +7163,12 @@
     "provenance": [
       "part-2:U2-037"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可截取连接用途及一般金属连接背景，但无独立改进目标和限制。"
+    },
     "answer_status": "located"
   },
   {
@@ -6398,6 +7208,12 @@
     "provenance": [
       "part-2:U2-038"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6439,6 +7255,12 @@
     "provenance": [
       "part-2:U2-039"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6478,6 +7300,12 @@
     "provenance": [
       "part-2:U2-040"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6523,6 +7351,12 @@
     "provenance": [
       "part-2:U2-041"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6561,6 +7395,12 @@
     "provenance": [
       "part-2:U2-042"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6600,6 +7440,12 @@
     "provenance": [
       "part-2:U2-043"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6650,6 +7496,12 @@
     "provenance": [
       "part-2:U2-044"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6689,6 +7541,12 @@
     "provenance": [
       "part-2:U2-045"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6728,6 +7586,12 @@
     "provenance": [
       "part-2:U2-046"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6767,6 +7631,12 @@
     "provenance": [
       "part-2:U2-047"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6806,6 +7676,12 @@
     "provenance": [
       "part-2:U2-048"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6845,6 +7721,12 @@
     "provenance": [
       "part-2:U2-049"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6884,6 +7766,12 @@
     "provenance": [
       "part-2:U2-050"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6923,6 +7811,12 @@
     "provenance": [
       "part-2:U2-051"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -6974,6 +7868,12 @@
     "provenance": [
       "part-2:U2-052"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7013,6 +7913,12 @@
     "provenance": [
       "part-2:U2-053"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7052,6 +7958,12 @@
     "provenance": [
       "part-2:U2-054"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7092,6 +8004,12 @@
     "provenance": [
       "part-2:U2-055"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7131,6 +8049,12 @@
     "provenance": [
       "part-2:U2-056"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7170,6 +8094,12 @@
     "provenance": [
       "part-2:U2-057"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7209,6 +8139,12 @@
     "provenance": [
       "part-2:U2-059"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "已提取无答案原文并分离原题背景或提示，旧摘要的具体差异已逐项记录。"
+    },
     "answer_status": "located"
   },
   {
@@ -7247,6 +8183,12 @@
     "provenance": [
       "part-2:U2-060"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7287,6 +8229,12 @@
     "provenance": [
       "part-2:U2-061"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7326,6 +8274,12 @@
     "provenance": [
       "part-2:U2-062"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7366,6 +8320,12 @@
     "provenance": [
       "part-2:U2-063"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7406,6 +8366,12 @@
     "provenance": [
       "part-2:U2-064"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7445,6 +8411,12 @@
     "provenance": [
       "part-2:U2-065"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7486,6 +8458,12 @@
     "provenance": [
       "part-2:U2-066"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "已提取无答案原文并分离原题背景或提示，旧摘要的具体差异已逐项记录。"
+    },
     "answer_status": "located"
   },
   {
@@ -7525,6 +8503,12 @@
     "provenance": [
       "part-2:U2-067"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7563,6 +8547,12 @@
     "provenance": [
       "part-2:U2-068"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7602,6 +8592,12 @@
     "provenance": [
       "part-2:U2-069"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7640,6 +8636,12 @@
     "provenance": [
       "part-2:U2-070"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7692,6 +8694,12 @@
     "provenance": [
       "part-2:U2-071"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原文为解法或专利实例，旧摘要不足以充作独立原题，已保留可确认的无答案片段。"
+    },
     "answer_status": "located"
   },
   {
@@ -7735,6 +8743,12 @@
     "provenance": [
       "part-3:U3-001"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可保存水泥窑矛盾背景，但未找到独立完整问题。"
+    },
     "answer_status": "located"
   },
   {
@@ -7797,6 +8811,12 @@
     "provenance": [
       "part-3:U3-002"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "原竞赛条件完整，联合防热呼吸的标题及末问应排除。"
+    },
     "answer_status": "located"
   },
   {
@@ -7839,6 +8859,12 @@
     "provenance": [
       "part-3:U3-003"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "只有历史趋势及解释，不能把追加问句称为原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -7881,6 +8907,12 @@
     "provenance": [
       "part-3:U3-004"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "电冰箱属于理论预测例证，没有完整独立题干。"
+    },
     "answer_status": "located"
   },
   {
@@ -7930,6 +8962,12 @@
     "provenance": [
       "part-3:U3-005"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "prediction",
+      "generation_eligible": false,
+      "summary": "可按初始预测任务、原有提示和后文重述分片提供原文。"
+    },
     "answer_status": "located"
   },
   {
@@ -7972,6 +9010,12 @@
     "provenance": [
       "part-3:U3-006"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "原书只有规律反例，摘要将结论改为提问。"
+    },
     "answer_status": "located"
   },
   {
@@ -8004,6 +9048,12 @@
     "provenance": [
       "part-3:U3-007"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "制动目标、对象和现状明确，可作简短原文任务。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -8059,6 +9109,12 @@
     "provenance": [
       "part-3:U3-008"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "有明文一般性减摩任务，可保留短原文并排除材料答案。"
+    },
     "answer_status": "located"
   },
   {
@@ -8101,6 +9157,12 @@
     "provenance": [
       "part-3:U3-009"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可确认测温目的，未找到完整独立原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -8143,6 +9205,12 @@
     "provenance": [
       "part-3:U3-010"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "只有薄板检验专利示例，目的片段不足以充当完整题干。"
+    },
     "answer_status": "located"
   },
   {
@@ -8183,6 +9251,12 @@
     "provenance": [
       "part-3:U3-011"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "墨水只有方案介绍，旧摘要是由方案抽象的目的。"
+    },
     "answer_status": "located"
   },
   {
@@ -8223,6 +9297,12 @@
     "provenance": [
       "part-3:U3-012"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "催化剂只有专利方案，无法提取完整独立题干。"
+    },
     "answer_status": "located"
   },
   {
@@ -8277,6 +9357,12 @@
     "provenance": [
       "part-3:U3-013"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "液体塞子只存在方案叙述，不反造独立问题。"
+    },
     "answer_status": "located"
   },
   {
@@ -8319,6 +9405,12 @@
     "provenance": [
       "part-3:U3-014"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "没有完整题干，装置名称另有待核字。"
+    },
     "answer_status": "located"
   },
   {
@@ -8362,6 +9454,12 @@
     "provenance": [
       "part-3:U3-015"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "只有标准及对应专利，不能拼成完整薄壁管原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -8404,6 +9502,12 @@
     "provenance": [
       "part-3:U3-016"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可保存称重目的及旧法，仍没有独立完整问题。"
+    },
     "answer_status": "located"
   },
   {
@@ -8447,6 +9551,12 @@
     "provenance": [
       "part-3:U3-017"
     ],
+    "input_audit": {
+      "status": "needs_figure",
+      "evaluation_mode": "generation",
+      "generation_eligible": false,
+      "summary": "有独立新仪表设计要求，需核图16(a)旧结构。"
+    },
     "answer_status": "located"
   },
   {
@@ -8507,6 +9617,12 @@
     "provenance": [
       "part-3:U3-018"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "磁过滤器仅有结构与改进实例，没有独立题干，核图仅用于资料保真。"
+    },
     "answer_status": "located"
   },
   {
@@ -8549,6 +9665,12 @@
     "provenance": [
       "part-3:U3-019"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "只能抽出无拉模和固定直径目的，没有完整原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -8592,6 +9714,12 @@
     "provenance": [
       "part-3:U3-020"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "油中颗粒只有专利应用，没有完整独立问题。"
+    },
     "answer_status": "located"
   },
   {
@@ -8634,6 +9762,12 @@
     "provenance": [
       "part-3:U3-021"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可以保存失败设想背景，但没有独立磁研磨原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -8676,6 +9810,12 @@
     "provenance": [
       "part-3:U3-022"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可提取均匀给粉目的，原书没有完整独立问题。"
+    },
     "answer_status": "located"
   },
   {
@@ -8718,6 +9858,12 @@
     "provenance": [
       "part-3:U3-023"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "叙事实例中有清晰的提问边界，可以截取到“怎么办”并排除随后启发故事。"
+    },
     "answer_status": "located"
   },
   {
@@ -8768,6 +9914,12 @@
     "provenance": [
       "part-3:U3-024"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可截取矛盾要求与失败尝试，鸡尾酒会叙述起属于方案启发，应排除。"
+    },
     "answer_status": "located"
   },
   {
@@ -8808,6 +9960,12 @@
     "provenance": [
       "part-3:U3-025"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "本例虽与解法交织，前部目标和瓶颈可独立摘出，缝隙最小化只是既有尝试方向。"
+    },
     "answer_status": "located"
   },
   {
@@ -8857,6 +10015,12 @@
     "provenance": [
       "part-3:U3-026"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "尾翼原叙述可分离，安定面与缓冲圈原字已核，需按重构案例使用。"
+    },
     "answer_status": "located"
   },
   {
@@ -8909,6 +10073,12 @@
     "provenance": [
       "part-3:U3-027"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "可提取手工分选问题，后文失败机器单列为后续条件，相关类比解法排除。"
+    },
     "answer_status": "located"
   },
   {
@@ -8951,6 +10121,12 @@
     "provenance": [
       "part-3:U3-028"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "原书用作成功方案类比，但目标与限制可在方法开始前独立截出，标题须中性化。"
+    },
     "answer_status": "located"
   },
   {
@@ -8993,6 +10169,12 @@
     "provenance": [
       "part-3:U3-029"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "只有检测方法及泛指目标，没有可直接用于独立盲试的完整原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -9039,6 +10221,12 @@
     "provenance": [
       "part-3:U3-030"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "historical_reconstruction",
+      "generation_eligible": false,
+      "summary": "可摘出完整的待解释反常现象，后文物理矛盾归纳及分子机制均排除。"
+    },
     "answer_status": "located"
   },
   {
@@ -9089,6 +10277,12 @@
     "provenance": [
       "part-3:U3-031"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "historical_reconstruction",
+      "generation_eligible": false,
+      "summary": "这是一段发现过程叙事，旧摘要自行构造了一个研究目标问题，不能当作原题。"
+    },
     "answer_status": "located"
   },
   {
@@ -9130,6 +10324,12 @@
     "provenance": [
       "part-3:U3-032"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "historical_reconstruction",
+      "generation_eligible": false,
+      "summary": "只有方法应用及结论，不存在可去除答案后仍完整的独立题干。"
+    },
     "answer_status": "located"
   },
   {
@@ -9176,6 +10376,12 @@
     "provenance": [
       "part-3:U3-033"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "historical_reconstruction",
+      "generation_eligible": false,
+      "summary": "DNA历史问题文字及15000r/min已核，原书氨基酸一词不作现代科学订正。"
+    },
     "answer_status": "located"
   },
   {
@@ -9227,6 +10433,12 @@
     "provenance": [
       "part-3:U3-034"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "绕线叙述的导线、绕线架、线轴稍小和虚绕句已核，需按任务重构使用。"
+    },
     "answer_status": "located"
   },
   {
@@ -9260,6 +10472,12 @@
     "provenance": [
       "part-3:U3-035"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "generation",
+      "generation_eligible": true,
+      "summary": "现象和建立模型的任务完整可摘取，非核痕迹及目击者证词应按原文保留。"
+    },
     "answer_status": "not_located"
   },
   {
@@ -9302,6 +10520,12 @@
     "provenance": [
       "part-3:U3-036"
     ],
+    "input_audit": {
+      "status": "ready_text",
+      "evaluation_mode": "task_reconstruction",
+      "generation_eligible": false,
+      "summary": "虽是模式转换示例，原引号中的高度与重量目标完整可独立截取，转换后的表述排除。"
+    },
     "answer_status": "located"
   },
   {
@@ -9359,6 +10583,12 @@
     "provenance": [
       "part-3:U3-037"
     ],
+    "input_audit": {
+      "status": "insufficient_statement",
+      "evaluation_mode": "not_a_task",
+      "generation_eligible": false,
+      "summary": "只有局部回引和解法，不能把摘要当作已找到的原题。"
+    },
     "answer_status": "located"
   }
 ]
