@@ -7,6 +7,7 @@ import json
 import re
 import subprocess
 from versioned_inputs import historical_input
+from question_packets import render_packet, fingerprint
 
 ROOT = Path(__file__).resolve().parents[1]
 PRIVATE = ROOT / '_private'
@@ -190,6 +191,49 @@ for observation in json.loads((ROOT / 'learnings/observations.json').read_text()
     for evidence in observation['evidence']:
         available(ROOT / evidence, 'learning evidence')
 
+input_audit_count = 0
+audit_path = ROOT / 'input-audit/cases.json'
+if audit_path.exists():
+    audited = json.loads(audit_path.read_text())
+    input_audit_count = len(audited)
+    if sorted(c['id'] for c in audited) != sorted(ids):
+        errors.append('Input audit coverage differs from inventory')
+    for case in audited:
+        eligible = case['status'] == 'ready_text' and case['evaluation_mode'] == 'generation'
+        if eligible != case['generation_eligible']:
+            errors.append(f'Input audit eligibility mismatch: {case["id"]}')
+        readable = True
+        for segment in case['segments']:
+            path = ROOT / segment['file']
+            if not available(path, 'audited question source'):
+                readable = False
+                continue
+            lines = source_cache.setdefault(path, path.read_text().splitlines())
+            start, end = segment['line_start'], segment['line_end']
+            if not 1 <= start <= end <= len(lines):
+                errors.append(f'Invalid audited source lines: {case["id"]}')
+                readable = False
+                continue
+            raw = '\n'.join(lines[start - 1:end])
+            if not 0 <= segment['char_start'] < segment['char_end'] <= len(raw):
+                errors.append(f'Invalid audited source characters: {case["id"]}')
+                readable = False
+        for key, extended in [('packet', False), ('supplemental_packet', True)]:
+            if case.get(key):
+                verify_hash(case[key], 'Audited question packet')
+                if readable:
+                    try:
+                        digest = fingerprint(render_packet(case, extended))
+                        if digest != case[key]['sha256']:
+                            errors.append(f'Audited packet reconstruction differs: {case["id"]}')
+                    except (AssertionError, KeyError, IndexError) as error:
+                        errors.append(f'Audited packet cannot be reconstructed: {case["id"]}: {error}')
+    for item in json.loads((ROOT / 'input-audit/manifest.json').read_text())['private_audit_files']:
+        verify_hash(item, 'Private input audit evidence')
+    for record in json.loads((ROOT / 'input-audit/existing-trials.json').read_text()):
+        verify_hash({'path': record['question_path'], 'sha256': record['question_sha256']},
+                    'Original trial question')
+
 history_commits = 0
 if args.history:
     try:
@@ -215,6 +259,7 @@ print(json.dumps({'errors': errors, 'warnings': warnings, 'canonical_cases': len
                   'private_validation': 'requested' if args.with_private else 'not_requested',
                   'private_paths_skipped': len(skipped_private),
                   'batches_checked': batch_count,
+                  'input_audit_cases_checked': input_audit_count,
                   'historical_skill_inputs_checked': historical_skill_inputs_checked,
                   'history_commits_checked': history_commits}, ensure_ascii=False, indent=2))
 raise SystemExit(bool(errors))

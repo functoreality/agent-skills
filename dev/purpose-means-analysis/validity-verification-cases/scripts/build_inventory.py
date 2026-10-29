@@ -67,7 +67,12 @@ def main():
             raise ValueError(f'Unknown correction id {case_id}')
         merged[case_id].update(changes)
     cases = sorted(merged.values(), key=lambda c: (not c['id'].startswith('T'), c['id']))
+    audit_path = ROOT / 'input-audit/cases.json'
+    audits = {c['id']: c for c in json.loads(audit_path.read_text())} if audit_path.exists() else {}
     for case in cases:
+        if case['id'] in audits:
+            audit = audits[case['id']]
+            case['input_audit'] = {key: audit[key] for key in ['status', 'evaluation_mode', 'generation_eligible', 'summary']}
         case['answer_status'] = ('located' if case['answers'] and case['answer_refs']
                                  else 'not_located')
         for key in ['question_refs', 'answer_refs']:
@@ -83,10 +88,14 @@ def main():
     status = Counter(case['answer_status'] for case in cases)
     intro = ('本轮仅建题解索引，未全量试解。编号题按机制和原题上下文合并错号引用。\n'
              '无编号实例保留分段标识，重复或高度相关实例须结合 related_ids 阅读，\n'
-             '不能把条目总数当作独立测试样本数。题干摘要仅提取问题及约束，答案另表。\n'
+             '不能把条目总数当作独立测试样本数。以下保留早期提取摘要作导航，\n'
+             '并非逐字原题，部分有删减、改写或方案叙述，不能直接交给盲解Agent。\n'
              '引用页码取 Markdown 的 Page 标记，与书内印刷页码可能不同。\n'
              '原书PDF、完整OCR及截图不随仓库公开，本地链接使用前请看[资料说明](../sources/README.md)。\n'
              '已定点补查原PDF，核验过的条目另列PDF补充说明，其余图示仍需按必要性处理。\n\n')
+    if audits:
+        intro += ('全部205条的[题干保真复核](../input-audit/README.md)已另行完成。\n'
+                  '未来使用审核原文包，旧摘要不再作为试解输入。\n\n')
     questions = ['# 题目索引\n\n', intro,
                  f'当前 {len(cases)} 条记录，其中编号题 {len(numbered)} 条。\n\n',
                  '解答见 [答案索引](answers.md)，疑点见各题及分段说明。\n\n']
@@ -97,6 +106,11 @@ def main():
     for case in cases:
         case_id = case['id']
         questions.append(f"## {case_id} {case['title']}\n\n")
+        if case_id in audits:
+            audit = audits[case_id]
+            questions.append(f"输入审核：`{audit['status']}`，用途`{audit['evaluation_mode']}`。\n"
+                             f"{paragraph(audit['summary'])}\n\n"
+                             '早期导航摘要（不得直接用作试解题干）：\n\n')
         questions.extend(f'{paragraph(text)}\n\n' for text in case['statements'])
         if not case['statements']:
             questions.append('本段仅有答案或后文引用，尚未定位完整题干。\n\n')
