@@ -21,6 +21,7 @@ MIDDLE_DOT_PART = rf"[^{PREFIX_PUNCTUATION}·]+"
 PREFIX = re.compile(rf"^({PREFIX_PART})(?:—({PREFIX_PART}))?([：:])(?!//)")
 MIDDLE_DOT_PREFIX = re.compile(rf"^({MIDDLE_DOT_PART})(?:—({MIDDLE_DOT_PART}))?·")
 TASK_BOX = re.compile(r"^\[[ xX]\] +")
+SHORT_LINE_LIMIT = 20
 
 
 def readable_lines(inline):
@@ -62,7 +63,7 @@ def prefix_suggestion(text):
     if middle_dot and (prefix is None or middle_dot[2] is not None):
         prefix = middle_dot
 
-    add_prefix = '可考虑用短语加冒号或中点'
+    add_prefix = '可考虑用短语加冒号或中点' if len(text) > SHORT_LINE_LIMIT else None
     if not prefix:
         return add_prefix
 
