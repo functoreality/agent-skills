@@ -15,8 +15,11 @@ HTML_BREAK = re.compile(r"<br(?:\s[^>]*)?\s*/?>", re.IGNORECASE)
 HTML_WHITESPACE = re.compile(r"[ \t\r\n\f]+")
 
 
-PREFIX_PART = r"[^:：—，。；！？、!?]+"
+PREFIX_PUNCTUATION = ":：—，。；！？、!?"
+PREFIX_PART = rf"[^{PREFIX_PUNCTUATION}]+"
+MIDDLE_DOT_PART = rf"[^{PREFIX_PUNCTUATION}·]+"
 PREFIX = re.compile(rf"^({PREFIX_PART})(?:—({PREFIX_PART}))?([：:])(?!//)")
+MIDDLE_DOT_PREFIX = re.compile(rf"^({MIDDLE_DOT_PART})(?:—({MIDDLE_DOT_PART}))?·")
 TASK_BOX = re.compile(r"^\[[ xX]\] +")
 
 
@@ -48,15 +51,23 @@ def prose_lines(tokens):
 
 def prefix_suggestion(text):
     prefix = PREFIX.match(text)
-    add_prefix = '可考虑用短语加冒号'
+    if prefix and prefix[3] == ':':
+        before = (prefix[2] or prefix[1]).rstrip()
+        after = text[prefix.end():prefix.end() + 1]
+        if before[-1:].isdigit() and after.isdigit():
+            prefix = None
+
+    middle_dot = MIDDLE_DOT_PREFIX.match(text)
+    # Prefer a colon when a single-part prefix contains a middle dot, as in a name.
+    if middle_dot and (prefix is None or middle_dot[2] is not None):
+        prefix = middle_dot
+
+    add_prefix = '可考虑用短语加冒号或中点'
     if not prefix:
         return add_prefix
 
-    topic, summary, colon = prefix.groups()
-    phrases = [part.strip() for part in (topic, summary) if part is not None]
+    phrases = [part.strip() for part in prefix.groups()[:2] if part is not None]
     if not all(phrases):
-        return add_prefix
-    if colon == ':' and phrases[-1][-1].isdigit() and text[prefix.end():prefix.end() + 1].isdigit():
         return add_prefix
 
     longest = max(map(len, phrases))
