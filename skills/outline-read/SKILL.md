@@ -13,7 +13,7 @@ description: >-
 - `outline-read`：按文件、行号展示 Tab 大纲的结构上下文，也可按 UID 定位后展开。
 - `uid-locate`：按 UID 定位，不依赖缩进或大纲结构，可返回位置、连续上下文或 JSON。
 
-需要 Python 3.10+，仅使用标准库。脚本在本 skill 的 `scripts/` 中，
+需要 Python 3.9+，仅使用标准库。脚本在本 skill 的 `scripts/` 中，
 以下路径均相对于本 skill 目录，实际执行时替换为安装位置。
 安装不会自动把这些脚本加入 `PATH`。
 

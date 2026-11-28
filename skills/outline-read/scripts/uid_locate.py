@@ -1,5 +1,7 @@
 """Locate literal line-end UID anchors independently of Markdown structure."""
 
+from __future__ import annotations
+
 import argparse
 import json
 import re
